@@ -378,7 +378,7 @@
                          <a href="#">
                              <img src="assets/img/neurostar-logo.png" class="img-fluid" alt="" /></a>
                          <p class="foot_para">
-                         67-19-1, opp. Ashram School, Nagamalli Thota, Kakinada, 533003
+                             67-19-1, opp. Ashram School, Nagamalli Thota, Kakinada, 533003
                          </p>
                          <p class="foot_para">
                              <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"
@@ -479,13 +479,13 @@
                              </div>
                          </div> -->
                          <div class="d-flex">
-                             <a href="https://www.facebook.com/NeurostarMultiSpecialityHospital/"target="_blank">
+                             <a href="https://www.facebook.com/NeurostarMultiSpecialityHospital/" target="_blank">
                                  <img src="assets/img/srinivasa/facebook.png" class="img-fluid" alt="" /></a>
                              &nbsp;&nbsp;&nbsp;&nbsp;
 
                              <a href="https://www.instagram.com/neurostar_multispeciality_/" target="_blank">
                                  <img src="assets/img/srinivasa/instagram.png" class="img-fluid" alt="" /></a>
-                            
+
                          </div>
                      </div>
                      <div class="col-6 col-md-6 col-lg-2 py-2">
@@ -502,76 +502,76 @@
                              <p class="foot_para">Contact</p>
                          </a>
 
-                        
+
                      </div>
                      <div class="col-6 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
-                         <a href="rootcanal.php">
+                         <a href="neuroSurgery.php">
                              <p class="foot_paraa">Neuro Surgery
                              </p>
                          </a>
-                         <a href="rootcanal.php">
+                         <a href="neurology.php">
                              <p class="foot_paraa">Neurology
                              </p>
                          </a>
-                         <a href="rootcanal.php">
+                         <a href="accidentsTrauma.php">
                              <p class="foot_paraa">Accidents & Trauma Care
                              </p>
                          </a>
-                         <a href="rootcanal.php">
+                         <a href="orthopaedicSurgery.php">
                              <p class="foot_paraa">Orthopaedic Surgery
                              </p>
                          </a>
-                         <a href="rootcanal.php">
+                         <a href="generalMedicine.php">
                              <p class="foot_paraa">General Medicine
                              </p>
                          </a>
-                        
+
 
 
                      </div>
                      <div class="col-12 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
-                         <a href="teethscaling.php">
+                         <a href="criticalCare.php">
                              <p class="foot_para">Critical Care
                              </p>
                          </a>
-                         <a href="toothextraction.php">
+                         <a href="neuroPsychiatric.php">
                              <p class="foot_para">Neuro Psychiatric
                              </p>
                          </a>
-                         <a href="teethcleaning.php">
-                             <p class="foot_para">Dental  </p>
+                         <a href="dental.php">
+                             <p class="foot_para">Dental </p>
                          </a>
-                         <a href="teethwhitning.php">
+                         <a href="maxilloFaciaSurgery.php">
                              <p class="foot_para">Maxillo facial Surgery
                              </p>
                          </a>
-                         <a href="smilemakeover.php">
+                         <a href="plasticCosmetic.php">
                              <p class="foot_para">Plastic & Cosmetic surgery
                              </p>
                          </a>
-                         
+
                      </div>
                      <div class="col-12 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
-                         <a href="teethscaling.php">
-                             <p class="foot_para">Pediatrics  </p>
+                         <a href="pediatrics.php">
+                             <p class="foot_para">Pediatrics </p>
                          </a>
-                         <a href="toothextraction.php">
-                             <p class="foot_para">Physiotherapy  </p>
+                         <a href="physiotherapy.php">
+                             <p class="foot_para">Physiotherapy </p>
                          </a>
-                         <a href="teethcleaning.php">
-                             <p class="foot_para">Radiology  </p>
+                         <a href="radiology.php">
+                             <p class="foot_para">Radiology </p>
                          </a>
-                         <a href="teethwhitning.php">
+                         <a href="neuroRehabilitation.php">
                              <p class="foot_para">Neuro rehabilitation
                              </p>
                          </a>
-                         <a href="smilemakeover.php">
-                             <p class="foot_para">General & Laproscopic Surgery  </p>
+                         <a href="generalLaproscopic.php">
+                             <p class="foot_para">General & Laproscopic Surgery </p>
                          </a>
-                        
+
                      </div>
                  </div>
              </div>
@@ -606,7 +606,7 @@
                          </div>
                      </div>
 
-                    
+
                  </div>
              </div>
          </div>
