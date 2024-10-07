@@ -142,7 +142,7 @@
                      </li>
                      <li><a class="nav-link scrollto" href="doctor.php">Doctors</a></li>
                      <li><a class="nav-link" href="blogs.php">Blogs</a></li>
-                     <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
+                     <!-- <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li> -->
                      <li><a class="nav-link" href="contact.php">Contact Us</a></li>
                      <!-- <li><a class="nav-link scrollto" href="testimonials.php">What Patients Say</a></li> -->
                      <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
