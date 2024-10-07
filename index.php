@@ -201,7 +201,8 @@
                                      </li>
                                      <li><a class="dropdown-item services_drop" href="teethcleaning.php">Maxillo facial
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic & Cosmetic surgery</a></li>
+                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic &
+                                             Cosmetic surgery</a></li>
                                  </div>
                                  <div class="col-md-4">
                                      <li><a class="dropdown-item services_drop" href="smilemakeover.php">Pediatrics</a>
@@ -210,8 +211,10 @@
                                              href="fullmouthrestrotion.php">Physiotherapy</a></li>
                                      <li><a class="dropdown-item services_drop"
                                              href="fullmouthrestrotion.php">Radiology</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro rehabilitation</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General & Laproscopic Surgery</a></li>
+                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro
+                                             rehabilitation</a></li>
+                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General &
+                                             Laproscopic Surgery</a></li>
                                  </div>
                              </div>
                          </ul>
@@ -364,9 +367,9 @@
                      <div class="col-md-4">
                          <div class="abtop">
                              <img src="assets/img/gallery/1.png" alt="" class="abtopimg">
-                            </div>
-                            <h4 class="Intensive">Intensive care
-                            </h4>
+                         </div>
+                         <h4 class="Intensive">Intensive care
+                         </h4>
                          <p class="panel">Neurostar Hospital boasts a panel of highly esteemed specialists across all
                              medical and
                              surgical disciplines.
@@ -375,22 +378,24 @@
                      <div class="col-md-4">
                          <div class="abtop">
                              <img src="assets/img/gallery/2.png" alt="" class="abtopimg">
-                            </div>
-                            <h4 class="Intensive">Specialised Support Service
+                         </div>
+                         <h4 class="Intensive">Specialised Support Service
 
-                            </h4>
-                         <p class="panel">They excel in specialties such as Orthopaedics, Neurology, Urology, Gynecology, Oncology, and more.
-</p>
+                         </h4>
+                         <p class="panel">They excel in specialties such as Orthopaedics, Neurology, Urology,
+                             Gynecology, Oncology, and more.
+                         </p>
                      </div>
                      <div class="col-md-4">
                          <div class="abtop">
                              <img src="assets/img/gallery/3.png" alt="" class="abtopimg">
-                            </div>
-                            <h4 class="Intensive">Medical & Surgical
+                         </div>
+                         <h4 class="Intensive">Medical & Surgical
 
-                            </h4>
-                         <p class="panel">A highly qualified team of doctors, skilled staff, excellent nursing care, and advanced diagnostic services.
-  </p>
+                         </h4>
+                         <p class="panel">A highly qualified team of doctors, skilled staff, excellent nursing care, and
+                             advanced diagnostic services.
+                         </p>
                      </div>
 
 
@@ -566,67 +571,116 @@
 
 
          <section>
-    <div class="sec6">
-        <div class="testmonial">
-            <div class="container">
-                <h2 class="docHead mb-5">Testimonials</h2>
-                <div class="row testrow ">
-                <div class="col-md-12">
-                    <div id="testimonial-slider" class="owl-carousel">
-                        <div class="testimonial">
-                            <div class="testimonial-content">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left"></i>
-                                </div>
-                                <p class="description">
-                                  "The team at Neurostar Hospital provided exceptional care with professionalism and empathy. My experience was seamless, and I highly recommend their services."
-                                </p>
-                            </div>
-                            <h3 class="title">Rama Krishna</h3>
-                        </div>
-    
-                        <div class="testimonial">
-                            <div class="testimonial-content">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left"></i>
-                                </div>
-                                <p class="description">
-                                   "Neurostar Hospital provided top-notch care with a professional and caring team. I felt well looked after, and my experience was positive from start to finish."
-                                </p>
-                            </div>
-                            <h3 class="title">Gowtham</h3>
-                        </div>
-    
-                        <div class="testimonial">
-                            <div class="testimonial-content">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left"></i>
-                                </div>
-                                <p class="description">
-                                  "The medical team here is highly professional and caring, making me feel comfortable and well-supported throughout my treatment. The quality of care exceeded my expectations."
-                                </p>
-                            </div>
-                            <h3 class="title">Lakshmi</h3>
-                        </div>
-    
-                        <div class="testimonial">
-                            <div class="testimonial-content">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left"></i>
-                                </div>
-                                <p class="description">
-                                  "The care I received was exceptional, with a compassionate and skilled team that made me feel at ease. I highly recommend their services for anyone seeking quality treatment."
-                                </p>
-                            </div>
-                            <h3 class="title">Hema Latha</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-      </div>
-    </div>
-   </section>
+             <div class="sec6">
+                 <div class="testmonial">
+                     <div class="container">
+                         <h2 class="docHead mb-5">Testimonials</h2>
+                         <div class="row testrow ">
+                             <div class="col-md-12">
+                                 <div id="testimonial-slider" class="owl-carousel">
+                                     <div class="testimonial">
+                                         <div class="testimonial-content">
+                                             <div class="testimonial-icon">
+                                                 <i class="fa fa-quote-left"></i>
+                                             </div>
+                                             <p class="description">
+                                                 "The team at Neurostar Hospital provided exceptional care with
+                                                 professionalism and empathy. My experience was seamless, and I highly
+                                                 recommend their services."
+                                             </p>
+                                         </div>
+                                         <h3 class="title">Rama Krishna</h3>
+                                     </div>
+
+                                     <div class="testimonial">
+                                         <div class="testimonial-content">
+                                             <div class="testimonial-icon">
+                                                 <i class="fa fa-quote-left"></i>
+                                             </div>
+                                             <p class="description">
+                                                 "Neurostar Hospital provided top-notch care with a professional and
+                                                 caring team. I felt well looked after, and my experience was positive
+                                                 from start to finish."
+                                             </p>
+                                         </div>
+                                         <h3 class="title">Gowtham</h3>
+                                     </div>
+
+                                     <div class="testimonial">
+                                         <div class="testimonial-content">
+                                             <div class="testimonial-icon">
+                                                 <i class="fa fa-quote-left"></i>
+                                             </div>
+                                             <p class="description">
+                                                 "The medical team here is highly professional and caring, making me
+                                                 feel comfortable and well-supported throughout my treatment. The
+                                                 quality of care exceeded my expectations."
+                                             </p>
+                                         </div>
+                                         <h3 class="title">Lakshmi</h3>
+                                     </div>
+
+                                     <div class="testimonial">
+                                         <div class="testimonial-content">
+                                             <div class="testimonial-icon">
+                                                 <i class="fa fa-quote-left"></i>
+                                             </div>
+                                             <p class="description">
+                                                 "The care I received was exceptional, with a compassionate and skilled
+                                                 team that made me feel at ease. I highly recommend their services for
+                                                 anyone seeking quality treatment."
+                                             </p>
+                                         </div>
+                                         <h3 class="title">Hema Latha</h3>
+                                     </div>
+                                 </div>
+                             </div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </section>
+
+
+
+         <section>
+             <div class="container">
+             <h2 class="docHead">Top-Quality Machinery</h2>
+                 <p class="docPara mb-5">With their exceptional expertise and unwavering dedication, our specialists are
+                     committed to
+                     providing outstanding care and innovative treatments for all your neurological needs.
+                 </p>
+                 <div class="row">
+                     <div class="col-md-3">
+                         <img src="assets/img/scan/1.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/2.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/3.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/4.png" alt="">
+                     </div>
+                     <div class="col-md-3">
+                         <img src="assets/img/scan/5.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/6.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/7.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/8.png" alt="">
+                     </div>
+                     <div class="col-md-3">
+                         <img src="assets/img/scan/9.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/10.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/11.png" alt="">
+                     </div>
+                     <div class="col-md-3"> <img src="assets/img/scan/12.png" alt="">
+                     </div>
+                 </div>
+             </div>
+         </section>
 
          <!-- ======= About Us Section ======= -->
          <!-- <section id="about" class="about">
@@ -705,7 +759,7 @@
              </div>
          </section> -->
 
-<!-- 
+         <!-- 
          <section class="happpy_section mt-3  d-md-none ">
              <div class="container">
                  <div class="row">
@@ -1584,8 +1638,8 @@
              </div>
          </section> -->
 
- 
-<!-- 
+
+         <!-- 
          <div class="container last_container ">
              <div class="row">
                  <div class="col-md-6 padding_text_madam order-2 order-md-1">
@@ -1621,7 +1675,7 @@
                          <a href="#">
                              <img src="assets/img/neurostar-logo.png" class="img-fluid" alt="" /></a>
                          <p class="foot_para">
-                         67-19-1, opp. Ashram School, Nagamalli Thota, Kakinada, 533003
+                             67-19-1, opp. Ashram School, Nagamalli Thota, Kakinada, 533003
                          </p>
                          <p class="foot_para">
                              <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"
@@ -1722,13 +1776,13 @@
                              </div>
                          </div> -->
                          <div class="d-flex">
-                             <a href="https://www.facebook.com/NeurostarMultiSpecialityHospital/"target="_blank">
+                             <a href="https://www.facebook.com/NeurostarMultiSpecialityHospital/" target="_blank">
                                  <img src="assets/img/srinivasa/facebook.png" class="img-fluid" alt="" /></a>
                              &nbsp;&nbsp;&nbsp;&nbsp;
 
                              <a href="https://www.instagram.com/neurostar_multispeciality_/" target="_blank">
                                  <img src="assets/img/srinivasa/instagram.png" class="img-fluid" alt="" /></a>
-                            
+
                          </div>
                      </div>
                      <div class="col-6 col-md-6 col-lg-2 py-2">
@@ -1745,7 +1799,7 @@
                              <p class="foot_para">Contact</p>
                          </a>
 
-                        
+
                      </div>
                      <div class="col-6 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
@@ -1769,7 +1823,7 @@
                              <p class="foot_paraa">General Medicine
                              </p>
                          </a>
-                        
+
 
 
                      </div>
@@ -1784,7 +1838,7 @@
                              </p>
                          </a>
                          <a href="teethcleaning.php">
-                             <p class="foot_para">Dental  </p>
+                             <p class="foot_para">Dental </p>
                          </a>
                          <a href="teethwhitning.php">
                              <p class="foot_para">Maxillo facial Surgery
@@ -1794,27 +1848,27 @@
                              <p class="foot_para">Plastic & Cosmetic surgery
                              </p>
                          </a>
-                         
+
                      </div>
                      <div class="col-12 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
                          <a href="teethscaling.php">
-                             <p class="foot_para">Pediatrics  </p>
+                             <p class="foot_para">Pediatrics </p>
                          </a>
                          <a href="toothextraction.php">
-                             <p class="foot_para">Physiotherapy  </p>
+                             <p class="foot_para">Physiotherapy </p>
                          </a>
                          <a href="teethcleaning.php">
-                             <p class="foot_para">Radiology  </p>
+                             <p class="foot_para">Radiology </p>
                          </a>
                          <a href="teethwhitning.php">
                              <p class="foot_para">Neuro rehabilitation
                              </p>
                          </a>
                          <a href="smilemakeover.php">
-                             <p class="foot_para">General & Laproscopic Surgery  </p>
+                             <p class="foot_para">General & Laproscopic Surgery </p>
                          </a>
-                        
+
                      </div>
                  </div>
              </div>
@@ -1849,7 +1903,7 @@
                          </div>
                      </div>
 
-                    
+
                  </div>
              </div>
          </div>
@@ -1940,23 +1994,24 @@
 
 
      <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js">
+     </script>
 
-<script>
-    $(document).ready(function(){
-        $("#testimonial-slider").owlCarousel({
-            items:3,
-            itemsDesktop:[1000,3],
-            itemsDesktopSmall:[980,2],
-            itemsTablet:[768,2],
-            itemsMobile:[650,1],
-            pagination:true,
-            navigation:false,
-            slideSpeed:1000,
-            autoPlay:true
-        });
-    });
-</script>
+     <script>
+     $(document).ready(function() {
+         $("#testimonial-slider").owlCarousel({
+             items: 3,
+             itemsDesktop: [1000, 3],
+             itemsDesktopSmall: [980, 2],
+             itemsTablet: [768, 2],
+             itemsMobile: [650, 1],
+             pagination: true,
+             navigation: false,
+             slideSpeed: 1000,
+             autoPlay: true
+         });
+     });
+     </script>
 
  </body>
 
