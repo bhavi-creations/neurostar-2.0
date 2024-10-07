@@ -201,8 +201,7 @@
                                      </li>
                                      <li><a class="dropdown-item services_drop" href="teethcleaning.php">Maxillo facial
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic &
-                                             Cosmetic surgery</a></li>
+                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic & Cosmetic surgery</a></li>
                                  </div>
                                  <div class="col-md-4">
                                      <li><a class="dropdown-item services_drop" href="smilemakeover.php">Pediatrics</a>
@@ -211,10 +210,8 @@
                                              href="fullmouthrestrotion.php">Physiotherapy</a></li>
                                      <li><a class="dropdown-item services_drop"
                                              href="fullmouthrestrotion.php">Radiology</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro
-                                             rehabilitation</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General &
-                                             Laproscopic Surgery</a></li>
+                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro rehabilitation</a></li>
+                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General & Laproscopic Surgery</a></li>
                                  </div>
                              </div>
                          </ul>
