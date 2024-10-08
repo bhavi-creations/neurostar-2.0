@@ -2,47 +2,55 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+     <meta charset="utf-8">
+     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Srinivasa</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+     <title>Nuerostar Multi Speciality Hospital</title>
+     <meta content="" name="description">
+     <meta content="" name="keywords">
 
-  <!-- Favicons -->
-  <link href="assets/img/srinivasa/tittle.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+     <!-- Favicons -->
+     <link href="assets/img/neurostar-logo.png" rel="icon">
+     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-    rel="stylesheet">
+     <!-- Google Fonts -->
+     <link
+         href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+         rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-  <link href="assets/css/style.css" rel="stylesheet">
-  <link href="assets/css/style1.css" rel="stylesheet">
+     <!-- Vendor CSS Files -->
 
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+     <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+     <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+     <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+     <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+     <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+     <link href="assets/css/style.css" rel="stylesheet">
+     <link href="assets/css/style1.css" rel="stylesheet">
 
-  <!-- Bootstrap CSS -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 
-  <!-- Bootstrap JS and dependencies -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+     <!-- Bootstrap CSS -->
+     <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
 
-</head>
+     <!-- Bootstrap JS and dependencies -->
+
+     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.min.js"></script>
+     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css">
+ 
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
+
+ </head>
  
 
 <body>
@@ -79,7 +87,7 @@
      </header>
 
 
-     <header id="header1" class="main_images onlypad">
+ <header id="header1" class="main_images onlypad">
          <div class="container d-flex align-items-center">
              <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
                  <a href="index.php">
@@ -91,10 +99,10 @@
                  <i class="bi bi-list mobile-nav-toggle"></i>
                  <ul>
 
-                     <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-                     <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
+                     <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+                     <li><a class="nav-link scrollto active" href="about.php">About Us</a></li>
                      <li class="nav-item dropdown">
-                         <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button"
+                         <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button"
                              data-bs-toggle="dropdown" aria-expanded="false">
                              Services
                          </a>
@@ -102,39 +110,39 @@
                              style="width:800px;">
                              <div class="row  ">
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="rootcanal.php">Neuro Surgery</a>
+                                     <li><a class="dropdown-item services_drop" href="neuroSurgery.php">Neuro Surgery</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalbraces.php">Neurology</a>
+                                     <li><a class="dropdown-item services_drop" href="neurology.php">Neurology</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalimplents.php">Accidents &
+                                     <li><a class="dropdown-item services_drop" href="accidentsTrauma.php">Accidents &
                                              Trauma Care</a></li>
-                                     <li><a class="dropdown-item services_drop" href="bridgetreatment.php">Orthopaedic
+                                     <li><a class="dropdown-item services_drop" href="orthopaedicSurgery.php">Orthopaedic
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethfilling.php">General
+                                     <li><a class="dropdown-item services_drop" href="generalMedicine.php">General
                                              Medicine</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="dentures.php">Critical Care</a>
+                                     <li><a class="dropdown-item services_drop" href="criticalCare.php">Critical Care</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethscaling.php">Neuro
+                                     <li><a class="dropdown-item services_drop" href="neuroPsychiatric.php">Neuro
                                              Psychiatric</a></li>
-                                     <li><a class="dropdown-item services_drop" href="toothextraction.php">Dental</a>
+                                     <li><a class="dropdown-item services_drop" href="dental.php">Dental</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethcleaning.php">Maxillo facial
+                                     <li><a class="dropdown-item services_drop" href="maxilloFaciaSurgery.php">Maxillo facial
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic &
+                                     <li><a class="dropdown-item services_drop" href="plasticCosmetic.php">Plastic &
                                              Cosmetic surgery</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="smilemakeover.php">Pediatrics</a>
+                                     <li><a class="dropdown-item services_drop" href="pediatrics.php">Pediatrics</a>
                                      </li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Physiotherapy</a></li>
+                                             href="physiotherapy.php">Physiotherapy</a></li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Radiology</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro
+                                             href="radiology.php">Radiology</a></li>
+                                     <li><a class="dropdown-item services_drop" href="neuroRehabilitation.php">Neuro
                                              rehabilitation</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General &
+                                     <li><a class="dropdown-item services_drop" href="generalLaproscopic.php">General &
                                              Laproscopic Surgery</a></li>
                                  </div>
                              </div>
@@ -198,7 +206,7 @@
                  </p>
                  <div class="row splcrad mt-4">
                      <div class="col-md-6">
-                         <img src="assets/img/srinivasa/about.png" alt="">
+                         <img src="assets/img/srinivasa/about.png" alt="" class="img-fluid" >
                      </div>
                      <div class="col-md-6">
                          <p class="nuero">“At NEUROSTAR Hospital, our primary focus is patient-centered care, delivered
@@ -341,49 +349,8 @@
                              9885943399
                          </p>
 
-                         <!-- <div class="d-flex">
-                             <div class="d-md-none">
-                                 <p class="foot_para">
-                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="15" viewBox="0 0 14 15"
-                                         fill="none">
-                                         <g clip-path="url(#clip0_94_734)">
-                                             <path
-                                                 d="M13.6189 10.4377L11.6652 8.48393C10.9674 7.78617 9.7812 8.0653 9.50209 8.97237C9.29276 9.60038 8.595 9.94927 7.96701 9.80969C6.57148 9.4608 4.68751 7.64661 4.33863 6.18131C4.1293 5.55329 4.54796 4.85553 5.17595 4.64622C6.08304 4.36712 6.36215 3.18092 5.66439 2.48315L3.71064 0.529413C3.15243 0.0409771 2.31511 0.0409771 1.82668 0.529413L0.500926 1.85517C-0.824828 3.2507 0.640479 6.94885 3.91997 10.2283C7.19947 13.5078 10.8976 15.0429 12.2932 13.6474L13.6189 12.3216C14.1074 11.7634 14.1074 10.9261 13.6189 10.4377Z"
-                                                 fill=" #000A2D" />
-                                         </g>
-                                         <defs>
-                                             <clipPath id="clip0_94_734">
-                                                 <rect width="14" height="14" fill="white"
-                                                     transform="translate(0 0.164062)" />
-                                             </clipPath>
-                                         </defs>
-                                     </svg>
-
-                                     +91-08842342346 
-                                 </p>
-                             </div>
-                             &nbsp;&nbsp; &nbsp;&nbsp;
-                             <div class="d-md-none">
-                                 <p class="foot_para">
-                                     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="15" viewBox="0 0 14 15"
-                                         fill="none">
-                                         <g clip-path="url(#clip0_94_734)">
-                                             <path
-                                                 d="M13.6189 10.4377L11.6652 8.48393C10.9674 7.78617 9.7812 8.0653 9.50209 8.97237C9.29276 9.60038 8.595 9.94927 7.96701 9.80969C6.57148 9.4608 4.68751 7.64661 4.33863 6.18131C4.1293 5.55329 4.54796 4.85553 5.17595 4.64622C6.08304 4.36712 6.36215 3.18092 5.66439 2.48315L3.71064 0.529413C3.15243 0.0409771 2.31511 0.0409771 1.82668 0.529413L0.500926 1.85517C-0.824828 3.2507 0.640479 6.94885 3.91997 10.2283C7.19947 13.5078 10.8976 15.0429 12.2932 13.6474L13.6189 12.3216C14.1074 11.7634 14.1074 10.9261 13.6189 10.4377Z"
-                                                 fill=" #000A2D" />
-                                         </g>
-                                         <defs>
-                                             <clipPath id="clip0_94_734">
-                                                 <rect width="14" height="14" fill=" #000A2D"
-                                                     transform="translate(0 0.164062)" />
-                                             </clipPath>
-                                         </defs>
-                                     </svg>
-
-                                     +91-9290019948
-                                 </p>
-                             </div>
-                         </div> -->
+                    
+                         
                          <div class="d-flex">
                              <a href="https://www.facebook.com/NeurostarMultiSpecialityHospital/" target="_blank">
                                  <img src="assets/img/srinivasa/facebook.png" class="img-fluid" alt="" /></a>

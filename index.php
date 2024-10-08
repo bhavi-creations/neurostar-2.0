@@ -86,78 +86,6 @@
          </div>
      </header>
 
-
-     <!-- <header id="header" class="  onlypad">
-         <div class="container d-flex align-items-center">
-             <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
-                 <a href="index.php">
-                     <img src="assets/img/srinivasa/image 1.png" class="img-fluid  " alt="">
-                 </a>
-             </div>
-
-             <nav id="navbar" class="navbar order-lg-0">
-                 <i class="bi bi-list mobile-nav-toggle"></i>
-                 <ul>
-                     <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-                     <li><a class="nav-link scrollto" href="about.php">About</a></li>
-                     <li class="nav-item dropdown">
-                         <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                             Services
-                         </a>
-                         <ul class="dropdown-menu services_drop_menu  mt-3" aria-labelledby="servicesDropdown" style="width:700px;">
-                             <div class="row  ">
-                                 <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="rootcanal.php">Root Canal</a></li>
-                                     <li><a class="dropdown-item services_drop" href="dentalbraces.php">Dental Braces</a></li>
-                                     <li><a class="dropdown-item services_drop" href="dentalimplents.php">Dental Implants</a></li>
-                                     <li><a class="dropdown-item services_drop" href="bridgetreatment.php">Crown & Bridge</a></li>
-                                 </div>
-                                 <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="teethfilling.php">Teeth Filling</a></li>
-                                     <li><a class="dropdown-item services_drop" href="dentures.php">Dentures</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethscaling.php">Teeth Scaling</a></li>
-                                     <li><a class="dropdown-item services_drop" href="toothextraction.php">Tooth Extraction</a></li>
-                                 </div>
-                                 <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="teethcleaning.php">Teeth Cleaning</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Teeth whitening</a></li>
-                                     <li><a class="dropdown-item services_drop" href="smilemakeover.php">Smile Makeover</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Full Mouth Restoration</a></li>
-                                 </div>
-                             </div>
-                         </ul>
-                     </li>
-                     <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li>
-                     <li><a class="nav-link" href="blogs.php">Blogs</a></li>
-                     <li><a class="nav-link scrollto" href="testimonials.php">What Patients Say</a></li>
-                     <li><a href="appointment.php" class="appointment-btn scrollto d-lg-none" style="z-index: 999;">
-                             Appointment
-                         </a></li>
-                 </ul>
-             </nav>
-
-             <a href="appointment.php" id="only_index_btn" class="appointment-btn scrollto d-none d-lg-block" style="z-index: 999;">
-                 For Appointment
-             </a>
-         </div>
-
-         <script>
-             // jQuery needed to manage hover and click behavior
-             $(document).ready(function() {
-                 // Ensure that the dropdown opens on hover
-                 $('#servicesDropdown').hover(function() {
-                     $(this).dropdown('toggle');
-                 });
-
-                 // Make sure the dropdown also works on click
-                 $('#servicesDropdown').click(function(e) {
-                     e.stopPropagation(); // Prevents the click from closing the dropdown immediately
-                     window.location.href = $(this).attr('href'); // Redirect to the link
-                 });
-             });
-         </script>
-     </header> -->
-
      <header id="header1" class="main_images onlypad">
          <div class="container d-flex align-items-center">
              <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
@@ -173,7 +101,7 @@
                      <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
                      <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
                      <li class="nav-item dropdown">
-                         <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button"
+                         <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button"
                              data-bs-toggle="dropdown" aria-expanded="false">
                              Services
                          </a>
@@ -181,39 +109,39 @@
                              style="width:800px;">
                              <div class="row  ">
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="rootcanal.php">Neuro Surgery</a>
+                                     <li><a class="dropdown-item services_drop" href="neuroSurgery.php">Neuro Surgery</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalbraces.php">Neurology</a>
+                                     <li><a class="dropdown-item services_drop" href="neurology.php">Neurology</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalimplents.php">Accidents &
+                                     <li><a class="dropdown-item services_drop" href="accidentsTrauma.php">Accidents &
                                              Trauma Care</a></li>
-                                     <li><a class="dropdown-item services_drop" href="bridgetreatment.php">Orthopaedic
+                                     <li><a class="dropdown-item services_drop" href="orthopaedicSurgery.php">Orthopaedic
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethfilling.php">General
+                                     <li><a class="dropdown-item services_drop" href="generalMedicine.php">General
                                              Medicine</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="dentures.php">Critical Care</a>
+                                     <li><a class="dropdown-item services_drop" href="criticalCare.php">Critical Care</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethscaling.php">Neuro
+                                     <li><a class="dropdown-item services_drop" href="neuroPsychiatric.php">Neuro
                                              Psychiatric</a></li>
-                                     <li><a class="dropdown-item services_drop" href="toothextraction.php">Dental</a>
+                                     <li><a class="dropdown-item services_drop" href="dental.php">Dental</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethcleaning.php">Maxillo facial
+                                     <li><a class="dropdown-item services_drop" href="maxilloFaciaSurgery.php">Maxillo facial
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic &
+                                     <li><a class="dropdown-item services_drop" href="plasticCosmetic.php">Plastic &
                                              Cosmetic surgery</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="smilemakeover.php">Pediatrics</a>
+                                     <li><a class="dropdown-item services_drop" href="pediatrics.php">Pediatrics</a>
                                      </li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Physiotherapy</a></li>
+                                             href="physiotherapy.php">Physiotherapy</a></li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Radiology</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro
+                                             href="radiology.php">Radiology</a></li>
+                                     <li><a class="dropdown-item services_drop" href="neuroRehabilitation.php">Neuro
                                              rehabilitation</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General &
+                                     <li><a class="dropdown-item services_drop" href="generalLaproscopic.php">General &
                                              Laproscopic Surgery</a></li>
                                  </div>
                              </div>
@@ -289,17 +217,7 @@
                          </li>
 
                      </ul>
-                     <!-- <div class='cs_description'>
-			<label class='num0'>
-				<span class="cs_title"><span class="cs_wrapper"> </span></span>
-			</label>
-			<label class='num1'>
-				<span class="cs_title"><span class="cs_wrapper"> </span></span>
-			</label>
-			<label class='num2'>
-				<span class="cs_title"><span class="cs_wrapper">   </span></span>
-			</label>
-		</div> -->
+                   
 
                      <div class='cs_arrowprev'>
                          <label class='num0' for='cs_slide1_0'></label>
@@ -311,18 +229,7 @@
                          <label class='num1' for='cs_slide1_1'></label>
                          <label class='num2' for='cs_slide1_2'></label>
                      </div>
-
-                     <!-- <div class='cs_bullets'>
-                         <label class='num0' for='cs_slide1_0'>
-                             <span class='cs_point'></span>
-                         </label>
-                         <label class='num1' for='cs_slide1_1'>
-                             <span class='cs_point'></span>
-                         </label>
-                         <label class='num2' for='cs_slide1_2'>
-                             <span class='cs_point'></span>
-                         </label>
-                     </div> -->
+ 
                  </div>
 
              </div>
@@ -626,40 +533,40 @@
                  </p>
                  <div class="row">
                      <div class="col-md-3 scan1 py-4">
-                         <img src="assets/img/scan/1.png" alt="">
+                         <img src="assets/img/scan/1.png" alt="" class="img-fluid">
                          <h4 class="SCAN" >CT SCAN</h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/2.png" alt="">                         <h4 class="SCAN" >  Ultrasound 2D ECHO
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/2.png" alt="" class="img-fluid">                         <h4 class="SCAN" >  Ultrasound 2D ECHO
                      </h4>
 
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/3.png" alt=""><h4 class="SCAN" >  EEG & NCS
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/3.png" alt="" class="img-fluid"><h4 class="SCAN" >  EEG & NCS
                      </h4>
                      </div>
-                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/4.png" alt=""><h4 class="SCAN" >  Endoscopy
+                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/4.png" alt="" class="img-fluid"><h4 class="SCAN" >  Endoscopy
                      </h4>
                      </div>
                      <div class="col-md-3 scan1 py-4">
-                         <img src="assets/img/scan/5.png" alt=""><h4 class="SCAN" >  X- ray
+                         <img src="assets/img/scan/5.png" alt="" class="img-fluid"><h4 class="SCAN" >  X- ray
                          </h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/6.png" alt=""><h4 class="SCAN" >  Neuro microscope
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/6.png" alt="" class="img-fluid"><h4 class="SCAN" >  Neuro microscope
                      </h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/7.png" alt=""><h4 class="SCAN" >  Ventilators</h4>
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/7.png" alt="" class="img-fluid"><h4 class="SCAN" >  Ventilators</h4>
                      </div>
-                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/8.png" alt=""><h4 class="SCAN" >  Physiotheraphy</h4>
+                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/8.png" alt="" class="img-fluid"><h4 class="SCAN" >  Physiotheraphy</h4>
                      </div>
                      <div class="col-md-3 scan3 py-4">
-                         <img src="assets/img/scan/9.png" alt=""><h4 class="SCAN" >  Lab</h4>
+                         <img src="assets/img/scan/9.png" alt="" class="img-fluid"><h4 class="SCAN" >  Lab</h4>
                      </div>
-                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/10.png" alt=""><h4 class="SCAN" >  electronic dental chair with rvg
+                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/10.png" alt="" class="img-fluid"><h4 class="SCAN" >  electronic dental chair with rvg
                      </h4>
                      </div>
-                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/11.png" alt=""><h4 class="SCAN" >  Beonchoscopy
+                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/11.png" alt="" class="img-fluid"><h4 class="SCAN" >  Beonchoscopy
                      </h4>
                      </div>
-                     <div class="col-md-3  py-4"> <img src="assets/img/scan/12.png" alt=""><h4 class="SCAN" >  24/7 Pharmacy
+                     <div class="col-md-3  py-4"> <img src="assets/img/scan/12.png" alt="" class="img-fluid"><h4 class="SCAN" >  24/7 Pharmacy
                      </h4>
                      </div>
                  </div>

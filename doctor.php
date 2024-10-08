@@ -10,7 +10,7 @@
      <meta content="" name="keywords">
 
      <!-- Favicons -->
-     <link href="assets/img/srinivasa/tittle.png" rel="icon">
+     <link href="assets/img/neurostar-logo.png" rel="icon">
      <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
      <!-- Google Fonts -->
@@ -51,7 +51,6 @@
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
 
  </head>
- 
 
 <body>
 
@@ -99,10 +98,10 @@
                  <i class="bi bi-list mobile-nav-toggle"></i>
                  <ul>
 
-                     <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-                     <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
+                     <li><a class="nav-link scrollto " href="index.php">Home</a></li>
+                     <li><a class="nav-link scrollto " href="about.php">About Us</a></li>
                      <li class="nav-item dropdown">
-                         <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button"
+                         <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button"
                              data-bs-toggle="dropdown" aria-expanded="false">
                              Services
                          </a>
@@ -110,45 +109,45 @@
                              style="width:800px;">
                              <div class="row  ">
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="rootcanal.php">Neuro Surgery</a>
+                                     <li><a class="dropdown-item services_drop" href="neuroSurgery.php">Neuro Surgery</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalbraces.php">Neurology</a>
+                                     <li><a class="dropdown-item services_drop" href="neurology.php">Neurology</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="dentalimplents.php">Accidents &
+                                     <li><a class="dropdown-item services_drop" href="accidentsTrauma.php">Accidents &
                                              Trauma Care</a></li>
-                                     <li><a class="dropdown-item services_drop" href="bridgetreatment.php">Orthopaedic
+                                     <li><a class="dropdown-item services_drop" href="orthopaedicSurgery.php">Orthopaedic
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethfilling.php">General
+                                     <li><a class="dropdown-item services_drop" href="generalMedicine.php">General
                                              Medicine</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="dentures.php">Critical Care</a>
+                                     <li><a class="dropdown-item services_drop" href="criticalCare.php">Critical Care</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethscaling.php">Neuro
+                                     <li><a class="dropdown-item services_drop" href="neuroPsychiatric.php">Neuro
                                              Psychiatric</a></li>
-                                     <li><a class="dropdown-item services_drop" href="toothextraction.php">Dental</a>
+                                     <li><a class="dropdown-item services_drop" href="dental.php">Dental</a>
                                      </li>
-                                     <li><a class="dropdown-item services_drop" href="teethcleaning.php">Maxillo facial
+                                     <li><a class="dropdown-item services_drop" href="maxilloFaciaSurgery.php">Maxillo facial
                                              Surgery</a></li>
-                                     <li><a class="dropdown-item services_drop" href="teethwhitning.php">Plastic &
+                                     <li><a class="dropdown-item services_drop" href="plasticCosmetic.php">Plastic &
                                              Cosmetic surgery</a></li>
                                  </div>
                                  <div class="col-md-4">
-                                     <li><a class="dropdown-item services_drop" href="smilemakeover.php">Pediatrics</a>
+                                     <li><a class="dropdown-item services_drop" href="pediatrics.php">Pediatrics</a>
                                      </li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Physiotherapy</a></li>
+                                             href="physiotherapy.php">Physiotherapy</a></li>
                                      <li><a class="dropdown-item services_drop"
-                                             href="fullmouthrestrotion.php">Radiology</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">Neuro
+                                             href="radiology.php">Radiology</a></li>
+                                     <li><a class="dropdown-item services_drop" href="neuroRehabilitation.php">Neuro
                                              rehabilitation</a></li>
-                                     <li><a class="dropdown-item services_drop" href="fullmouthrestrotion.php">General &
+                                     <li><a class="dropdown-item services_drop" href="generalLaproscopic.php">General &
                                              Laproscopic Surgery</a></li>
                                  </div>
                              </div>
                          </ul>
                      </li>
-                     <li><a class="nav-link scrollto" href="doctor.php">Doctors</a></li>
+                     <li><a class="nav-link scrollto active" href="doctor.php">Doctors</a></li>
                      <li><a class="nav-link" href="blogs.php">Blogs</a></li>
                      <!-- <li><a class="nav-link scrollto" href="gallery.php">Gallery</a></li> -->
                      <li><a class="nav-link" href="contact.php">Contact Us</a></li>

@@ -18,14 +18,12 @@ img.img-fluid.dr_img_padding {
 
 }
 .dr_welcome_text1 {
-  font-family: Poppins;
-  font-size: 34px;
-  font-weight: 700;
-  line-height: 36px;
-  letter-spacing: 0.20000000298023224px;
-  text-align: left;
-  color: #252b42;
-  line-height: 47px;
+  color: #c10056;
+    /* text-align: center ! IMPORTANT; */
+    font-family: 'Poppins';
+    font-size: 32px;
+    font-weight: 600;
+    text-decoration: underline;
 }
  
 
@@ -174,11 +172,11 @@ section.sectionForm {
 button.makee {
   border-radius: 5px;
   padding: 5px 20px;
-  background: #92c138;
+  background: #6f6f6f;
   border: none;
   color: white;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
-
 
 
 .tittle_text{
