@@ -5270,6 +5270,9 @@ a.appointment-btn.scrollto.d-none.d-lg-block:hover {
 	-o-animation: cs_title_text 24000ms infinite 14810ms ease;
 	animation: cs_title_text 24000ms infinite 14810ms ease;
 }/* From Uiverse.io by suleymanlaarabidev */ 
+@media (min-width:768px) {
+  
+
 .card {
   width: 20%;
   height: 260px;
@@ -5279,7 +5282,19 @@ a.appointment-btn.scrollto.d-none.d-lg-block:hover {
   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;  font-size: 30px;
   font-weight: 900;
 }
+}
+@media (max-width:768px) {
 
+.card {
+  /* width: 20%; */
+  height: 190px;
+  background: rgb(252, 196, 220);
+  transition: all 0.4s;
+  border-radius: 10px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;  font-size: 30px;
+  font-weight: 900;
+}
+}
 .card:hover {
   border-radius: 15px;
   cursor: pointer;
@@ -5508,4 +5523,24 @@ section.mt-2.Abouthome1 {
   font-style: normal;
   font-weight: 500;
   line-height: 25.6px;
+}h4.SCAN {
+    color: black;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 21px;
+    font-weight: 600;
+    margin-top: 20px;
 }
+.scan1{
+  border-right: 1px solid rgb(78, 76, 76);
+    border-bottom: 1px solid rgb(78, 76, 76);
+    
+}
+.scan2{
+  /* border-right: 1px solid rgb(78, 76, 76); */
+    border-bottom: 1px solid rgb(78, 76, 76);
+}
+.scan3{
+  border-right: 1px solid rgb(78, 76, 76);
+    /* border-bottom: 1px solid rgb(78, 76, 76); */
+} 

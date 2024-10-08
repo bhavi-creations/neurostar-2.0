@@ -420,7 +420,7 @@
                      providing outstanding care and innovative treatments for all your neurological needs.
                  </p>
                  <div class="row splcrad mt-4">
-                     <div class="card col-md-3">
+                     <div class="card col-md-3 col-12">
                          <div class="first-content">
                              <img src="assets/img/srinivasa/1.png" alt="" class="splimg1 img-fluid">
                              <h6 class="drFace">Dr.M.Ashok <br> kumar</h6>
@@ -436,7 +436,7 @@
 
 
                      </div>
-                     <div class="card col-md-3">
+                     <div class="card col-md-3 col-12">
                          <div class="first-content">
                              <img src="assets/img/srinivasa/2.png" alt="" class="splimg2 img-fluid">
                              <h6 class="drFace"> DR. Kiran Kumar Vale</h6>
@@ -454,7 +454,7 @@
 
 
                      </div>
-                     <div class="card col-md-3">
+                     <div class="card col-md-3 col-12">
                          <div class="first-content">
                              <img src="assets/img/srinivasa/3.png" alt="" class="splimg img-fluid">
                              <h6 class="drFace"> DR. G.V.N.B.R Sasthrulu</h6>
@@ -471,7 +471,7 @@
 
 
                      </div>
-                     <div class="card col-md-3">
+                     <div class="card col-md-3 col-12">
                          <div class="first-content">
                              <img src="assets/img/srinivasa/4.png" alt="" class="splimg3 img-fluid">
                              <h6 class="drFace"> DR.Athili Suryakanth</h6>
@@ -488,7 +488,7 @@
 
                      </div>
                      <div class="row splcrad mt-5">
-                         <div class="card col-md-3">
+                         <div class="card col-md-3 col-12">
                              <div class="first-content">
                                  <img src="assets/img/srinivasa/5.png" alt="" class="splimg4 img-fluid">
                                  <h6 class="drFace"> DR. Ratna <br> Bhushan</h6>
@@ -504,7 +504,7 @@
 
 
                          </div>
-                         <div class="card col-md-3">
+                         <div class="card col-md-3 col-12">
                              <div class="first-content">
                                  <img src="assets/img/srinivasa/6.png" alt="" class="splimg5 img-fluid">
                                  <h6 class="drFace"> DR.Rama <br> Krishna</h6>
@@ -520,7 +520,7 @@
 
 
                          </div>
-                         <div class="card col-md-3">
+                         <div class="card col-md-3 col-12">
                              <div class="first-content">
                                  <img src="assets/img/srinivasa/7.png" alt="" class="splimgg img-fluid">
                                  <h6 class="drFace"> DR.G Dani</h6>
@@ -537,33 +537,7 @@
 
                          </div>
                      </div>
-
-                     <!-- <div class="col-md-4 text-center">
-                         <img src="assets/img/srinivasa/clipboard.png" alt="" class="img-fluid">
-                         <h3 class="mini_con mt-4">Affordable Price</h3>
-                         <p class="mini_para">Our hospital offers high-quality medical care at affordable prices,
-                             ensuring everyone has access to essential health services.
-                             We prioritize cost-effective treatments without compromising on patient safety or care.</p>
-                     </div>
-                     <div class="col-md-4 text-center">
-                         <img src="assets/img/srinivasa/tools.png" alt="" class="img-fluid">
-                         <h3 class="mini_con mt-4">Professional Dentist</h3>
-                         <p class="mini_para">Our hospital features highly skilled and experienced dentists committed to
-                             providing exceptional dental care. With state-of-the-art equipment and personalized
-                             treatment plans, we ensure your dental health is in expert hands.
-                         </p>
-                     </div>
-                     <div class="col-md-4 text-center">
-                         <img src="assets/img/srinivasa/chair.png" alt="" class="img-fluid">
-                         <h3 class="mini_con mt-4">Satisfactory Service</h3>
-                         <p class="mini_para">Our hospital is dedicated to providing patient-centered care that exceeds
-                             expectations. We ensure every visit is met with attentive service, compassionate staff, and
-                             a focus on your comfort and satisfaction.
-                         </p>
-                     </div> -->
-
-
-
+ 
                  </div>
              </div>
          </section>
@@ -646,901 +620,55 @@
          <section>
              <div class="container">
              <h2 class="docHead">Top-Quality Machinery</h2>
-                 <p class="docPara mb-5">With their exceptional expertise and unwavering dedication, our specialists are
-                     committed to
-                     providing outstanding care and innovative treatments for all your neurological needs.
+                 <p class="docPara mb-5">Neurostar Hospital is equipped with top-quality machinery, ensuring precision and excellence in every medical procedure.
                  </p>
                  <div class="row">
-                     <div class="col-md-3">
+                     <div class="col-md-3 scan1 py-4">
                          <img src="assets/img/scan/1.png" alt="">
+                         <h4 class="SCAN" >CT SCAN</h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/2.png" alt="">
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/2.png" alt="">                         <h4 class="SCAN" >  Ultrasound 2D ECHO
+                     </h4>
+
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/3.png" alt="">
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/3.png" alt=""><h4 class="SCAN" >  EEG & NCS
+                     </h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/4.png" alt="">
+                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/4.png" alt=""><h4 class="SCAN" >  Endoscopy
+                     </h4>
                      </div>
-                     <div class="col-md-3">
-                         <img src="assets/img/scan/5.png" alt="">
+                     <div class="col-md-3 scan1 py-4">
+                         <img src="assets/img/scan/5.png" alt=""><h4 class="SCAN" >  X- ray
+                         </h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/6.png" alt="">
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/6.png" alt=""><h4 class="SCAN" >  Neuro microscope
+                     </h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/7.png" alt="">
+                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/7.png" alt=""><h4 class="SCAN" >  Ventilators</h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/8.png" alt="">
+                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/8.png" alt=""><h4 class="SCAN" >  Physiotheraphy</h4>
                      </div>
-                     <div class="col-md-3">
-                         <img src="assets/img/scan/9.png" alt="">
+                     <div class="col-md-3 scan3 py-4">
+                         <img src="assets/img/scan/9.png" alt=""><h4 class="SCAN" >  Lab</h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/10.png" alt="">
+                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/10.png" alt=""><h4 class="SCAN" >  electronic dental chair with rvg
+                     </h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/11.png" alt="">
+                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/11.png" alt=""><h4 class="SCAN" >  Beonchoscopy
+                     </h4>
                      </div>
-                     <div class="col-md-3"> <img src="assets/img/scan/12.png" alt="">
+                     <div class="col-md-3  py-4"> <img src="assets/img/scan/12.png" alt=""><h4 class="SCAN" >  24/7 Pharmacy
+                     </h4>
                      </div>
                  </div>
              </div>
          </section>
 
-         <!-- ======= About Us Section ======= -->
-         <!-- <section id="about" class="about">
-             <div class="container" data-aos="fade-up">
+     
 
+         
 
-                 <div class="row">
-
-
-                     <div class="col-md-6 order-2 order-md-1" data-aos="fade-right">
-                         <iframe class="video-frame   img_padding"
-                             src="https://www.youtube.com/embed/UEm0ustQR1I?start=7&autoplay=1&mute=1&loop=10"
-                             frameborder="0"
-                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                             allowfullscreen>
-                         </iframe>
-                     </div>
-
-
-
-
-
-                     <div class="col-md-6   order-1 order-md-2  content_padding" data-aos="fade-left">
-
-
-
-                         <p class="welcome_text">WELCOME TO </p>
-                         <h2 class="welcome_text_oncology">
-                             Srinivasa Multispeciality Dental Hospital Dentist In Kakinada</h2>
-                         <p class=poetsen_font>
-                             We offer a comprehensive range of dental services designed to meet the needs of your entire
-                             family. Our clinic is committed to providing exceptional care in a welcoming and
-                             professional environment. We strive to ensure that every visit is both friendly and
-                             thorough, reflecting our dedication to your family’s dental health.
-                             <br>
-                             <br>
-                             Our success is measured by each patient and each smile. That’s why we are the best dentist
-                             in Kakinada.
-                         </p>
-
-
-                         
-                     </div>
-
-
-                 </div>
-
-
-
-
-             </div>
-         </section> -->
-         <!-- End About Us Section -->
-
-         <!-- <section>
-             <div class="container">
-                 <div class="section-title text-center">
-                     <h2 class="apporach">Our Approach</h2>
-
-
-                     <p class="svg_apporach"> <svg xmlns="http://www.w3.org/2000/svg" width="266" height="10"
-                             viewBox="0 0 266 10" fill="none">
-                             <path fill-rule="evenodd" clip-rule="evenodd"
-                                 d="M6.11475 7.98364C11.7525 7.38504 26.5688 7.3551 66.7894 7.29524C129.595 7.20545 179.441 6.54699 193.295 5.58923C194.395 5.49944 106.357 4.84098 97.3157 5.31986C83.2214 6.09804 15.912 5.43958 2.36768 4.54167C-1.48249 4.30223 -0.0386618 3.46418 2.47082 3.2846C6.38973 2.9853 16.909 3.01524 45.751 3.0751C66.0331 3.10503 227.396 2.41663 245.031 1.18949C254.932 0.501097 260.948 -0.127436 263.698 0.0222149C266.001 0.141936 266.036 0.501097 264.042 1.48879C262.701 2.14726 264.214 2.53635 265.176 2.71593C266.654 3.01523 266.035 4.03286 264.179 4.84097C261.67 5.94839 257.338 5.91846 259.401 4.81104C259.848 4.5716 259.951 3.973 258.37 4.09272C253.763 4.45188 221.209 6.90615 212.374 7.32517C118.045 11.8746 25.9843 8.55231 6.49286 9.65973C-0.416819 10.0788 2.74587 8.3428 6.11475 7.98364Z"
-                                 fill="#25B4F8" />
-                         </svg></p>
-
-
-                     <p class="  text-center service_text">we recognize that every patient is unique and deserves to
-                         receive dental care that reflects their individual wants and needs. Using the latest advances
-                         in dental technology, our dentists strive to help you achieve a happy, healthy smile you can’t
-                         wait to show off.
-
-                     </p>
-                 </div>
-             </div>
-         </section> -->
-
-         <!-- 
-         <section class="happpy_section mt-3  d-md-none ">
-             <div class="container">
-                 <div class="row">
-                     <div class="col-6">
-
-                         <div class=" ">
-
-                             <div>
-                                 <img src="assets/img/srinivasa/experence.png" alt="" class="approc_image">
-                             </div>
-
-                             &nbsp; &nbsp;
-
-                             <div class="">
-
-                                 <h1 class="text_dental counter  " data-max="10"> <span class="plus_symbol">+</span>
-                                 </h1>
-
-
-                                 <p class="text_para">Year Experience</p>
-                             </div>
-
-                         </div>
-
-                     </div>
-                     <div class="col-6">
-
-                         <div class="">
-
-                             <div>
-                                 <img src="assets/img/srinivasa/docters.png" alt="" class="approc_image">
-                             </div>
-
-                             &nbsp; &nbsp;
-
-                             <div class="">
-                                 <h1 class="text_dental counter  " data-max="10"> <span class="plus_symbol">+</span>
-                                 </h1>
-
-
-                                 <p class="text_para">Doctor & Staff</p>
-                             </div>
-
-                         </div>
-
-                     </div>
-                     <div class="col-6 ">
-
-                         <div class="  ">
-
-                             <div class="">
-                                 <img src="assets/img/srinivasa/happy.png" alt="" class="approc_image">
-                             </div>
-
-                             &nbsp; &nbsp;
-
-                             <div class="">
-                                 <h1 class="text_dental counter  " data-max="8126"> <span class="plus_symbol">+</span>
-                                 </h1>
-
-
-                                 <p class="text_para">Happy  Patients</p>
-                             </div>
-
-                         </div>
-
-                     </div>
-                     <div class="col-6">
-
-                         <div class="">
-
-                             <div>
-                                 <img src="assets/img/srinivasa/implants.png" alt="" class="approc_image">
-                             </div>
-
-                             &nbsp; &nbsp;
-
-                             <div class="">
-                                 <h1 class="text_dental counter  " data-max="500"> <span class="plus_symbol">+</span>
-                                 </h1>
-
-
-                                 <p class="text_para">Implants</p>
-                             </div>
-
-                         </div>
-
-                     </div>
-
-                     <div class="col-6">
-
-                         <div class="">
-
-                             <div>
-                                 <img src="assets/img/srinivasa/invisligners.png" alt="" class="approc_image">
-                             </div>
-
-                             &nbsp; &nbsp;
-
-                             <div class="">
-                                 <h1 class="text_dental counter  " data-max="120"> <span class="plus_symbol">+</span>
-                                 </h1>
-
-
-                                 <p class="text_para">Invisalign</p>
-                             </div>
-
-                         </div>
-
-                     </div>
-                 </div>
-             </div>
-         </section> -->
-
-         <!-- <section class="happpy_section mt-3 d-none d-md-block">
-             <div class="container">
-                 <div class="d-flex flex_div counter_section_spacing">
-                     <div class=" ">
-                         <div class="d-flex flex_div">
-                             <div>
-                                 <img src="assets/img/srinivasa/happy.png" alt="" class="approc_image img-fluid">
-                             </div>
-                             &nbsp; &nbsp;
-                             <div class="marging_img_dix">
-                                 <h1 class="text_dental counter  " data-max="8126"> <span class="plus_symbol">+</span>
-                                 </h1>
-                                 <p class="text_para">Happy Patients</p>
-
-                             </div>
-                         </div>
-                     </div>
-
-                     <div class=" ">
-                         <div class="d-flex flex_div">
-                             <div>
-                                 <img src="assets/img/srinivasa/experence.png" alt="" class="approc_image img-fluid">
-                             </div>
-                             &nbsp; &nbsp;
-                             <div class="marging_img_dix">
-                                 <h1 class="text_dental counter  " data-max="10"> <span class="plus_symbol">+</span>
-                                 </h1>
-                                 <p class="text_para">Year Experience</p>
-
-                             </div>
-                         </div>
-                     </div>
-
-                     <div class=" ">
-                         <div class="d-flex flex_div">
-                             <div>
-                                 <img src="assets/img/srinivasa/docters.png" alt="" class="approc_image img-fluid">
-                             </div>
-                             &nbsp; &nbsp;
-                             <div class="marging_img_dix">
-                                 <h1 class="text_dental counter  " data-max="10"> <span class="plus_symbol">+</span>
-                                 </h1>
-                                 <p class="text_para">Doctor & Staff</p>
-
-                             </div>
-                         </div>
-                     </div>
-
-                     <div class=" ">
-                         <div class="d-flex flex_div">
-                             <div>
-                                 <img src="assets/img/srinivasa/implants.png" alt="" class="approc_image img-fluid">
-                             </div>
-                             &nbsp; &nbsp;
-                             <div class="marging_img_dix">
-                                 <h1 class="text_dental counter  " data-max="500"> <span class="plus_symbol">+</span>
-                                 </h1>
-                                 <p class="text_para">Implants</p>
-                             </div>
-                         </div>
-                     </div>
-
-                     <div class=" ">
-                         <div class="d-flex flex_div">
-                             <div>
-                                 <img src="assets/img/srinivasa/invisligners.png" alt="" class="approc_image img-fluid">
-                             </div>
-                             &nbsp; &nbsp;
-                             <div class="marging_img_dix">
-                                 <h1 class="text_dental counter  " data-max="120"> <span class="plus_symbol">+</span>
-                                 </h1>
-                                 <p class="text_para">Invisalign</p>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-
-             <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-             <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-              <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/js/bootstrap.min.js"></script>
-             <script>
-             function inVisible(element) {
-                  var WindowTop = $(window).scrollTop();
-                 var WindowBottom = WindowTop + $(window).height();
-                 var ElementTop = element.offset().top;
-                 var ElementBottom = ElementTop + element.height();
-                  if ((ElementBottom <= WindowBottom) && ElementTop >= WindowTop) {
-                     animate(element);
-                 }
-             }
-
-             function animate(element) {
-                  if (!element.hasClass('ms-animated')) {
-                     var maxval = element.data('max');
-                     var html = element.html();
-                     element.addClass("ms-animated");
-                     $({
-                         countNum: element.html()
-                     }).animate({
-                         countNum: maxval
-                     }, {
-                         // Duration 5 seconds
-                         duration: 5000,
-                         easing: 'linear',
-                         step: function() {
-                             element.html(Math.floor(this.countNum) + html);
-                         },
-                         complete: function() {
-                             element.html(this.countNum + html);
-                         }
-                     });
-                 }
-             }
-
-              $(function() {
-                  $(window).scroll(function() {
-                      $("h1[data-max]").each(function() {
-                         inVisible($(this));
-                     });
-                 });
-             });
-             </script>
-         </section> -->
-
-
-
-
-
-
-         <!-- <section id="about" class="about">
-             <div class="container" data-aos="fade-up">
-
-
-                 <div class="row">
-
-
-                     <div class="col-12 col-md-4 col-lg-5" data-aos="fade-right">
-                         <img src="assets/img/srinivasa/groupimg.png" alt="" class="img-fluid">
-                     </div>
-
-
-
-
-
-                     <div class="col-12 col-md-8  col-lg-7   content_padding" data-aos="fade-left">
-
-
-
-                         <p class="welcome_text">About us</p>
-                         <h2 class="welcome_text_oncology">
-                             Hear Why We Love What We Do</h2>
-                         <p class=poetsen_font>
-                             Your dental team, led by Dr. Kiran Raju, is dedicated to making our practice
-                             patient-centered. We want each patient to feel like a member of the Srinivasa Dentistry
-                             family, confidently putting their trust in our team. check our testimonials to see why we
-                             are passionate about our patients’ experience. <br><br>
-                             We will help you choose a custom care plan designed to help you accomplish the smile of
-                             your dreams find more about dentist in kakinada at our What Patients Say Section.
-                         </p>
-
-
-
-                         <div class="row">
-                             <div class="col-6">
-
-                                 <p class="tetx_color_about"><i class=" check_mark fa-solid fa-circle-check "></i>
-                                     Modern Equipment </p>
-                                 <p class="tetx_color_about"><i class=" check_mark fa-solid fa-circle-check "></i>
-                                     Comfortable Clinic</p>
-
-                             </div>
-
-                             <div class="col-6">
-
-                                 <p class="tetx_color_about"><i class=" check_mark fa-solid fa-circle-check "></i>
-                                     Always Monitored </p>
-                                 <p class="tetx_color_about"><i class=" check_mark fa-solid fa-circle-check "></i>
-                                     Online Appointment</p>
-
-                             </div>
-                         </div>
-
-
-
-
-
-
-
-                         <div class="d-flex flex-content justify-content-between">
-                             <div class="    ">
-                                 <a href="about.php">
-                                     <button class="read_more_btn">Read More </button>
-                                 </a>
-                             </div>
-                             <div class="   ">
-                                 <a href="appointment.php">
-                                     <button class="app_more_btn">Make an Appointment </button>
-                                 </a>
-                             </div>
-                         </div>
-                     </div>
-
-
-                 </div>
-
-
-
-
-             </div>
-         </section> -->
-
-
-
-         <!-- <section>
-             <div class="container mb-5">
-                 <div class="section-title text-center">
-                     <p class="welcome_text">Our services</p>
-                     <h2 class="apporach">Comprehensive Dental Services </h2>
-
-
-                     <p class="svg_apporach_service"> <svg xmlns="http://www.w3.org/2000/svg" width="266" height="10"
-                             viewBox="0 0 266 10" fill="none">
-                             <path fill-rule="evenodd" clip-rule="evenodd"
-                                 d="M6.11475 7.98364C11.7525 7.38504 26.5688 7.3551 66.7894 7.29524C129.595 7.20545 179.441 6.54699 193.295 5.58923C194.395 5.49944 106.357 4.84098 97.3157 5.31986C83.2214 6.09804 15.912 5.43958 2.36768 4.54167C-1.48249 4.30223 -0.0386618 3.46418 2.47082 3.2846C6.38973 2.9853 16.909 3.01524 45.751 3.0751C66.0331 3.10503 227.396 2.41663 245.031 1.18949C254.932 0.501097 260.948 -0.127436 263.698 0.0222149C266.001 0.141936 266.036 0.501097 264.042 1.48879C262.701 2.14726 264.214 2.53635 265.176 2.71593C266.654 3.01523 266.035 4.03286 264.179 4.84097C261.67 5.94839 257.338 5.91846 259.401 4.81104C259.848 4.5716 259.951 3.973 258.37 4.09272C253.763 4.45188 221.209 6.90615 212.374 7.32517C118.045 11.8746 25.9843 8.55231 6.49286 9.65973C-0.416819 10.0788 2.74587 8.3428 6.11475 7.98364Z"
-                                 fill="#25B4F8" />
-                         </svg>
-                     </p>
-                     <h2 class="apporach"> In kakinada include</h2>
-
-
-                     <p class="  text-center service_text mb-5">General and cosmetic dentistry can give you a smile
-                         you’re happy to show off. Modern cosmetic dentistry techniques make it easier than ever for you
-                         to have a bright, even smile. Visit Srinivasa Dental Clinic in Kakinada.
-
-                     </p>
-                 </div>
-                 <div class="row">
-                     <div class="col-md-6">
-                         <h2 class="welcome_text_oncology mt-5 mb-4">CROWNS, BRIDGES <br> DENTURES</h2>
-                         <p class="svg_apporach_service"> <svg xmlns="http://www.w3.org/2000/svg" width="266"
-                                 height="10" viewBox="0 0 266 10" fill="none">
-                                 <path fill-rule="evenodd" clip-rule="evenodd"
-                                     d="M6.11475 7.98364C11.7525 7.38504 26.5688 7.3551 66.7894 7.29524C129.595 7.20545 179.441 6.54699 193.295 5.58923C194.395 5.49944 106.357 4.84098 97.3157 5.31986C83.2214 6.09804 15.912 5.43958 2.36768 4.54167C-1.48249 4.30223 -0.0386618 3.46418 2.47082 3.2846C6.38973 2.9853 16.909 3.01524 45.751 3.0751C66.0331 3.10503 227.396 2.41663 245.031 1.18949C254.932 0.501097 260.948 -0.127436 263.698 0.0222149C266.001 0.141936 266.036 0.501097 264.042 1.48879C262.701 2.14726 264.214 2.53635 265.176 2.71593C266.654 3.01523 266.035 4.03286 264.179 4.84097C261.67 5.94839 257.338 5.91846 259.401 4.81104C259.848 4.5716 259.951 3.973 258.37 4.09272C253.763 4.45188 221.209 6.90615 212.374 7.32517C118.045 11.8746 25.9843 8.55231 6.49286 9.65973C-0.416819 10.0788 2.74587 8.3428 6.11475 7.98364Z"
-                                     fill="#25B4F8" />
-                             </svg>
-                         </p>
-                         <p class="poetsen_font mt-4">Srinivasa Dental Clinic provides treatments like Dental crowns,
-                             Dental
-                             Bridges, and
-                             Dentures.</p>
-                         <div class="    ">
-                             <a href="services.php">
-                                 <button class="read_more_btn mt-4 mb-2">Read More </button>
-                             </a>
-                         </div>
-                     </div>
-
-                     <style>
-                      .carousel-container {
-                         position: relative;
-                         width: 100%;
-                         overflow: hidden;
-                         margin-top: 0px;
-                     }
-
-                     .carousel {
-                         display: flex;
-                         transition: transform 0.5s ease-in-out;
-                          width: 100%;
-                     }
-
-                     .slide {
-                         min-width: 100%;
-                          box-sizing: border-box;
-                     }
-
-                     .imgCar {
-                         width: 100%;
-                         height: auto;
-
-                     }
-
-                      .prev1,
-                     .next1 {
-                         position: absolute;
-                         top: 50%;
-                         transform: translateY(-50%);
-                         background-color: rgba(0, 0, 0, 0.5);
-                         color: white;
-                         border: none;
-                         padding: 10px;
-                         cursor: pointer;
-                     }
-
-                     .prev1 {
-                         left: 10px;
-                     }
-
-                     .next1 {
-                         right: 10px;
-                     }
-
-                      .prev1,
-                     .next1 {
-                         user-select: none;
-                     }
-                     </style>
-
-                     <div class="col-md-6 carPart">
-                         <div class="row">
-                             <div class="col-10">
-                                 <div class="carousel-container">
-                                     <div class="carousel" id="carouselSlider">
-                                         
-                                         <div class="slide">
-                                             <img src="assets/img/services/equip.jpg" alt="" class="img-fluid imgCar">
-                                         </div>
-                                         <div class="slide">
-                                             <img src="assets/img/services/equip1.jpg" alt="" class="img-fluid imgCar">
-                                         </div>
-                                         <div class="slide">
-                                             <img src="assets/img/services/equipmet.png" alt=""
-                                                 class="img-fluid imgCar">
-                                         </div>
-                                         <div class="slide">
-                                             <img src="assets/img/services/equi.png" alt="" class="img-fluid imgCar">
-                                         </div>
-                                     </div>
-                                     <button class="prev1" onclick="moveSlide(-1)">&#10094;</button>
-                                     <button class="next1" onclick="moveSlide(1)">&#10095;</button>
-                                 </div>
-                             </div>
-                             <div class="col-2 minicar">
-                                 <img src="assets/img/srinivasa/clip_art.png" alt="" class="img-fluid  line_up_img">
-                             </div>
-
-                         </div>
-
-                     </div>
-                 </div>
-             </div>
-
-
-
-
-
-             <script>
-             document.addEventListener('DOMContentLoaded', function() {
-                 const carousel = document.getElementById('carouselSlider');
-                 const slides = document.querySelectorAll('.carousel .slide');
-                 const totalSlides = slides.length;
-                 let currentSlide = 0;
-                 let slideWidth = slides[0].offsetWidth;
-
-                 // Function to update the slide position
-                 function updateSlidePosition() {
-                     carousel.style.transform = `translateX(-${currentSlide * slideWidth}px)`;
-                 }
-
-                 // Function to move to the next or previous slide
-                 function moveSlide(n) {
-                     currentSlide += n;
-
-                     if (currentSlide >= totalSlides) {
-                         currentSlide = 0; // Loop back to the first slide
-                     } else if (currentSlide < 0) {
-                         currentSlide = totalSlides - 1; // Loop to the last slide
-                     }
-
-                     updateSlidePosition(); // Update the position to reflect the move
-                 }
-
-                 // Auto-slide functionality
-                 function autoSlide() {
-                     moveSlide(1); // Move to the next slide
-                 }
-
-                 // Set the auto-slide interval (adjust time as needed)
-                 setInterval(autoSlide, 3000); // Auto-slide every 3 seconds
-
-                 // Handle window resizing to adjust slide width
-                 window.addEventListener('resize', function() {
-                     slideWidth = slides[0].offsetWidth; // Recalculate slide width
-                     updateSlidePosition(); // Adjust the position after resizing
-                 });
-
-                 // Initialize the first slide
-                 updateSlidePosition();
-             });
-             </script>
-         </section> -->
-
-
-
-         <!-- <section>
-             <div class="container">
-                 <div class="section-title text-center">
-
-                     <h2 class="apporach">We’re Welcoming New Patients </h2>
-
-
-                     <p class="svg_apporach_service"> <svg xmlns="http://www.w3.org/2000/svg" width="266" height="10"
-                             viewBox="0 0 266 10" fill="none">
-                             <path fill-rule="evenodd" clip-rule="evenodd"
-                                 d="M6.11475 7.98364C11.7525 7.38504 26.5688 7.3551 66.7894 7.29524C129.595 7.20545 179.441 6.54699 193.295 5.58923C194.395 5.49944 106.357 4.84098 97.3157 5.31986C83.2214 6.09804 15.912 5.43958 2.36768 4.54167C-1.48249 4.30223 -0.0386618 3.46418 2.47082 3.2846C6.38973 2.9853 16.909 3.01524 45.751 3.0751C66.0331 3.10503 227.396 2.41663 245.031 1.18949C254.932 0.501097 260.948 -0.127436 263.698 0.0222149C266.001 0.141936 266.036 0.501097 264.042 1.48879C262.701 2.14726 264.214 2.53635 265.176 2.71593C266.654 3.01523 266.035 4.03286 264.179 4.84097C261.67 5.94839 257.338 5.91846 259.401 4.81104C259.848 4.5716 259.951 3.973 258.37 4.09272C253.763 4.45188 221.209 6.90615 212.374 7.32517C118.045 11.8746 25.9843 8.55231 6.49286 9.65973C-0.416819 10.0788 2.74587 8.3428 6.11475 7.98364Z"
-                                 fill="#25B4F8" />
-                         </svg>
-                     </p>
-                     <h2 class="apporach"> And Can’t Wait To Meet You.</h2>
-
-
-                     <p class="  text-center service_text">We use only the highest quality materials available to ensure
-                         we provide the best products for our patients.
-                     </p>
-
-
- 
-
-
-                     <div class="container slie_net_container d-md-none">
-                         <div class="row slie_net_row">
-                             <div class="row__inner">
-                                 <div class="tile">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/0_VBrWMD-YQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="container slie_net_container d-none d-md-block d-lg-none">
-                         <div class="row slie_net_row">
-                             <div class="row__inner">
-                                 <div class="tile">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/0_VBrWMD-YQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile ">
-                                     <div class="tile__media ">
-                                         <div class="video-container  ">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/rBygYmSqetQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="container slie_net_container d-none d-lg-block d-xl-none">
-                         <div class="row slie_net_row">
-                             <div class="row__inner">
-                                 <div class="tile">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/0_VBrWMD-YQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile ">
-                                     <div class="tile__media ">
-                                         <div class="video-container  ">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/rBygYmSqetQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile  ">
-                                     <div class="tile__media ">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/CnfCavHZ3XY?mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="container slie_net_container d-none d-xl-block ">
-                         <div class="row slie_net_row">
-                             <div class="row__inner">
-                                 <div class="tile">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/0_VBrWMD-YQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile ">
-                                     <div class="tile__media ">
-                                         <div class="video-container  ">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/rBygYmSqetQ?start=7&mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile  ">
-                                     <div class="tile__media ">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/CnfCavHZ3XY?mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile  ">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/7fh5Lz3KApY?mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 <div class="tile  ">
-                                     <div class="tile__media">
-                                         <div class="video-container">
-                                             <iframe class="img-fluid"
-                                                 src="https://www.youtube.com/embed/PbZjygD7UfQ?mute=1&loop=1"
-                                                 frameborder="0"
-                                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                 allowfullscreen>
-                                             </iframe>
-                                         </div>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-
-
-
-                     <div class="    ">
-                         <a href="https://www.youtube.com/@srinivasadentalkakinada/featured" target="_blank">
-                             <button class="read_more_btn">Watch playlist </button>
-                         </a>
-                     </div>
-                 </div>
-             </div>
-         </section> -->
-
-
-         <!-- <section>
-             <div class="container">
-                 <p class="welcome_text">Our Testimonial</p>
-
-                 <div class="row">
-
-                     <div class="col-lg-6">
-                         <h1 class="service_test_text">The Honest Review
-                             From<br> Our Client</h1>
-                         <p class="service_test_text_para">"I had an exceptional experience at Srinivasa Dental. The
-                             staff were incredibly attentive and made me feel comfortable throughout my treatment. I
-                             highly recommend this clinic for its professionalism and compassionate care."</p>
-                         <a href="testimonials.php" style="text-decoration: none;"> <button class="reviews_btn mb-5">
-                                 See All Review</button></a>
-                     </div>
-
-                     <div class="col-lg-6">
-
-                         <div class="card mb-3 bodu_card" style="max-width: 540px;">
-                             <div class="row g-0">
-
-                                 <div class="col-md-8">
-                                     <div class="card-body ">
-                                         <img src="assets/img/services/1.png" alt=""
-                                             class="img-fluid testy   d-none d-md-block">
-
-
-                                         <p class="card-text  text_of_the_card">"My name is Kamala suffering from tooth
-                                             pains severely and as suggested by my brother I have gone to the Srinivasa
-                                             Multi Speciality Dental hospital Kakinada for the treatment. Dr. Kiran Raju
-                                             garu checked and advised me for the full mouth rehabilitation due to
-                                             cavities and deterioration..."</p>
-                                         <h6 class="card-title name_of_the_card kamall">Mrs.Kamala Gandi</h6>
-                                    
-                                     </div>
-                                 </div>
-                                 <div class="col-md-4 d-flex flex-row justify-content-end">
-                                     <img src="assets/img/services/kamalagandhi.png" class="img-fluid rounded-start"
-                                         alt="...">
-                                 </div>
-
-
-                             </div>
-                         </div>
-
-                         <div class="card mb-3 bodu_card" style="max-width: 540px;">
-                             <div class="row g-0">
-
-                                 <div class="col-md-8">
-                                     <div class="card-body ">
-                                         <img src="assets/img/services/1.png" alt=""
-                                             class="img-fluid testy   d-none d-md-block">
-
-
-                                         <p class="card-text  text_of_the_card">" I am Ravi Babu and visited Srinivasa
-                                             Multi Speciality Dental Hospital for replacement of metal crowns with
-                                             zirconia crowns. The hospital ambiance is pleasant, elegant, neat and
-                                             clean. Doctors and supporting staff are excellent..."</p>
-                                         <h6 class="card-title name_of_the_card kamall">Mr.M Ravi Babu</h6>
-
-                                         
-                                     </div>
-                                 </div>
-                                 <div class="col-md-4 d-flex flex-row justify-content-end">
-                                     <img src="assets/img/services/ravi.png" class="img-fluid rounded-start" alt="...">
-                                 </div>
-
-
-                             </div>
-                         </div>
-                     </div>
-
-                 </div>
-             </div>
-         </section> -->
-
-
-
+       
          <script>
          document.addEventListener('DOMContentLoaded', function() {
              var swiper = new Swiper('.testimonials-slider', {
@@ -1569,100 +697,7 @@
          </script>
 
 
-
-         <!-- <section>
-             <div class="container">
-                 <div class="section-title text-center">
-                     <p class="our_blogs my-2">Our Blogs</p>
-                     <h2 class="apporach">Blogs & articles </h2>
-
-
-
-                     <p class="mb-5  text-center service_text">General and cosmetic dentistry can give you a smile
-                         you’re proud to show off. Modern cosmetic dentistry techniques make it easier than ever to
-                         achieve a bright, even smile. Visit Srinivasa Dental Clinic in Kakinada.
-
-                     </p>
-                 </div>
-             </div>
-             <div class="container">
-                 <div class="row">
-
-
-
-
-                     <?php
-                        include './db.connection/db_connection.php';
-                         $sql = "SELECT * FROM blog ORDER BY time DESC LIMIT 3";
-                        $result = $conn->query($sql);
-                        ?>
-
-                     <?php while ($row = $result->fetch_assoc()) : ?>
-                     <div class="col px-5 py-2">
-                         <div class="card h-100">
-                             <video class="custom-video" autoplay muted controls style="width: 100%; height: auto;">
-                                 <source src="admin/public/uploads/videos/<?php echo $row['video']; ?>"
-                                     type="video/mp4">
-                                 Your browser does not support the video tag.
-                             </video>
-                             <div class="card-body">
-
-
-                                 <h5 class="card-title"><?php echo $row['title']; ?></h5>
-
-                             </div>
-
-
-                             <div class="card-footer">
-                                 <small class="text-muted">Posted On:
-                                     <?php echo date("F j, Y, g:i a", strtotime($row['time'])); ?></small>
-                             </div>
-                         </div>
-                     </div>
-                     <?php endwhile; ?>
-
-                     <div class="mt-5 d-none d-md-block">
-                         <a href="blogs.php" style="text-decoration: none;">
-                             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
-                                     class="fa-solid fa-arrow-right mt-1"></i></p>
-                         </a>
-                     </div>
-
-                     <div class="d-flex flex-row justify-content-center mt-4">
-                         <a href="blogs.php" style="text-decoration: none;">
-                             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
-                         </a>
-                     </div>
-
-                 </div>
-             </div>
-         </section> -->
-
-
-         <!-- 
-         <div class="container last_container ">
-             <div class="row">
-                 <div class="col-md-6 padding_text_madam order-2 order-md-1">
-                     <h1 class="madam_text">Become The Next
-                         Our </h1>
-                     <p class="text_mam">Scheduling an appointment at Srinivasa Dental is easy and convenient. Simply
-                         call us at +91-9290019948 or use our online booking system to choose a time that works for you.
-                     </p>
-                     <div class=" btn_div   ">
-                         <a href="appointment.php">
-                             <button class="read_more_btn">Book an Appointment </button>
-                         </a>
-                     </div>
-                 </div>
-                 <div class="col-md-6 order-1 order-md-2">
-                     <img src="assets/img/srinivasa/deep.png" class="img-fluid mam_image" alt="">
-                 </div>
-
-             </div>
-         </div> -->
-
-
-
+ 
 
      </main><!-- End #main -->
 
