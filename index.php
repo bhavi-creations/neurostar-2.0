@@ -165,19 +165,19 @@
 
 
          <script>
-         // jQuery needed to manage hover and click behavior
-         $(document).ready(function() {
-             // Ensure that the dropdown opens on hover
-             $('#servicesDropdown').hover(function() {
-                 $(this).dropdown('toggle');
-             });
+             // jQuery needed to manage hover and click behavior
+             $(document).ready(function() {
+                 // Ensure that the dropdown opens on hover
+                 $('#servicesDropdown').hover(function() {
+                     $(this).dropdown('toggle');
+                 });
 
-             // Make sure the dropdown also works on click
-             $('#servicesDropdown').click(function(e) {
-                 e.stopPropagation(); // Prevents the click from closing the dropdown immediately
-                 window.location.href = $(this).attr('href'); // Redirect to the link
+                 // Make sure the dropdown also works on click
+                 $('#servicesDropdown').click(function(e) {
+                     e.stopPropagation(); // Prevents the click from closing the dropdown immediately
+                     window.location.href = $(this).attr('href'); // Redirect to the link
+                 });
              });
-         });
          </script>
      </header>
      <marquee height="30" direction="left" class="markFull" loop="3" behavior="1">
@@ -217,7 +217,7 @@
                          </li>
 
                      </ul>
-                   
+
 
                      <div class='cs_arrowprev'>
                          <label class='num0' for='cs_slide1_0'></label>
@@ -229,7 +229,7 @@
                          <label class='num1' for='cs_slide1_1'></label>
                          <label class='num2' for='cs_slide1_2'></label>
                      </div>
- 
+
                  </div>
 
              </div>
@@ -394,60 +394,60 @@
 
 
                      </div>
-                   
- 
+
+
                  </div>
 
                  <div class="row splcrad mt-5">
-                         <div class="card col-md-3 col-12">
-                             <div class="first-content">
-                                 <img src="assets/img/srinivasa/5.png" alt="" class="splimg4 img-fluid">
-                                 <h6 class="drFace"> DR. Ratna <br> Bhushan</h6>
-
-                             </div>
-                             <div class="second-content">
-                                 <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
-                                 <h5 class="drname">DR. Ratna Bhushan</h5>
-                                 <p class="drstudy">Plastic & Cosmetic Surgeon M.B.B.S.,M.S.,M.CH.,
-                                 </p>
-                                 <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
-                             </div>
-
+                     <div class="card col-md-3 col-12">
+                         <div class="first-content">
+                             <img src="assets/img/srinivasa/5.png" alt="" class="splimg4 img-fluid">
+                             <h6 class="drFace"> DR. Ratna <br> Bhushan</h6>
 
                          </div>
-                         <div class="card col-md-3 col-12">
-                             <div class="first-content">
-                                 <img src="assets/img/srinivasa/6.png" alt="" class="splimg5 img-fluid">
-                                 <h6 class="drFace"> DR.Rama <br> Krishna</h6>
-
-                             </div>
-                             <div class="second-content">
-                                 <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
-                                 <h5 class="drname">DR.Rama Krishna</h5>
-                                 <p class="drstudy">M.S (Ortho) Consultant Orthopaedic Surgeon
-                                 </p>
-                                 <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
-                             </div>
-
-
+                         <div class="second-content">
+                             <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
+                             <h5 class="drname">DR. Ratna Bhushan</h5>
+                             <p class="drstudy">Plastic & Cosmetic Surgeon M.B.B.S.,M.S.,M.CH.,
+                             </p>
+                             <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
                          </div>
-                         <div class="card col-md-3 col-12">
-                             <div class="first-content">
-                                 <img src="assets/img/srinivasa/7.png" alt="" class="splimgg img-fluid">
-                                 <h6 class="drFace"> DR.G Dani</h6>
-
-                             </div>
-                             <div class="second-content">
-                                 <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
-                                 <h5 class="drname">DR.G Dani</h5>
-                                 <p class="drstudy">MBBS DA (FIICM) INTENSIVIST & ANESTHETIST
-                                 </p>
-                                 <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
-                             </div>
 
 
-                         </div>
                      </div>
+                     <div class="card col-md-3 col-12">
+                         <div class="first-content">
+                             <img src="assets/img/srinivasa/6.png" alt="" class="splimg5 img-fluid">
+                             <h6 class="drFace"> DR.Rama <br> Krishna</h6>
+
+                         </div>
+                         <div class="second-content">
+                             <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
+                             <h5 class="drname">DR.Rama Krishna</h5>
+                             <p class="drstudy">M.S (Ortho) Consultant Orthopaedic Surgeon
+                             </p>
+                             <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
+                         </div>
+
+
+                     </div>
+                     <div class="card col-md-3 col-12">
+                         <div class="first-content">
+                             <img src="assets/img/srinivasa/7.png" alt="" class="splimgg img-fluid">
+                             <h6 class="drFace"> DR.G Dani</h6>
+
+                         </div>
+                         <div class="second-content">
+                             <img src="assets/img/srinivasa/stethoscope.png" alt="" class="stethascope img-fluid">
+                             <h5 class="drname">DR.G Dani</h5>
+                             <p class="drstudy">MBBS DA (FIICM) INTENSIVIST & ANESTHETIST
+                             </p>
+                             <img src="assets/img/srinivasa/pulse.png" alt="" class="pulse img-fluid">
+                         </div>
+
+
+                     </div>
+                 </div>
              </div>
          </section>
 
@@ -528,85 +528,96 @@
 
          <section>
              <div class="container">
-             <h2 class="docHead">Top-Quality Machinery</h2>
+                 <h2 class="docHead">Top-Quality Machinery</h2>
                  <p class="docPara mb-5">Neurostar Hospital is equipped with top-quality machinery, ensuring precision and excellence in every medical procedure.
                  </p>
                  <div class="row">
-                     <div class="col-md-3 scan1 py-4">
-                         <img src="assets/img/scan/1.png" alt="" class="img-fluid">
-                         <h4 class="SCAN" >CT SCAN</h4>
+                     <div class="col-md-3 scan1 py-4 text-center ">
+                         <img src="assets/img/scan/1.png" alt="" class="img-fluid  ">
+                         <h4 class="SCAN">CT SCAN</h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/2.png" alt="" class="img-fluid">                         <h4 class="SCAN" >  Ultrasound 2D ECHO
-                     </h4>
+                     <div class="col-md-3 scan1 py-4  text-center "> <img src="assets/img/scan/2.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Ultrasound 2D ECHO
+                         </h4>
 
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/3.png" alt="" class="img-fluid"><h4 class="SCAN" >  EEG & NCS
-                     </h4>
-                     </div>
-                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/4.png" alt="" class="img-fluid"><h4 class="SCAN" >  Endoscopy
-                     </h4>
-                     </div>
-                     <div class="col-md-3 scan1 py-4">
-                         <img src="assets/img/scan/5.png" alt="" class="img-fluid"><h4 class="SCAN" >  X- ray
+                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/3.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> EEG & NCS
                          </h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/6.png" alt="" class="img-fluid"><h4 class="SCAN" >  Neuro microscope
-                     </h4>
+                     <div class="col-md-3 scan2 py-4 text-center "> <img src="assets/img/scan/4.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Endoscopy
+                         </h4>
                      </div>
-                     <div class="col-md-3 scan1 py-4"> <img src="assets/img/scan/7.png" alt="" class="img-fluid"><h4 class="SCAN" >  Ventilators</h4>
+                     <div class="col-md-3 scan1 py-4 text-center ">
+                         <img src="assets/img/scan/5.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> X- ray
+                         </h4>
                      </div>
-                     <div class="col-md-3 scan2 py-4"> <img src="assets/img/scan/8.png" alt="" class="img-fluid"><h4 class="SCAN" >  Physiotheraphy</h4>
+                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/6.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Neuro microscope
+                         </h4>
                      </div>
-                     <div class="col-md-3 scan3 py-4">
-                         <img src="assets/img/scan/9.png" alt="" class="img-fluid"><h4 class="SCAN" >  Lab</h4>
+                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/7.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Ventilators</h4>
                      </div>
-                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/10.png" alt="" class="img-fluid"><h4 class="SCAN" >  electronic dental chair with rvg
-                     </h4>
+                     <div class="col-md-3 scan2 py-4 text-center "> <img src="assets/img/scan/8.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Physiotheraphy</h4>
                      </div>
-                     <div class="col-md-3 scan3 py-4"> <img src="assets/img/scan/11.png" alt="" class="img-fluid"><h4 class="SCAN" >  Beonchoscopy
-                     </h4>
+                     <div class="col-md-3 scan3 py-4 text-center ">
+                         <img src="assets/img/scan/9.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Lab</h4>
                      </div>
-                     <div class="col-md-3  py-4"> <img src="assets/img/scan/12.png" alt="" class="img-fluid"><h4 class="SCAN" >  24/7 Pharmacy
-                     </h4>
+                     <div class="col-md-3 scan3 py-4 text-center "> <img src="assets/img/scan/10.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> electronic dental chair with rvg
+                         </h4>
+                     </div>
+                     <div class="col-md-3 scan3 py-4 text-center "> <img src="assets/img/scan/11.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> Beonchoscopy
+                         </h4>
+                     </div>
+                     <div class="col-md-3  py-4 text-center "> <img src="assets/img/scan/12.png" alt="" class="img-fluid">
+                         <h4 class="SCAN"> 24/7 Pharmacy
+                         </h4>
                      </div>
                  </div>
              </div>
          </section>
 
-     
 
-         
 
-       
+
+
+
          <script>
-         document.addEventListener('DOMContentLoaded', function() {
-             var swiper = new Swiper('.testimonials-slider', {
-                 loop: true,
-                 navigation: {
-                     nextEl: '.swiper-button-next',
-                     prevEl: '.swiper-button-prev',
-                 },
-                 pagination: {
-                     el: '.swiper-pagination',
-                     clickable: true,
-                 },
-                 autoplay: {
-                     delay: 5000,
-                 },
-                 slidesPerView: 1, // Default slides per view (for screens < 768px)
-                 breakpoints: {
-                     // when window width is >= 768px
-                     768: {
-                         slidesPerView: 3,
-                         spaceBetween: 30
+             document.addEventListener('DOMContentLoaded', function() {
+                 var swiper = new Swiper('.testimonials-slider', {
+                     loop: true,
+                     navigation: {
+                         nextEl: '.swiper-button-next',
+                         prevEl: '.swiper-button-prev',
+                     },
+                     pagination: {
+                         el: '.swiper-pagination',
+                         clickable: true,
+                     },
+                     autoplay: {
+                         delay: 5000,
+                     },
+                     slidesPerView: 1, // Default slides per view (for screens < 768px)
+                     breakpoints: {
+                         // when window width is >= 768px
+                         768: {
+                             slidesPerView: 3,
+                             spaceBetween: 30
+                         }
                      }
-                 }
+                 });
              });
-         });
          </script>
 
 
- 
+
 
      </main><!-- End #main -->
 
@@ -862,57 +873,57 @@
      <button id="scrollBtn" onclick="scrollToTop()"><i class="fa-solid fa-arrow-up "></i></button>
 
      <script>
-     // Function to scroll to the top of the page
-     function scrollToTop() {
-         window.scrollTo({
-             top: 0,
-             behavior: 'smooth' // Optional, smooth scrolling animation
-         });
-     }
-
-     // Show scroll button when scrolling down
-     window.onscroll = function() {
-         scrollFunction()
-     };
-
-     function scrollFunction() {
-         if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-             document.getElementById("scrollBtn").style.display = "block";
-         } else {
-             document.getElementById("scrollBtn").style.display = "none";
+         // Function to scroll to the top of the page
+         function scrollToTop() {
+             window.scrollTo({
+                 top: 0,
+                 behavior: 'smooth' // Optional, smooth scrolling animation
+             });
          }
-     }
+
+         // Show scroll button when scrolling down
+         window.onscroll = function() {
+             scrollFunction()
+         };
+
+         function scrollFunction() {
+             if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                 document.getElementById("scrollBtn").style.display = "block";
+             } else {
+                 document.getElementById("scrollBtn").style.display = "none";
+             }
+         }
      </script>
      <script>
-     let currentSlide = 0;
+         let currentSlide = 0;
 
-     function moveSlide(step) {
-         const slides = document.querySelectorAll('.carousel .slide');
-         const totalSlides = slides.length;
-         currentSlide = (currentSlide + step + totalSlides) % totalSlides;
-         document.querySelector('.carousel').style.transform = `translateX(-${currentSlide * 100}%)`;
-     }
+         function moveSlide(step) {
+             const slides = document.querySelectorAll('.carousel .slide');
+             const totalSlides = slides.length;
+             currentSlide = (currentSlide + step + totalSlides) % totalSlides;
+             document.querySelector('.carousel').style.transform = `translateX(-${currentSlide * 100}%)`;
+         }
      </script>
      <style>
-     #scrollBtn {
-         display: none;
-         /* Initially hide the button */
-         position: fixed;
-         /* Fix the position of the button */
-         bottom: 20px;
-         /* Adjust the bottom distance */
-         right: 20px;
-         /* Adjust the right distance */
-         z-index: 999;
-         /* Set a high z-index to ensure the button is on top */
-         padding: 10px 15px;
-         background-color: #01539D;
-         ;
-         color: white;
-         border: none;
-         border-radius: 50%;
-         cursor: pointer;
-     }
+         #scrollBtn {
+             display: none;
+             /* Initially hide the button */
+             position: fixed;
+             /* Fix the position of the button */
+             bottom: 20px;
+             /* Adjust the bottom distance */
+             right: 20px;
+             /* Adjust the right distance */
+             z-index: 999;
+             /* Set a high z-index to ensure the button is on top */
+             padding: 10px 15px;
+             background-color: #01539D;
+             ;
+             color: white;
+             border: none;
+             border-radius: 50%;
+             cursor: pointer;
+         }
      </style>
 
      <a href="https://api.whatsapp.com/send?phone=919290019948" style="color: #fff;" class="whatsapp-link"
@@ -942,19 +953,19 @@
      </script>
 
      <script>
-     $(document).ready(function() {
-         $("#testimonial-slider").owlCarousel({
-             items: 3,
-             itemsDesktop: [1000, 3],
-             itemsDesktopSmall: [980, 2],
-             itemsTablet: [768, 2],
-             itemsMobile: [650, 1],
-             pagination: true,
-             navigation: false,
-             slideSpeed: 1000,
-             autoPlay: true
+         $(document).ready(function() {
+             $("#testimonial-slider").owlCarousel({
+                 items: 3,
+                 itemsDesktop: [1000, 3],
+                 itemsDesktopSmall: [980, 2],
+                 itemsTablet: [768, 2],
+                 itemsMobile: [650, 1],
+                 pagination: true,
+                 navigation: false,
+                 slideSpeed: 1000,
+                 autoPlay: true
+             });
          });
-     });
      </script>
 
  </body>

@@ -2826,7 +2826,7 @@ section {
 @media (max-width: 768px) {
   .mobile-nav-toggle {
     position: absolute;
-    left: 50px;
+   
     top: 50%;
     transform: translateY(-50%);
     z-index: 1000;
@@ -3961,9 +3961,7 @@ img.img-fluid.yimg {
   overflow: hidden;
 }
 
-.swiper-wrapper {
-  /* No need for display: flex here */
-}
+ 
 
 .swiper-slide {
   width: 100%;
