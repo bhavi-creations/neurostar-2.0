@@ -2826,7 +2826,7 @@ section {
 @media (max-width: 768px) {
   .mobile-nav-toggle {
     position: absolute;
-    left: 50px;
+   
     top: 50%;
     transform: translateY(-50%);
     z-index: 1000;
