@@ -5558,4 +5558,22 @@ section.mt-2.Abouthome1 {
   display: flex;
   justify-content: center;
   align-items: center;
+} .feature-box img {
+  height: 150px;
+  object-fit: cover;
+}
+.feature-box {
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.feature-box:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}.servvRow{
+  display: flex !important;
+  justify-content: space-evenly;
 }
