@@ -340,7 +340,7 @@
                  </p>
                  <div class="row splcrad mt-4">
                      <div class="col-md-6">
-                         <img src="assets/img/srinivasa/about.png" alt="">
+                         <img src="assets/img/srinivasa/about.png" class="img-fluid" alt="">
                      </div>
                      <div class="col-md-6">
                          <p class="nuero">“At NEUROSTAR Hospital, our primary focus is patient-centered care, delivered
@@ -487,7 +487,11 @@
 
 
                      </div>
-                     <div class="row splcrad mt-5">
+                   
+ 
+                 </div>
+
+                 <div class="row splcrad mt-5">
                          <div class="card col-md-3 col-12">
                              <div class="first-content">
                                  <img src="assets/img/srinivasa/5.png" alt="" class="splimg4 img-fluid">
@@ -537,8 +541,6 @@
 
                          </div>
                      </div>
- 
-                 </div>
              </div>
          </section>
 

@@ -5275,7 +5275,7 @@ a.appointment-btn.scrollto.d-none.d-lg-block:hover {
 
 .card {
   width: 20%;
-  height: 260px;
+  height: 310px;
   background: rgb(252, 196, 220);
   transition: all 0.4s;
   border-radius: 10px;
@@ -5287,7 +5287,9 @@ a.appointment-btn.scrollto.d-none.d-lg-block:hover {
 
 .card {
   /* width: 20%; */
-  height: 190px;
+  margin-bottom: 50px;
+ 
+  height: 450px;
   background: rgb(252, 196, 220);
   transition: all 0.4s;
   border-radius: 10px;
