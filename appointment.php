@@ -52,14 +52,7 @@
 
 </head>
 
-<style>
-    @media (min-width:992px) {
 
-        .showthisdiv {
-            padding-left: 100px !important;
-        }
-    }
-</style>
 
 <body>
 
@@ -247,19 +240,21 @@
                                     <select name="department" id="department" style="border-radius: 23px;"
                                         class="form-select" required>
                                         <option value="">Select Service</option>
-                                        <option value="Root Canal"> Root Canal</option>
-                                        <option value="Dental Implants">Dental Implants</option>
-                                        <option value="Teeth Filling">Teeth Filling</option>
-                                        <option value="Dental Braces">Dental Braces</option>
-                                        <option value="Teeth Cleaning">Teeth Cleaning</option>
-                                        <option value="Teeth Whitening">Teeth Whitening</option>
-                                        <option value="Smile Makeover">Smile Makeover</option>
-                                        <option value="Tooth Crown & Bridges">Tooth Crown & Bridges</option>
-                                        <option value="Dentures">Dentures</option>
-                                        <option value="Tooth extraction">Tooth extraction</option>
-                                        <option value="Teeth Scaling"> Teeth Scaling</option>
-                                        <option value="Full Mouth Restoration">Full Mouth Restoration</option>
-
+                                        <option value="Neuro Surgery"> Neuro Surgery</option>
+                                        <option value="Neurology"> Neurology</option>
+                                        <option value="Accidents & Trauma Care"> Accidents & Trauma Care</option>
+                                        <option value="Orthopaedic Surgery"> Orthopaedic  Surgery</option>
+                                        <option value="General Medicine">General Medicine </option>
+                                        <option value="Critical Care"> Critical Care</option>
+                                        <option value="Neuro Psychiatric">Neuro Psychiatric </option>
+                                        <option value="Dental">Dental </option>
+                                        <option value="Maxillo facial Surgery"> Maxillo facial Surgery</option>
+                                        <option value="Plastic & Cosmetic surgery"> Plastic & Cosmetic surgery</option>
+                                        <option value="Pediatrics">Pediatrics </option>
+                                        <option value="Physiotherapy"> Physiotherapy</option>
+                                        <option value="Radiology"> Radiology</option>
+                                        <option value="Neuro rehabilitation">Neuro rehabilitation </option>
+                                        <option value="General &Laproscopic Surgery"> General &Laproscopic Surgery</option>
 
 
 

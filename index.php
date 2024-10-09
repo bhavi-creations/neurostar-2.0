@@ -48,8 +48,8 @@
 
      <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.0/css/bootstrap.min.css">
  
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
-
+     -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
  </head>
 
 
@@ -207,15 +207,15 @@
                              <img src="http://cssslider.com/sliders/pen/images/buns.jpg" style="width: 100%;">
                          </div>
 
-                         
+
                          <li class='num0 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Buns' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/opening_banner.jpg' alt='Buns' /> </a>
                          </li>
                          <li class='num1 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/2.png' alt='Croissant' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Croissant' /> </a>
                          </li>
                          <li class='num2 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/3.png' alt='Lemon pie' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/2.png' alt='Lemon pie' /> </a>
                          </li>
 
                      </ul>
@@ -311,11 +311,6 @@
                  </div>
              </div>
          </section>
-
-
-
-
-
 
 
 
@@ -456,74 +451,151 @@
 
 
          <section>
+
+
+             <style>
+                 .swiper-container {
+                     width: 100%;
+                     max-width: 1200px;
+                     /* Maximum width for the slider */
+                     margin: 0 auto;
+                     /* Center the slider */
+                 }
+
+                 .testimonial-box {
+                     background-color: #f7f7f7;
+                     padding: 20px;
+                     border-radius: 10px;
+                     text-align: center;
+                     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                 }
+
+                 .testimonial-box p {
+                     font-size: 18px;
+                     line-height: 1.5;
+                     margin-bottom: 10px;
+                 }
+
+                 .testimonial-box h5 {
+                     font-size: 16px;
+                     color: #333;
+                     font-weight: bold;
+                 }
+
+                 .swiper-button-next,
+                 .swiper-button-prev {
+                     color: #333;
+                 }
+
+                 .swiper-pagination-bullet {
+                     background-color: #333;
+                 }
+             </style>
+
+
+
              <div class="sec6">
                  <div class="testmonial">
                      <div class="container">
                          <h2 class="docHead mb-5">Testimonials</h2>
                          <div class="row testrow ">
                              <div class="col-md-12">
-                                 <div id="testimonial-slider" class="owl-carousel">
-                                     <div class="testimonial">
-                                         <div class="testimonial-content">
-                                             <div class="testimonial-icon">
-                                                 <i class="fa fa-quote-left"></i>
+                                 <div class="swiper-container mySwiper">
+                                     <div class="swiper-wrapper">
+                                         <div class="swiper-slide">
+                                             <div class="testimonial-box">
+                                                 <p class="description">
+                                                     "Neurostar Hospital provided top-notch care with a professional and
+                                                     caring team. I felt well looked after, and my experience was positive
+                                                     from start to finish."
+                                                 </p>
+                                                 <h3 class="title">-Bhoomika</h3>
+
                                              </div>
-                                             <p class="description">
-                                                 "The team at Neurostar Hospital provided exceptional care with
-                                                 professionalism and empathy. My experience was seamless, and I highly
-                                                 recommend their services."
-                                             </p>
                                          </div>
-                                         <h3 class="title">Rama Krishna</h3>
+                                         <div class="swiper-slide">
+                                             <div class="testimonial-box">
+                                                 <p class="description">
+                                                     "The team at Neurostar Hospital provided exceptional care with
+                                                     professionalism and empathy. My experience was seamless, and I highly
+                                                     recommend their services."
+                                                 </p>
+
+                                                 <h3 class="title">-Ram </h3>
+                                             </div>
+                                         </div>
+                                         <div class="swiper-slide">
+                                             <div class="testimonial-box">
+                                                 <p class="description">
+                                                     "The medical team here is highly professional and caring, making me
+                                                     feel comfortable and well-supported throughout my treatment. The
+                                                     quality of care exceeded my expectations."
+                                                 </p>
+                                                 <h3 class="title">-Lakshmi</h3>
+                                             </div>
+                                         </div>
+                                         <div class="swiper-slide">
+                                             <div class="testimonial-box">
+                                                 <p class="description">
+                                                     "The care I received was exceptional, with a compassionate and skilled
+                                                     team that made me feel at ease. I highly recommend their services for
+                                                     anyone seeking quality treatment."
+                                                 </p>
+                                                 <h3 class="title">-Hema Latha</h3>
+                                             </div>
+                                         </div>
+
+
                                      </div>
 
-                                     <div class="testimonial">
-                                         <div class="testimonial-content">
-                                             <div class="testimonial-icon">
-                                                 <i class="fa fa-quote-left"></i>
-                                             </div>
-                                             <p class="description">
-                                                 "Neurostar Hospital provided top-notch care with a professional and
-                                                 caring team. I felt well looked after, and my experience was positive
-                                                 from start to finish."
-                                             </p>
-                                         </div>
-                                         <h3 class="title">Gowtham</h3>
-                                     </div>
-
-                                     <div class="testimonial">
-                                         <div class="testimonial-content">
-                                             <div class="testimonial-icon">
-                                                 <i class="fa fa-quote-left"></i>
-                                             </div>
-                                             <p class="description">
-                                                 "The medical team here is highly professional and caring, making me
-                                                 feel comfortable and well-supported throughout my treatment. The
-                                                 quality of care exceeded my expectations."
-                                             </p>
-                                         </div>
-                                         <h3 class="title">Lakshmi</h3>
-                                     </div>
-
-                                     <div class="testimonial">
-                                         <div class="testimonial-content">
-                                             <div class="testimonial-icon">
-                                                 <i class="fa fa-quote-left"></i>
-                                             </div>
-                                             <p class="description">
-                                                 "The care I received was exceptional, with a compassionate and skilled
-                                                 team that made me feel at ease. I highly recommend their services for
-                                                 anyone seeking quality treatment."
-                                             </p>
-                                         </div>
-                                         <h3 class="title">Hema Latha</h3>
-                                     </div>
+                                     <!-- Pagination and Navigation Controls -->
+                                     <div class="swiper-pagination"></div>
+                                     <div class="swiper-button-next"></div>
+                                     <div class="swiper-button-prev"></div>
                                  </div>
                              </div>
                          </div>
                      </div>
                  </div>
              </div>
+
+
+
+             <script>
+                 var swiper = new Swiper(".mySwiper", {
+                     spaceBetween: 30,
+                     loop: true, // Enables infinite loop
+                     autoplay: {
+                         delay: 3000, // Delay between slides in ms (5 seconds)
+                         disableOnInteraction: false, // Keeps autoplay running even after user interaction
+                     },
+                     pagination: {
+                         el: ".swiper-pagination",
+                         clickable: true,
+                     },
+                     navigation: {
+                         nextEl: ".swiper-button-next",
+                         prevEl: ".swiper-button-prev",
+                     },
+                     breakpoints: {
+                         // When the viewport is 0px or larger
+                         0: {
+                             slidesPerView: 1, // 1 slide for small devices
+                         },
+                         // When the viewport is 768px or larger (for medium devices)
+                         768: {
+                             slidesPerView: 2, // 2 slides for medium devices
+                         },
+                         // When the viewport is 1024px or larger (for large devices)
+                         1024: {
+                             slidesPerView: 3, // 3 slides for large devices
+                         },
+                     }
+                 });
+             </script>
+
+
+
          </section>
 
 
@@ -739,9 +811,9 @@
 
                              <a href="https://www.instagram.com/neurostar_multispeciality_/" target="_blank">
                                  <img src="assets/img/srinivasa/instagram.png" class="img-fluid" alt="" /></a>
-                                 &nbsp;&nbsp;&nbsp;&nbsp;
+                             &nbsp;&nbsp;&nbsp;&nbsp;
 
-                                 <a href="https://www.youtube.com/@neurostarkakinada2455" target="_blank">
+                             <a href="https://www.youtube.com/@neurostarkakinada2455" target="_blank">
                                  <img src="assets/img/srinivasa/youtube.png" class="img-fluid" alt="" /></a>
 
                          </div>
