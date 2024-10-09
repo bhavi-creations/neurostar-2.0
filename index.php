@@ -206,14 +206,16 @@
                          <div style="width: 100%; visibility: hidden;">
                              <img src="http://cssslider.com/sliders/pen/images/buns.jpg" style="width: 100%;">
                          </div>
+
+                         
                          <li class='num0 img'>
-                             <a href="#" target=""><img src='assets/img/1.png' alt='Buns' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Buns' /> </a>
                          </li>
                          <li class='num1 img'>
-                             <a href="#" target=""><img src='assets/img/2.png' alt='Croissant' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/2.png' alt='Croissant' /> </a>
                          </li>
                          <li class='num2 img'>
-                             <a href="#" target=""><img src='assets/img/3.png' alt='Lemon pie' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/3.png' alt='Lemon pie' /> </a>
                          </li>
 
                      </ul>
@@ -684,7 +686,7 @@
                                  </defs>
                              </svg>
 
-                             9885943399
+                             +91 9885943399
                          </p>
 
                          <!-- <div class="d-flex">
@@ -726,7 +728,7 @@
                                          </defs>
                                      </svg>
 
-                                     +91-9290019948
+                                     +91-9885943399
                                  </p>
                              </div>
                          </div> -->
@@ -737,6 +739,10 @@
 
                              <a href="https://www.instagram.com/neurostar_multispeciality_/" target="_blank">
                                  <img src="assets/img/srinivasa/instagram.png" class="img-fluid" alt="" /></a>
+                                 &nbsp;&nbsp;&nbsp;&nbsp;
+
+                                 <a href="https://www.youtube.com/@neurostarkakinada2455" target="_blank">
+                                 <img src="assets/img/srinivasa/youtube.png" class="img-fluid" alt="" /></a>
 
                          </div>
                      </div>
@@ -749,7 +755,7 @@
                          </a><a href="doctor.php">
                              <p class="foot_para">Doctor</p>
                          </a><a href="blogs.php">
-                             <p class="foot_para">Blog</p>
+                             <p class="foot_para">Blogs</p>
                          </a><a href="contact.php">
                              <p class="foot_para">Contact</p>
                          </a>
@@ -926,7 +932,7 @@
          }
      </style>
 
-     <a href="https://api.whatsapp.com/send?phone=919290019948" style="color: #fff;" class="whatsapp-link"
+     <a href="https://api.whatsapp.com/send?phone=919885943399" style="color: #fff;" class="whatsapp-link"
          target="_blank">
          <i class="fab fa-whatsapp"></i>
      </a>
