@@ -3975,9 +3975,7 @@ img.img-fluid.yimg {
   overflow: hidden;
 }
 
-.swiper-wrapper {
-  /* No need for display: flex here */
-}
+ 
 
 .swiper-slide {
   width: 100%;
