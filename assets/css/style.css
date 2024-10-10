@@ -3875,12 +3875,25 @@ img.img-fluid.yimg {
   box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em,
     rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
 }
- 
 
-.services_drop_menu {
-  background-color: white !important; /* Adjust the color as needed */
-  margin-left: -210px !important;
-  width: 900px !important;
+@media (min-width:768px) and (max-width:992px) {
+  
+   
+  .services_drop_menu {
+    background-color: white !important; /* Adjust the color as needed */
+    /* margin-left: -210px !important; */
+    width:700px !important;
+   }
+}
+
+ @media (min-width:992px) {
+  
+   
+   .services_drop_menu {
+     background-color: white !important; /* Adjust the color as needed */
+     margin-left: -210px !important;
+     width: 900px !important;
+    }
 }
 
 .services_drop {
