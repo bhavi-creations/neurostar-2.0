@@ -61,7 +61,7 @@
              <div class="contact-info">
 
                  <img src="assets/img/bhavi_logo/1.png" alt="" class="topppers">
-                 +9121476777
+                 +91 9121476777
 
 
                  &nbsp;
@@ -550,8 +550,8 @@
 
                                      <!-- Pagination and Navigation Controls -->
                                      <div class="swiper-pagination"></div>
-                                     <div class="swiper-button-next"></div>
-                                     <div class="swiper-button-prev"></div>
+                                     <!-- <div class="swiper-button-next"></div>
+                                     <div class="swiper-button-prev"></div> -->
                                  </div>
                              </div>
                          </div>
@@ -597,6 +597,107 @@
 
 
          </section>
+
+
+
+         <section>
+             <div class="container">
+                 <div class="section-title text-center">
+                     <h2 class="docHead">Blogs & articles </h2>
+
+                 </div>
+             </div>
+             <div class="container">
+                 <div class="row">
+
+
+
+
+
+
+
+
+                     <?php
+                        include './db.connection/db_connection.php';
+
+                        // Fetch latest 3 blogs with video
+                        $sql = "SELECT * FROM blog ORDER BY id DESC LIMIT 3"; // Limiting to the latest 3 blogs
+                        $result = $conn->query($sql);
+
+                        if ($result->num_rows > 0) {
+                            echo "<div class='row'>"; // Start row for card layout
+
+                            while ($row = $result->fetch_assoc()) {
+                                $blog_id = $row['id'];
+                                $title = $row['title'];
+                                $main_content = $row['content']; // Fetching the content (make sure this field exists)
+                                $main_image = $row['photos']; // Adjust according to how images are stored
+                                $video = $row['video'];
+
+                                echo "<div class='col-md-4 mb-4'>"; // Create 3 equal-width columns for medium devices
+                                echo "<div class='  h-100'>"; // Start card
+
+                                // Display the blog title
+                                echo "<div class='card-body'>";
+
+                                // Display video if available
+                                if (!empty($video)) {
+                                    $video_path = "./admin/public/uploads/videos/{$video}";
+                                    echo "<video class='main-video img-fluid' controls>
+                                    <source src='{$video_path}' type='video/mp4'>
+                                    Your browser does not support the video tag.
+                                </video>";
+                                }
+                                // If no video, display main image
+                                elseif (!empty($main_image)) {
+                                    $main_image_path = "./admin/public/uploads/photos/{$main_image}";
+                                    echo "<img class='card-img-top img-fluid' src='{$main_image_path}' alt='Blog Image'>";
+                                }
+
+                                // Display the blog title
+                                echo "<h5 class='card-title my-3'>" . htmlspecialchars($title) . "</h5>";
+
+                                // Display a short portion of the blog content (90 characters)
+                                echo "<p class='card-text'>" . substr($main_content, 0, 90) . "...</p>";
+
+                                // Link to full blog post
+                                echo "<a href='blogs.php?id={$blog_id}' class='btn btn-primary'>Read more</a>";
+
+                                echo "</div>"; // End card body
+                                echo "</div>"; // End card
+                                echo "</div>"; // End column
+                            }
+
+                            echo "</div>"; // End row
+                        } else {
+                            echo "No blog posts found.";
+                        }
+
+                        $conn->close();
+                        ?>
+
+
+
+
+                     <div class="mt-5 d-none d-md-block">
+                         <a href="blogs.php" style="text-decoration: none;">
+                             <p class="view_more_btn mb-5 d-flex flex-row justify-content-start">View More<i
+                                     class="fa-solid fa-arrow-right mt-1"></i></p>
+                         </a>
+                     </div>
+
+                     <div class="d-flex flex-row justify-content-center mt-4">
+                         <a href="blogs.php" style="text-decoration: none;">
+                             <p class="view_more_btn d-md-none">View More<i class="fa-solid fa-arrow-right"></i></p>
+                         </a>
+                     </div>
+
+                 </div>
+             </div>
+         </section>
+
+
+
 
 
 

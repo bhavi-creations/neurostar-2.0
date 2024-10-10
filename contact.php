@@ -62,7 +62,7 @@
             <div class="contact-info">
 
                 <img src="assets/img/bhavi_logo/1.png" alt="" class="topppers">
-                +9121476777
+                +91 9121476777
 
 
                 &nbsp;
@@ -243,7 +243,7 @@
                                 <div class="info-box mt-4">
                                     <i class="bx bx-phone-call"></i>
                                     <h3 style="font-family:Mulish;">Call Us</h3>
-                                    <p style="font-family:Mulish;"> +9121476777</p>
+                                    <p style="font-family:Mulish;"> +91 9121476777</p>
                                 </div>
                             </div>
                         </div>

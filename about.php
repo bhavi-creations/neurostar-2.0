@@ -61,7 +61,7 @@
             <div class="contact-info">
 
                 <img src="assets/img/bhavi_logo/1.png" alt="" class="topppers">
-                +9121476777
+                +91 9121476777
 
 
                 &nbsp;
@@ -190,137 +190,7 @@
 
     <main id="main">
 
-
-        <section>
-            <style>
-                .swiper-container {
-                    width: 100%;
-                    max-width: 1200px;
-                    /* Maximum width for the slider */
-                    margin: 0 auto;
-                    /* Center the slider */
-                }
-
-                .testimonial-box {
-                    background-color: #f7f7f7;
-                    padding: 20px;
-                    border-radius: 10px;
-                    text-align: center;
-                    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-                }
-
-                .testimonial-box p {
-                    font-size: 18px;
-                    line-height: 1.5;
-                    margin-bottom: 10px;
-                }
-
-                .testimonial-box h5 {
-                    font-size: 16px;
-                    color: #333;
-                    font-weight: bold;
-                }
-
-                .swiper-button-next,
-                .swiper-button-prev {
-                    color: #333;
-                }
-
-                .swiper-pagination-bullet {
-                    background-color: #333;
-                }
-            </style>
-
-            <div class="swiper-container mySwiper">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="testimonial-box">
-                            <p class="description">
-                                "Neurostar Hospital provided top-notch care with a professional and
-                                caring team. I felt well looked after, and my experience was positive
-                                from start to finish."
-                            </p>
-                            <h3 class="title">-Bhoomika</h3>
-
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="testimonial-box">
-                            <p class="description">
-                                "The team at Neurostar Hospital provided exceptional care with
-                                professionalism and empathy. My experience was seamless, and I highly
-                                recommend their services."
-                            </p>
-
-                            <h3 class="title">-Ram  </h3>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="testimonial-box">
-                            <p class="description">
-                                "The medical team here is highly professional and caring, making me
-                                feel comfortable and well-supported throughout my treatment. The
-                                quality of care exceeded my expectations."
-                            </p>
-                            <h3 class="title">-Lakshmi</h3>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="testimonial-box">
-                            <p class="description">
-                                "The care I received was exceptional, with a compassionate and skilled
-                                team that made me feel at ease. I highly recommend their services for
-                                anyone seeking quality treatment."
-                            </p>
-                        <h3 class="title">-Hema Latha</h3>
-                    </div>
-                </div>
-                 
-                 
-            </div>
-
-            <!-- Pagination and Navigation Controls -->
-            <div class="swiper-pagination"></div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-            </div>
-
-
-            <script>
-                var swiper = new Swiper(".mySwiper", {
-                    spaceBetween: 30,
-                    loop: true, // Enables infinite loop
-                    autoplay: {
-                        delay: 1000, // Delay between slides in ms (5 seconds)
-                        disableOnInteraction: false, // Keeps autoplay running even after user interaction
-                    },
-                    pagination: {
-                        el: ".swiper-pagination",
-                        clickable: true,
-                    },
-                    navigation: {
-                        nextEl: ".swiper-button-next",
-                        prevEl: ".swiper-button-prev",
-                    },
-                    breakpoints: {
-                        // When the viewport is 0px or larger
-                        0: {
-                            slidesPerView: 1, // 1 slide for small devices
-                        },
-                        // When the viewport is 768px or larger (for medium devices)
-                        768: {
-                            slidesPerView: 2, // 2 slides for medium devices
-                        },
-                        // When the viewport is 1024px or larger (for large devices)
-                        1024: {
-                            slidesPerView: 3, // 3 slides for large devices
-                        },
-                    }
-                });
-            </script>
-
-        </section>
-
+ 
 
 
         <section class="mt-2 Abouthome1">
