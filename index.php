@@ -961,7 +961,7 @@
 
 
                      </div>
-                     <div class="col-12 col-md-6 col-lg-2 py-2">
+                     <div class="col-6 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
                          <a href="criticalCare.php">
                              <p class="foot_para">Critical Care
@@ -984,7 +984,7 @@
                          </a>
 
                      </div>
-                     <div class="col-12 col-md-6 col-lg-2 py-2">
+                     <div class="col-6 col-md-6 col-lg-2 py-2">
                          <h1 class="foot_head">Treatments</h1>
                          <a href="pediatrics.php">
                              <p class="foot_para">Pediatrics </p>
