@@ -212,10 +212,12 @@
                              <a href="#" target=""><img src='assets/img/sliders/opening_banner.jpg' alt='Buns' /> </a>
                          </li>
                          <li class='num1 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Croissant' /> </a>
+                         <a href="#" target=""><img src='assets/img/festivel sliders/NEUROSTAR.png' alt='Lemon pie' /> </a>
+
                          </li>
                          <li class='num2 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/2.png' alt='Lemon pie' /> </a>
+                         <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Croissant' /> </a>
+
                          </li>
 
                      </ul>
