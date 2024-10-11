@@ -574,7 +574,7 @@
                      <div class="  col-md-6 col-12">
                          <div class="footer-widget__copyright-info info-direction">
                              <p class="  last_text">
-                                 <a href="terms.html" style="text-decoration: none; color: #ffffff">Terms & conditions
+                                 <a href="terms.html" style="text-decoration: none; color: #ffffff">Terms & conditions :
                                  </a>
                                  <a href="privacy.html" style="text-decoration: none; color: #ffffff">
                                      Privacy & policy</a>
