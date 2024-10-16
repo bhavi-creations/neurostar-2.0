@@ -11,7 +11,7 @@ $result = $conn->query($sql);
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Nuerostar Multi Speciality Hospital</title>
+    <title>Neurostar MultiSpeciality Hospital</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -80,7 +80,7 @@ $result = $conn->query($sql);
             </div>
             <div class="social-links">
                 <img src="assets/img/bhavi_logo/3.png" alt="" class="toppperss">
-                24/7 Multi Specialty Hospital
+                24/7 MultiSpecialty Hospital
                 &nbsp;
                 <!-- |
                  &nbsp;

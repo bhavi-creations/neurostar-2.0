@@ -5,7 +5,7 @@
      <meta charset="utf-8">
      <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-     <title>Nuerostar Multi Speciality Hospital</title>
+     <title>Neurostar MultiSpeciality Hospital</title>
      <meta content="" name="description">
      <meta content="" name="keywords">
 
@@ -75,7 +75,7 @@
              </div>
              <div class="social-links">
                  <img src="assets/img/bhavi_logo/3.png" alt="" class="toppperss">
-                 24/7 Multi Specialty Hospital
+                 24/7 MultiSpecialty Hospital
                  &nbsp;
                  <!-- |
                  &nbsp;
@@ -209,14 +209,14 @@
 
 
                          <li class='num0 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/opening_banner.jpg' alt='Buns' /> </a>
+                             <a href="#" target=""><img src='assets/img/sliders/opp.png' alt='Buns' /> </a>
                          </li>
                          <li class='num1 img'>
-                         <a href="#" target=""><img src='assets/img/festivel sliders/NEUROSTAR.png' alt='Lemon pie' /> </a>
+                         <a href="#" target=""><img src='assets/img/sliders/1.png ' alt='Lemon pie' /> </a>
 
                          </li>
                          <li class='num2 img'>
-                         <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Croissant' /> </a>
+                         <a href="#" target=""><img src='assets/img/sliders/2.png' alt='Croissant' /> </a>
 
                          </li>
 
