@@ -18,7 +18,7 @@ img.img-fluid.dr_img_padding {
 
 }
 .dr_welcome_text1 {
-  color: #c10056;
+  color: #1F2F62;
     /* text-align: center ! IMPORTANT; */
     font-family: 'Poppins';
     font-size: 32px;
@@ -172,7 +172,7 @@ section.sectionForm {
 button.makee {
   border-radius: 5px;
   padding: 5px 20px;
-  background: #6f6f6f;
+  background: #1F2F62;
   border: none;
   color: white;
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
