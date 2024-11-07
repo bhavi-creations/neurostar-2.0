@@ -56,7 +56,7 @@
  <body>
 
      <!-- ======= Header ======= -->
-<?php include('./mini_header.php'); ?>
+     <?php include('./mini_header.php'); ?>
 
      <header id="header1" class="main_images onlypad">
          <div class="container d-flex align-items-center">
@@ -286,10 +286,6 @@
              </div>
          </section>
 
-
-
-
-
          <section class="">
              <div class="container">
                  <h2 class="docHead">Presenting Our Esteemed Specialists.</h2>
@@ -421,7 +417,6 @@
                  </div>
              </div>
          </section>
-
 
 
          <section>
@@ -573,7 +568,6 @@
          </section>
 
 
-
          <section>
              <div class="container">
                  <div class="section-title text-center">
@@ -666,71 +660,96 @@
              </div>
          </section>
 
-
-
-
-
-
          <section>
              <div class="container">
                  <h2 class="docHead">Top-Quality Machinery</h2>
                  <p class="docPara mb-5">Neurostar Hospital is equipped with top-quality machinery, ensuring precision and excellence in every medical procedure.
                  </p>
-                 <div class="row">
-                     <div class="col-md-3 scan1 py-4 text-center ">
-                         <img src="assets/img/scan/1.png" alt="" class="img-fluid  ">
-                         <h4 class="SCAN">CT SCAN</h4>
-                     </div>
-                     <div class="col-md-3 scan1 py-4  text-center "> <img src="assets/img/scan/2.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Ultrasound 2D ECHO
-                         </h4>
 
-                     </div>
-                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/3.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> EEG & NCS
-                         </h4>
-                     </div>
-                     <div class="col-md-3 scan2 py-4 text-center "> <img src="assets/img/scan/4.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Endoscopy
-                         </h4>
-                     </div>
-                     <div class="col-md-3 scan1 py-4 text-center ">
-                         <img src="assets/img/scan/5.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> X- ray
-                         </h4>
-                     </div>
-                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/6.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Neuro microscope
-                         </h4>
-                     </div>
-                     <div class="col-md-3 scan1 py-4 text-center "> <img src="assets/img/scan/7.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Ventilators</h4>
-                     </div>
-                     <div class="col-md-3 scan2 py-4 text-center "> <img src="assets/img/scan/8.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Physiotheraphy</h4>
-                     </div>
-                     <div class="col-md-3 scan3 py-4 text-center ">
-                         <img src="assets/img/scan/9.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Lab</h4>
-                     </div>
-                     <div class="col-md-3 scan3 py-4 text-center "> <img src="assets/img/scan/10.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> electronic dental chair with rvg
-                         </h4>
-                     </div>
-                     <div class="col-md-3 scan3 py-4 text-center "> <img src="assets/img/scan/11.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> Beonchoscopy
-                         </h4>
-                     </div>
-                     <div class="col-md-3  py-4 text-center "> <img src="assets/img/scan/12.png" alt="" class="img-fluid">
-                         <h4 class="SCAN"> 24/7 Pharmacy
-                         </h4>
+ 
+                
+
+                 <div class="container my-4">
+                     <div class="row gx-4 gy-4"> <!-- Horizontal and vertical gap between cards -->
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/1.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">CT SCAN</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/2.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Ultrasound 2D ECHO</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/3.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">EEG & NCS</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/4.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Endoscopy</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/5.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">X-ray</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/6.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Neuro microscope</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/7.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Ventilators</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/8.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Physiotherapy</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/9.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Lab</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/10.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Electronic dental chair with RVG</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/11.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">Bronchoscopy</h4>
+                             </div>
+                         </div>
+                         <div class="col-12 col-md-4 col-lg-3">
+                             <div class="card_box_equp py-4 text-center">
+                                 <img src="assets/img/scan/12.png" alt="" class="img-fluid">
+                                 <h4 class="SCAN">24/7 Pharmacy</h4>
+                             </div>
+                         </div>
+
                      </div>
                  </div>
+
+
              </div>
          </section>
-
-
-
 
 
 

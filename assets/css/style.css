@@ -5743,3 +5743,39 @@ background-color:#1F2F62 !important ;  }
 .need_space_dowm{
   margin-bottom: 50px;
 }
+
+ 
+  
+  
+  .card_box_equp {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    background-color: #ffffff;
+    
+  }
+ 
+.card_box_equp img {
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.card_box_equp h4 {
+  color: #1B2D5B;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.card_box_equp:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.SCAN {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
