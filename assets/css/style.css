@@ -1864,6 +1864,7 @@ section {
   padding: 20px 0 30px 0;
   background: #09045252;
   border: 1px solid #f1c1d7;
+  border-radius: 10px ;
 }
 
 .contact .info-box i {
@@ -1896,6 +1897,7 @@ section {
   padding: 30px;
   background: #09045252;
   border: 1px solid #f1c1d7;
+  border-radius: 10px !important;
 }
 
 .contact .php-email-form .error-message {
