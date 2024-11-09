@@ -287,6 +287,519 @@
          </section>
 
          <section class="">
+
+             <div class="container">
+                 <h2 class="docHead">Presenting Our Esteemed Specialists.</h2>
+                 <p class="docPara mb-5">With their exceptional expertise and unwavering dedication, our specialists are
+                     committed to
+                     providing outstanding care and innovative treatments for all your neurological needs.
+                 </p>
+             </div>
+
+             <div class="container my-4">
+                 <div class="row gx-4 gy-4">
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ashokkumar.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. M. Ashok Kumar</p>
+                             <p class="doc_card_small_text">M.B.B.S., D.A., M.S.(GEN)</p>
+                             <p class="doc_card_small_text">M.Ch. (Neuro Surgery)</p>
+                             <p class="doc_card_small_text">Brain & Spine Surgeon</p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/sasthrulu.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">DR.G.V.B.R. Sasthurlu</p>
+                             <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
+                             <p class="doc_card_small_text">Maxillofacial Surgeon & </p>
+                             <p class="doc_card_small_text">Implanto logist</p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4  col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ratnabushan.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">DR. Ratna Bhushan </p>
+                             <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
+                             <p class="doc_card_small_text">M.B.B.S., M.S., M.Ch., </p>
+                             <p class="doc_card_small_text d-none d-md-block">(Plastic & Cosmetic Surgery)</p>
+                             <p class="doc_card_small_text d-md-none">(Plastic &  </p>
+                             <p class="doc_card_small_text  d-md-none"> Cosmetic Surgery)</p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/kirankumar.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">DR. Kiran Kumar vale</p>
+                             <p class="doc_card_small_text">M.B.B.S., M.S, General </p>
+                             <p class="doc_card_small_text">Surgery PDCC in Surgical </p>
+                             <p class="doc_card_small_text">Gastroenterology SVIMS </p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text">in Tirupathi</p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ramakrishna.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Rama Krishna</p>
+                             <p class="doc_card_small_text">M.B.B.S., M.S, General </p>
+                             <p class="doc_card_small_text">Surgery PDCC in Surgical </p>
+                             <p class="doc_card_small_text">Gastroenterology SVIMS </p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text">in Tirupathi</p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4  col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Athili Surya Kanth </p>
+
+                             <p class="doc_card_small_text">MD., General Medicine </p>
+                             <p class="doc_card_small_text">Fellowship in 2D Echo & </p>
+                             <p class="doc_card_small_text"> Infectious Diseases </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                    
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ashokkumar.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. M. lakshmi Kiran</p>
+                             <p class="doc_card_small_text">MS, DGO (Gynecologist)</p>
+                             <p class="doc_card_small_text"> </p>
+                           
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/dani.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. G. Dani</p>
+                             <p class="doc_card_small_text">MBBS DA (FIICM)</p>
+                             <p class="doc_card_small_text">Intensivist & Anesthetist</p>
+                             <p class="doc_card_small_text"> </p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ratnabushan.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. V. Katan </p>
+                             <p class="doc_card_small_text">MBBS, DPM (Psychiatrist)</p>
+                             <p class="doc_card_small_text">M.B.B.S., M.S., M.Ch., </p>
+                             <p class="doc_card_small_text d-none d-md-block">(Plastic & Cosmetic Surgery)</p>
+                             <p class="doc_card_small_text   d-md-none">(Plastic & Cosmetic </p>
+                             <p class="doc_card_small_text d-md-none">  Surgery)</p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/kirankumar.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Akhila .S</p>
+                             <p class="doc_card_small_text">MD (Psychiatrist) </p>
+                             <p class="doc_card_small_text">Surgery PDCC in Surgical </p>
+                             <p class="doc_card_small_text">Gastroenterology SVIMS </p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text">in Tirupathi</p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/ramakrishna.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. G. Laxman Prasad</p>
+                             <p class="doc_card_small_text">M.S.(E.N.T)  </p>
+                             <p class="doc_card_small_text"> </p>
+                             <p class="doc_card_small_text"> </p>
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text">in Tirupathi</p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Ch. Haritha Sree </p>
+
+                             <p class="doc_card_small_text d-none d-md-block">MBBS, MD (Pulmonary Medicine)  </p>
+                             <p class="doc_card_small_text d-md-none">MBBS, MD (Pulmonary    </p>
+                             <p class="doc_card_small_text d-md-none"> Medicine)  </p>
+
+                             <p class="doc_card_small_text">Consultant & interventional </p>
+                             <p class="doc_card_small_text"> Pulmonologist</p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Ch. Haritha Sree </p>
+
+                             <p class="doc_card_small_text d-none d-md-block">MBBS, MD (Pulmonary Medicine)  </p>
+                             <p class="doc_card_small_text   d-md-none">MBBS, MD (Pulmonary   </p>
+                             <p class="doc_card_small_text   d-md-none">  Medicine)  </p>
+
+                             <p class="doc_card_small_text">Consultant & interventional </p>
+                             <p class="doc_card_small_text"> Pulmonologist</p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Praveen Renu </p>
+
+                             <p class="doc_card_small_text">MD (Gen medicine), </p>
+                             <p class="doc_card_small_text">DM (Nephrology)</p>
+                             <p class="doc_card_small_text">  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. N. Sunil Kumar</p>
+
+                             <p class="doc_card_small_text">MBBS, MD(Radiodiagnosis) </p>
+                             <p class="doc_card_small_text">Consultant Radiologist</p>
+                             <p class="doc_card_small_text">  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>                    
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Sridhar</p>
+
+                             <p class="doc_card_small_text d-none d-md-block">M.B.B.S, DCH (Gold medalist)  </p>
+                             <p class="doc_card_small_text   d-md-none">M.B.B.S, DCH   </p>
+                             <p class="doc_card_small_text   d-md-none"> (Gold medalist)  </p>
+
+                             <p class="doc_card_small_text">consultant children  &</p>
+                             <p class="doc_card_small_text"> Newborn specialist</p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Madhav Reddy</p>
+
+                             <p class="doc_card_small_text">Spine Surgeon,  </p>
+                             <p class="doc_card_small_text">MBBS MS (Ortho),</p>
+                             <p class="doc_card_small_text">DNB (ortho) FISS, FESS </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Bezwada satish</p>
+
+                             <p class="doc_card_small_text">Urologist  </p>
+                             <p class="doc_card_small_text">  </p>
+                             <p class="doc_card_small_text">  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Harika Revu</p>
+
+                             <p class="doc_card_small_text">MBBS (Gold Medalist),</p>
+                             <p class="doc_card_small_text"> MS (General Surgery)</p>
+                             <p class="doc_card_small_text">(AMC Vizag)  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Aravind </p>
+
+                             <p class="doc_card_small_text">MBBS,    </p>
+                             <p class="doc_card_small_text">MD General Medicine</p>
+                             <p class="doc_card_small_text"> </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Chandra Sekhar   Reddy</p>
+
+                             <p class="doc_card_small_text">  </p>
+                             <p class="doc_card_small_text"> </p>
+                             <p class="doc_card_small_text">  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Pavani </p>
+
+                             <p class="doc_card_small_text d-none d-md-block">B.D.S., “M.D.S., Pedodontist,  </p>
+                             <p class="doc_card_small_text  d-none d-md-block">PGDCC  (Facial Aesthetic) </p>
+                             <p class="doc_card_small_text  d-none d-md-block">Masters in  Permanent Makeup,</p>
+                             <p class="doc_card_small_text  d-none d-md-block"> FFA(Fellowship</p>
+                             <p class="doc_card_small_text  d-none d-md-block"> in Facial Aesthetics) (IEB UK)</p>
+
+
+                             <p class="doc_card_small_text    d-md-none">B.D.S., “M.D.S.,</p>
+                             <p class="doc_card_small_text    d-md-none">Pedodontist, PGDCC </p>
+                             <p class="doc_card_small_text    d-md-none">(Facial Aesthetic)</p>
+                             <p class="doc_card_small_text    d-md-none"> Masters in  Permanent</p>
+                             <p class="doc_card_small_text    d-md-none">Makeup, FFA</p>
+                             <p class="doc_card_small_text    d-md-none"> (Fellowship in Facial</p>
+                             <p class="doc_card_small_text    d-md-none">Aesthetics) (IEB UK)</p>
+
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Navya Jyothula </p>
+
+                             <p class="doc_card_small_text">BDS, PGDCC,   </p>
+                             <p class="doc_card_small_text"> Diploma in technology, </p>
+                             <p class="doc_card_small_text">Masters in permanent </p>
+                             <p class="doc_card_small_text">makeup FFA </p>
+
+                             <p class="doc_card_small_text d-none d-md-block">(fellowship in facial cosmetology) </p>
+                             <p class="doc_card_small_text   d-md-none">(fellowship in   </p>
+                             <p class="doc_card_small_text   d-md-none">  facial cosmetology) </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
+                         <div class="doc_card_box_equp py-2 text-center">
+                             <p class="doc_name_card">Dr. Santoshi </p>
+
+                             <p class="doc_card_small_text">MBBS, DGO Fellowship in  </p>
+                             <p class="doc_card_small_text">Reproductive medicine</p>
+                             <p class="doc_card_small_text d-none d-md-block">fellowship in Minimal access  </p>
+                             <p class="doc_card_small_text  d-none d-md-block">surgery, Cosmetic Gynecologist  </p>
+
+                             <p class="doc_card_small_text    d-md-none">fellowship in     </p>
+                             <p class="doc_card_small_text    d-md-none">  Minimal access   </p>
+                             <p class="doc_card_small_text    d-md-none">surgery, Cosmetic   </p>
+                             
+                             <p class="doc_card_small_text   d-md-none"> Gynecologist  </p>
+
+                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                             <div class="dropdown-content" style="display: none;">
+                                 <p class="doc_card_small_text"> </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="doc_card_small_text">  </p>
+                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                             </div>
+                         </div>
+                     </div>
+
+                 </div>
+             </div>
+
+
+
+             <script>
+                 function toggleDropdown(element) {
+                     // Get the next sibling (dropdown content)
+                     const dropdownContent = element.nextElementSibling;
+
+                     if (dropdownContent && (dropdownContent.style.display === "none" || dropdownContent.style.display === "")) {
+                         dropdownContent.style.display = "block"; // Show the dropdown content
+                         element.style.display = "none"; // Hide the "View More" button
+                     } else if (dropdownContent) {
+                         dropdownContent.style.display = "none"; // Hide the dropdown content
+                         element.style.display = "block"; // Show the "View More" button
+                     }
+                 }
+             </script>
+         </section>
+
+
+
+         <!-- <section class="">
              <div class="container">
                  <h2 class="docHead">Presenting Our Esteemed Specialists.</h2>
                  <p class="docPara mb-5">With their exceptional expertise and unwavering dedication, our specialists are
@@ -416,7 +929,7 @@
                      </div>
                  </div>
              </div>
-         </section>
+         </section> -->
 
 
          <section>
@@ -666,8 +1179,8 @@
                  <p class="docPara mb-5">Neurostar Hospital is equipped with top-quality machinery, ensuring precision and excellence in every medical procedure.
                  </p>
 
- 
-                
+
+
 
                  <div class="container my-4">
                      <div class="row gx-4 gy-4"> <!-- Horizontal and vertical gap between cards -->
