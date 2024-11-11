@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 10, 2024 at 09:08 AM
+-- Generation Time: Nov 11, 2024 at 01:33 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -24,26 +24,20 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `blog`
+-- Table structure for table `blogs`
 --
 
-CREATE TABLE `blog` (
-  `id` bigint(20) NOT NULL,
-  `title` varchar(200) NOT NULL,
-  `content` longtext NOT NULL,
-  `photos` text NOT NULL,
-  `video` text NOT NULL,
-  `time` timestamp NOT NULL DEFAULT current_timestamp()
+CREATE TABLE `blogs` (
+  `id` int(11) NOT NULL,
+  `title` text NOT NULL,
+  `main_content` text NOT NULL,
+  `full_content` text NOT NULL,
+  `title_image` varchar(255) NOT NULL,
+  `main_image` varchar(255) NOT NULL,
+  `video` varchar(255) DEFAULT NULL,
+  `service` varchar(255) DEFAULT NULL,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data for table `blog`
---
-
-INSERT INTO `blog` (`id`, `title`, `content`, `photos`, `video`, `time`) VALUES
-(5, 'sample blog', '<p>this is the sample blog</p>', '[\"670757d78770c_1728534487.jpg\",\"670757d787825_1728534487.jpg\",\"670757d787900_1728534487.webp\",\"670757d7879c5_1728534487.jpg\"]', '670757d787526_1728534487.mp4', '2024-10-10 04:28:07'),
-(6, 'sample blog 2', '<p>gfhmghm</p>', '[\"670758018997e_1728534529.jpeg\",\"6707580189a58_1728534529.jpeg\",\"6707580189b23_1728534529.jpeg\",\"6707580189bf8_1728534529.jpeg\"]', '6707580189831_1728534529.mp4', '2024-10-10 04:28:49'),
-(7, 'sample blog 3', '<p></p>', '[\"6707583faf295_1728534591.webp\",\"6707583faf37a_1728534591.webp\",\"6707583faf457_1728534591.jpg\",\"6707583faf520_1728534591.jpg\"]', '6707583faf140_1728534591.mp4', '2024-10-10 04:29:51');
 
 -- --------------------------------------------------------
 
@@ -65,35 +59,37 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `created_at`) VALUES
-(4, 'askoncologist', 'oncologist', 'askoncologist.@gmail.com', 'd54858f91c9a89ef37862262e543ffc2', '2024-06-17 09:54:17'),
-(5, 'neurostar', 'hospital', 'neurostar@gmail.com', 'defa35334c8057ae54e63171c61ea662', '2024-10-10 04:26:34');
+(1, 'raj', 'kumar', 'raj@gmail.com', '39427bc27697ee48679772e4c07c13c1', '2024-07-04 15:48:59'),
+(2, 'vascular', 'onestop', 'onestopvascularkkd@gmail.com', '7c17c4fcf8ea300dc90090443ae3caa4', '2024-07-05 06:21:31'),
+(3, 'onestop', 'vascular', 'onestop@gmail.com', '742f6be9a59899c0a31f29b18f12d5f9', '2024-10-07 11:07:57'),
+(4, 'srinivasa', 'dental', 'srinivasadental@gmail.com', '6bb6774d4cec5dbfc18219af92312d37', '2024-10-08 05:21:55'),
+(5, 'bhavi', 'creations', 'bhavicreations@gmail.com', '600c304331ed6847dd108dea621d56ea', '2024-11-07 06:23:02');
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indexes for table `blog`
+-- Indexes for table `blogs`
 --
-ALTER TABLE `blog`
+ALTER TABLE `blogs`
   ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `users`
 --
 ALTER TABLE `users`
-  ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `username` (`first_name`);
+  ADD PRIMARY KEY (`id`);
 
 --
 -- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT for table `blog`
+-- AUTO_INCREMENT for table `blogs`
 --
-ALTER TABLE `blog`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+ALTER TABLE `blogs`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=56;
 
 --
 -- AUTO_INCREMENT for table `users`
