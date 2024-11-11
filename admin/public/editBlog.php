@@ -74,18 +74,23 @@ $conn->close();
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal" <?php echo ($service == 'Root Canal') ? 'selected' : ''; ?>>Root Canal</option>
-                                                <option value="Dental Braces" <?php echo ($service == 'Dental Braces') ? 'selected' : ''; ?>>Dental Braces</option>
-                                                <option value="Dental Implants" <?php echo ($service == 'Dental Implants') ? 'selected' : ''; ?>>Dental Implants</option>
-                                                <option value="Crown & Bridge" <?php echo ($service == 'Crown & Bridge') ? 'selected' : ''; ?>>Crown & Bridge</option>
-                                                <option value="Teeth Filling" <?php echo ($service == 'Teeth Filling') ? 'selected' : ''; ?>>Teeth Filling</option>
-                                                <option value="Dentures" <?php echo ($service == 'Dentures') ? 'selected' : ''; ?>>Dentures</option>
-                                                <option value="Teeth Scaling" <?php echo ($service == 'Teeth Scaling') ? 'selected' : ''; ?>>Teeth Scaling</option>
-                                                <option value="Tooth Extraction" <?php echo ($service == 'Tooth Extraction') ? 'selected' : ''; ?>>Tooth Extraction</option>
-                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
-                                                <option value="Smile Makeover" <?php echo ($service == 'Smile Makeover') ? 'selected' : ''; ?>>Smile Makeover</option>
-                                                <option value="Full Mouth Restoration" <?php echo ($service == 'Full Mouth Restoration') ? 'selected' : ''; ?>>Full Mouth Restoration</option>
+                                                <option value="Neuro Surgery" <?php echo ($service == 'Neuro Surgery') ? 'selected' : ''; ?>>Neuro Surgery</option>
+                                                <option value="Neurology" <?php echo ($service == 'Neurology') ? 'selected' : ''; ?>>Neurology</option>
+                                                <option value="Accidents & Trauma Care" <?php echo ($service == 'Accidents & Trauma Care') ? 'selected' : ''; ?>>Accidents & Trauma Care</option>
+                                                <option value="Orthopaedic" <?php echo ($service == 'Orthopaedic') ? 'selected' : ''; ?>>Orthopaedic</option>
+                                                <option value="General  Medicine" <?php echo ($service == 'General  Medicine') ? 'selected' : ''; ?>>General  Medicine</option>
+                                                <option value="Critical Care" <?php echo ($service == 'Critical Care') ? 'selected' : ''; ?>>Critical Care</option>
+                                                <option value="Neuro Psychiatric" <?php echo ($service == 'Neuro Psychiatric') ? 'selected' : ''; ?>>Neuro Psychiatric</option>
+                                                <option value="Dental" <?php echo ($service == 'Dental') ? 'selected' : ''; ?>>Dental</option>
+                                                <option value="Maxillo facial Surgery" <?php echo ($service == 'Maxillo facial Surgery') ? 'selected' : ''; ?>>Maxillo facial Surgery</option>
+                                                <option value="Plastic &  Cosmetic surgery" <?php echo ($service == 'Plastic &  Cosmetic surgery') ? 'selected' : ''; ?>>Plastic &  Cosmetic surgery</option>
+                                                <option value="Pediatrics" <?php echo ($service == 'Pediatrics') ? 'selected' : ''; ?>>Pediatrics</option>
+                                                <option value="Physiotherapy" <?php echo ($service == 'Physiotherapy') ? 'selected' : ''; ?>>Physiotherapy</option>
+                                                <option value="Radiology" <?php echo ($service == 'Radiology') ? 'selected' : ''; ?>>Radiology</option>
+                                                <option value="Neuro rehabilitation" <?php echo ($service == 'Neuro rehabilitation') ? 'selected' : ''; ?>>Neuro rehabilitation</option>
+                                                <option value="General & Laproscopic Surgery" <?php echo ($service == 'General & Laproscopic Surgery') ? 'selected' : ''; ?>>General & Laproscopic Surgery</option>
+                                            
+                                            
                                             </select>
                                         </div>
 

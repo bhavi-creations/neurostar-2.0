@@ -199,7 +199,7 @@
                     <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
                     <a href="blogs.php?service=Neuro Surgery"><button class="redirect_blog_srivice">Neuro Surgery</button></a>
                     <a href="blogs.php?service=Neurology"><button class="redirect_blog_srivice">Neurology</button></a>
-                    <a href="blogs.php?service=Accidents &  Trauma Care"><button class="redirect_blog_srivice">Accidents &  Trauma Care</button></a>
+                    <a href="blogs.php?service=Accidents & Trauma Care"><button class="redirect_blog_srivice">Accidents & Trauma Care</button></a>
                     <a href="blogs.php?service=Orthopaedic"><button class="redirect_blog_srivice">Orthopaedic</button></a>
                     <a href="blogs.php?service=General  Medicine"><button class="redirect_blog_srivice">General  Medicine</button></a>
                     <a href="blogs.php?service=Critical Care"><button class="redirect_blog_srivice">Critical Care</button></a>
