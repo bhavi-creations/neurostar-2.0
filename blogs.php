@@ -199,19 +199,19 @@
                     <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
                     <a href="blogs.php?service=Neuro Surgery"><button class="redirect_blog_srivice">Neuro Surgery</button></a>
                     <a href="blogs.php?service=Neurology"><button class="redirect_blog_srivice">Neurology</button></a>
-                    <a href="blogs.php?service=Accidents & Trauma Care"><button class="redirect_blog_srivice">Accidents & Trauma Care</button></a>
+                    <a href="blogs.php?service=Accidents Trauma Care"><button class="redirect_blog_srivice">Accidents & Trauma Care</button></a>
                     <a href="blogs.php?service=Orthopaedic"><button class="redirect_blog_srivice">Orthopaedic</button></a>
                     <a href="blogs.php?service=General  Medicine"><button class="redirect_blog_srivice">General  Medicine</button></a>
                     <a href="blogs.php?service=Critical Care"><button class="redirect_blog_srivice">Critical Care</button></a>
                     <a href="blogs.php?service=Neuro Psychiatric"><button class="redirect_blog_srivice">Neuro Psychiatric</button></a>
                     <a href="blogs.php?service=Dental"><button class="redirect_blog_srivice">Dental</button></a>
                     <a href="blogs.php?service=Maxillo facial Surgery"><button class="redirect_blog_srivice">Maxillo facial Surgery</button></a>
-                    <a href="blogs.php?service=Plastic &  Cosmetic surgery"><button class="redirect_blog_srivice">Plastic &  Cosmetic surgery</button></a>
+                    <a href="blogs.php?service=Plastic  Cosmetic surgery"><button class="redirect_blog_srivice">Plastic &  Cosmetic surgery</button></a>
                     <a href="blogs.php?service=Pediatrics"><button class="redirect_blog_srivice">Pediatrics</button></a>
                     <a href="blogs.php?service=Physiotherapy"><button class="redirect_blog_srivice">Physiotherapy</button></a>
                     <a href="blogs.php?service=Radiology"><button class="redirect_blog_srivice">Radiology</button></a>
                     <a href="blogs.php?service=Neuro rehabilitation"><button class="redirect_blog_srivice">Neuro rehabilitation</button></a>
-                    <a href="blogs.php?service=General & Laproscopic Surgery"><button class="redirect_blog_srivice">General & Laproscopic Surgery</button></a>
+                    <a href="blogs.php?service=General Laproscopic Surgery"><button class="redirect_blog_srivice">General & Laproscopic Surgery</button></a>
 
 
                 </div>

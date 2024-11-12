@@ -69,19 +69,19 @@
                                                 <option value="">Select a Service</option>
                                                 <option value="Neuro Surgery">Neuro Surgery</option>
                                                 <option value="Neurology">Neurology</option>
-                                                <option value="Accidents & Trauma Care">Accidents & Trauma Care</option>
+                                                <option value="Accidents Trauma Care">Accidents & Trauma Care</option>
                                                 <option value="Orthopaedic">Orthopaedic</option>
                                                 <option value="General  Medicine">  General  Medicine</option>
                                                 <option value="Critical Care">Critical Care</option>
                                                 <option value="Neuro Psychiatric">Neuro Psychiatric</option>
                                                 <option value="Dental">Dental</option>
                                                 <option value="Maxillo facial Surgery">Maxillo facial Surgery</option>
-                                                <option value="Plastic &  Cosmetic surgery">Plastic &  Cosmetic surgery</option>
+                                                <option value="Plastic  Cosmetic surgery">Plastic &  Cosmetic surgery</option>
                                                 <option value="Pediatrics">Pediatrics</option>
                                                 <option value="Physiotherapy">Physiotherapy</option>
                                                 <option value="Radiology">Radiology</option>
                                                 <option value="Neuro rehabilitation">Neuro rehabilitation</option>
-                                                <option value="General & Laproscopic Surgery">General & Laproscopic Surgery</option>
+                                                <option value="General Laproscopic Surgery">General & Laproscopic Surgery</option>
                                                
 
                                             </select>
