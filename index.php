@@ -155,7 +155,7 @@
      <marquee height="30" direction="left" class="markFull" loop="3" behavior="1">
          <ul class="markul">
              <li class="markLi">
-                 Specialised Therapy & Support - supported by well trained front line staff and Medicare facilities.
+                  Specialized Therapy & Support - supported by well-trained front line staff and Medicare facilities.
              </li>
              <li class="markLi">
                  24/7 Emergency Care - emergency room doctors, nurses, and other support staff Available 24/7 </li>
@@ -233,14 +233,7 @@
                              top-quality services at an affordable cost, all while upholding the highest standards of
                              medical practice for your optimal recovery.”
                          </p>
-                         <p class="nuero">"We provide comprehensive treatment for a wide spectrum of neurological health
-                             issues through our dedicated multidisciplinary team of expert surgeons and physicians,
-                             meticulously selected from India’s leading neuroscience institutions. Our team includes
-                             highly skilled neurologists, neurosurgeons, and other specialized medical professionals who
-                             collaborate to deliver personalized care tailored to each patient's unique needs.Equipped
-                             with the latest advancements in medical technology and supported by state-of-the-art
-                             diagnostic and surgical facilities, we are committed to ensuring not only prompt and
-                             effective recovery but also a compassionate and patient-centered approach. "
+                         <p class="nuero">"We provide comprehensive treatment for a wide spectrum of neurological health issues through our dedicated multidisciplinary team of expert surgeons and physicians, meticulously selected from India’s leading neuroscience institutions. Our team includes highly skilled neurologists, neurosurgeons, and other specialized medical professionals who collaborate to deliver personalized care tailored to each patient's unique needs. Equipped with the latest advancements in medical technology and supported by state-of-the-art diagnostic and surgical facilities, we are committed to ensuring not only prompt and effective recovery but also a compassionate and patient-centered approach. "
                          </p>
                      </div>
 
@@ -265,8 +258,7 @@
                          <h4 class="Intensive">Specialised Support Service
 
                          </h4>
-                         <p class="panel">They excel in specialties such as Orthopaedics, Neurology, Urology,
-                             Gynecology, Oncology, and more.
+                         <p class="panel">They excel in specialties such as Orthopedics, Neurology, Urology, Gynecology, Oncology, and more.
                          </p>
                      </div>
                      <div class="col-md-4">

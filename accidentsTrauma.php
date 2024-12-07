@@ -156,7 +156,7 @@
     <marquee height="30" direction="left" class="markFull" loop="3" behavior="1">
         <ul class="markul">
             <li class="markLi">
-                Specialised Therapy & Support - supported by well trained front line staff and Medicare facilities.
+            Specialized Therapy & Support - supported by well-trained front line staff and Medicare facilities.
             </li>
             <li class="markLi">
                 24/7 Emergency Care - emergency room doctors, nurses, and other support staff Available 24/7 </li>
