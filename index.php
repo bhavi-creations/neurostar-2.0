@@ -562,10 +562,16 @@
 
                              <p class="doc_card_small_text d-none d-md-block  d-xl-none d-xxl-block">MBBS, MD (Pulmonary Medicine) </p>      
 
+                             
                              <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none">MBBS, MD (Pulmonary </p>
                              <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none"> Medicine) </p>
 
-                             <p class="doc_card_small_text">Consultant & interventional </p>
+                             <p class="doc_card_small_text  d-none d-md-block">Consultant & interventional </p>
+
+                             <p class="doc_card_small_text d-md-none">Consultant &  </p>
+                             <p class="doc_card_small_text d-md-none">  interventional </p>
+
+
                              <p class="doc_card_small_text"> Pulmonologist</p>
 
 
