@@ -50,6 +50,19 @@
  
      -->
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+
+
+
+
+
+     <!-- Owl Carousel -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+
  </head>
 
 
@@ -166,6 +179,7 @@
      </marquee>
 
 
+ 
 
      <div class="bannerer">
          <div class="container-fluid">
@@ -180,18 +194,19 @@
                          <div style="width: 100%; visibility: hidden;">
                              <img src="http://cssslider.com/sliders/pen/images/buns.jpg" style="width: 100%;">
                          </div>
-
+                       
 
                          <li class='num0 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Buns' /> </a>
+                             <a href="#" target=""><img src='assets/img/festivel sliders/christmas.png' alt='Buns' /> </a>
                          </li>
+                         <!-- <li class='num0 img'>
+                             <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Buns' /> </a>
+                         </li> -->
                          <li class='num1 img'>
                              <a href="#" target=""><img src='assets/img/sliders/2.png ' alt='Lemon pie' /> </a>
-
                          </li>
                          <li class='num2 img'>
-                             <a href="#" target=""><img src='assets/img/sliders/new.jpg' alt='Croissant' /> </a>
-
+                             <a href="#" target=""><img src='assets/img/sliders/3.png' alt='Croissant' /> </a>
                          </li>
 
                      </ul>
@@ -214,9 +229,9 @@
          </div>
      </div>
 
- 
 
-    
+
+
 
 
 
