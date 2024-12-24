@@ -155,7 +155,7 @@
      <marquee height="30" direction="left" class="markFull" loop="3" behavior="1">
          <ul class="markul">
              <li class="markLi">
-                  Specialized Therapy & Support - supported by well-trained front line staff and Medicare facilities.
+                 Specialized Therapy & Support - supported by well-trained front line staff and Medicare facilities.
              </li>
              <li class="markLi">
                  24/7 Emergency Care - emergency room doctors, nurses, and other support staff Available 24/7 </li>
@@ -164,6 +164,8 @@
                  care & well equipped diagnostic services </li>
          </ul>
      </marquee>
+
+
 
      <div class="bannerer">
          <div class="container-fluid">
@@ -211,6 +213,12 @@
              </div>
          </div>
      </div>
+
+ 
+
+    
+
+
 
      <main id="main">
 
@@ -359,15 +367,15 @@
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">in Tirupathi</p>
-                                 <p class="doc_card_small_text">All type of gall  </p>
+                                 <p class="doc_card_small_text">All type of gall </p>
                                  <p class="doc_card_small_text"> bladder & stomach</p>
                                  <p class="doc_card_small_text">related & digestive </p>
                                  <p class="doc_card_small_text">related surgeries </p>
-                                 <p class="doc_card_small_text">done by  </p>
+                                 <p class="doc_card_small_text">done by </p>
                                  <p class="doc_card_small_text">laparoscopic method </p>
-                                  
 
-                                   
+
+
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -377,18 +385,18 @@
                          <img src="assets/img/docotrs/ramakrishna.png" alt="" class="img-fluid">
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. Rama Krishna</p>
-                             <p class="doc_card_small_text">  M.S. (Ortho),</p>
+                             <p class="doc_card_small_text"> M.S. (Ortho),</p>
                              <p class="doc_card_small_text"> Consultant Orthopedic </p>
-                             <p class="doc_card_small_text">Surgeon   Fellowship</p>
-                             <p class="doc_card_small_text"> in Joint Replacement,  </p>
+                             <p class="doc_card_small_text">Surgeon Fellowship</p>
+                             <p class="doc_card_small_text"> in Joint Replacement, </p>
 
-                             <p class="doc_card_small_text">  Surgery  & Rheumatology   </p>
-                              
+                             <p class="doc_card_small_text"> Surgery & Rheumatology </p>
+
 
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                            
+
                                  <p class="doc_card_small_text"> knee &joint replacement
                                  </p>
                                  <p class="doc_card_small_text">keyhole surgeries </p>
@@ -398,7 +406,7 @@
                              </div>
                          </div>
                      </div>
-                                              
+
                      <div class="col-6 col-md-4  col-lg-3 col-xl-2">
                          <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
                          <div class="doc_card_box_equp py-2 text-center">
@@ -411,7 +419,7 @@
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">Heart related tests </p>
-                                 <p class="doc_card_small_text"> & scans, all type of  </p>
+                                 <p class="doc_card_small_text"> & scans, all type of </p>
                                  <p class="doc_card_small_text"> fevers & BP,sugar</p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -430,9 +438,9 @@
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">Normal delivery </p>
-                                 <p class="doc_card_small_text">cesarean  </p>
-                                 <p class="doc_card_small_text">uterus tumor surgery  </p>
-                                 <p class="doc_card_small_text">ovary tumour surgery   </p>
+                                 <p class="doc_card_small_text">cesarean </p>
+                                 <p class="doc_card_small_text">uterus tumor surgery </p>
+                                 <p class="doc_card_small_text">ovary tumour surgery </p>
 
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -450,8 +458,8 @@
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text"> Ultrasound guided </p>
                                  <p class="doc_card_small_text"> & pain management</p>
-                                 <p class="doc_card_small_text">emergency air   </p>
-                                 <p class="doc_card_small_text">  way specialist </p>
+                                 <p class="doc_card_small_text">emergency air </p>
+                                 <p class="doc_card_small_text"> way specialist </p>
 
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -485,10 +493,10 @@
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. Akhila .S</p>
                              <p class="doc_card_small_text">MD (Psychiatrist) </p>
-                             
+
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                                 
+
                                  <p class="doc_card_small_text">Skijofreniya </p>
                                  <p class="doc_card_small_text">De-addiction </p>
                                  <p class="doc_card_small_text">Autism </p>
@@ -517,9 +525,9 @@
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">Tuberculosis(TB) </p>
-                                 <p class="doc_card_small_text">Bronchial asthama                               </p>
-                                 <p class="doc_card_small_text"> pulmonary asthama (PH)                                 </p>
-                                 <p class="doc_card_small_text"> lung cancer  </p>
+                                 <p class="doc_card_small_text">Bronchial asthama </p>
+                                 <p class="doc_card_small_text"> pulmonary asthama (PH) </p>
+                                 <p class="doc_card_small_text"> lung cancer </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -530,14 +538,14 @@
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. G. Laxman Prasad</p>
                              <p class="doc_card_small_text">M.S.(E.N.T) </p>
-                         
+
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                                  
-                                 <p class="doc_card_small_text">  Sinus surgery</p>
-                                 <p class="doc_card_small_text"> Ear Surgery                                 </p>
+
+                                 <p class="doc_card_small_text"> Sinus surgery</p>
+                                 <p class="doc_card_small_text"> Ear Surgery </p>
                                  <p class="doc_card_small_text"> Thyroid</p>
-                                 <p class="doc_card_small_text">All problems of  </p>
+                                 <p class="doc_card_small_text">All problems of </p>
                                  <p class="doc_card_small_text"> EAR, NOSE, THROAT</p>
 
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
@@ -552,22 +560,22 @@
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. Ch. Haritha Sree </p>
 
-                             <p class="doc_card_small_text d-none d-md-block  d-xl-none d-xxl-block">MBBS, MD (Pulmonary Medicine) </p>      
+                             <p class="doc_card_small_text d-none d-md-block  d-xl-none d-xxl-block">MBBS, MD (Pulmonary Medicine) </p>
 
-                             
+
                              <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none">MBBS, MD (Pulmonary </p>
                              <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none"> Medicine) </p>
 
                              <p class="doc_card_small_text  d-none d-md-block">Consultant & interventional </p>
 
-                             <p class="doc_card_small_text d-md-none">Consultant &  </p>
-                             <p class="doc_card_small_text d-md-none">  interventional </p>
+                             <p class="doc_card_small_text d-md-none">Consultant & </p>
+                             <p class="doc_card_small_text d-md-none"> interventional </p>
 
 
                              <p class="doc_card_small_text"> Pulmonologist</p>
 
 
- 
+
 
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
@@ -587,13 +595,13 @@
 
                              <p class="doc_card_small_text">MD (Gen medicine), </p>
                              <p class="doc_card_small_text">DM (Nephrology)</p>
-                           
+
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">Chronic kidney disease </p>
                                  <p class="doc_card_small_text">hemodialysis </p>
-                                 <p class="doc_card_small_text">kidney failure                                 </p>
+                                 <p class="doc_card_small_text">kidney failure </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -606,7 +614,7 @@
 
                              <p class="doc_card_small_text">MBBS, MD(Radiodiagnosis) </p>
                              <p class="doc_card_small_text">Consultant Radiologist</p>
-                              
+
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
@@ -632,7 +640,7 @@
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                                 <p class="doc_card_small_text">All type  of</p>
+                                 <p class="doc_card_small_text">All type of</p>
                                  <p class="doc_card_small_text">pediatric problems </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -650,9 +658,9 @@
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                                 <p class="doc_card_small_text">Spine surgery                                 </p>
-                                 <p class="doc_card_small_text">Endoscopic spine surgery    </p>
-                              
+                                 <p class="doc_card_small_text">Spine surgery </p>
+                                 <p class="doc_card_small_text">Endoscopic spine surgery </p>
+
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -664,7 +672,7 @@
                              <p class="doc_name_card">Dr. Bezwada satish</p>
 
                              <p class="doc_card_small_text">Urologist </p>
-                            
+
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
@@ -683,20 +691,20 @@
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. Harika Revu</p>
 
-                             
-                             <p class="doc_card_small_text">MBBS (Gold Medalist),  </p>
-                                 <p class="doc_card_small_text">MS (General Surgery) </p>
-                                 <p class="doc_card_small_text"> (AMC Vizag)</p>
+
+                             <p class="doc_card_small_text">MBBS (Gold Medalist), </p>
+                             <p class="doc_card_small_text">MS (General Surgery) </p>
+                             <p class="doc_card_small_text"> (AMC Vizag)</p>
 
 
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                              
+
 
                                  <p class="doc_card_small_text">TB</p>
-                             <p class="doc_card_small_text"> Pulmonary embolism</p>
-                             <p class="doc_card_small_text">lungs fungal infection </p>
+                                 <p class="doc_card_small_text"> Pulmonary embolism</p>
+                                 <p class="doc_card_small_text">lungs fungal infection </p>
 
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -727,13 +735,13 @@
                          <div class="doc_card_box_equp py-2 text-center">
                              <p class="doc_name_card">Dr. Chandra Sekhar Reddy</p>
 
-                             
+
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                             <p class="doc_card_small_text">Ultra sound </p>
-                             <p class="doc_card_small_text">Color Dlopper </p>
-                             <p class="doc_card_small_text">C.T Guided Biopsy </p>
+                                 <p class="doc_card_small_text">Ultra sound </p>
+                                 <p class="doc_card_small_text">Color Dlopper </p>
+                                 <p class="doc_card_small_text">C.T Guided Biopsy </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -773,7 +781,7 @@
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                                 <p class="doc_card_small_text">All type of  </p>
+                                 <p class="doc_card_small_text">All type of </p>
                                  <p class="doc_card_small_text">pediatric problems </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
@@ -804,7 +812,7 @@
                              <div class="dropdown-content" style="display: none;">
                                  <p class="doc_card_small_text">Spine surgery </p>
                                  <p class="doc_card_small_text">Endoscopic Spine Surgery </p>
-                                 
+
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                              </div>
                          </div>
@@ -832,7 +840,7 @@
 
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                              <div class="dropdown-content" style="display: none;">
-                             <p class="doc_card_small_text"> Kidney Stones</p>
+                                 <p class="doc_card_small_text"> Kidney Stones</p>
                                  <p class="doc_card_small_text">Bladder Disorders </p>
                                  <p class="doc_card_small_text">Prostate Surgeries </p>
                                  <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
