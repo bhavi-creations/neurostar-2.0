@@ -19,12 +19,12 @@
   touch-action: pan-y;
 }
 
-.carousel-inner {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  @include clearfix();
-}
+// .carousel-inner {
+//   position: relative;
+//   width: 100%;
+//   overflow: hidden;
+//   @include clearfix();
+// }
 
 .carousel-item {
   position: relative;
@@ -57,19 +57,19 @@
 // Alternate transitions
 //
 
-.carousel-fade {
-  .carousel-item {
-    opacity: 0;
-    transition-property: opacity;
-    transform: none;
-  }
+// .carousel-fade {
+//   .carousel-item {
+//     opacity: 0;
+//     transition-property: opacity;
+//     transform: none;
+//   }
 
-  .carousel-item.active,
-  .carousel-item-next.carousel-item-left,
-  .carousel-item-prev.carousel-item-right {
-    z-index: 1;
-    opacity: 1;
-  }
+  // .carousel-item.active,
+  // .carousel-item-next.carousel-item-left,
+  // .carousel-item-prev.carousel-item-right {
+  //   z-index: 1;
+  //   opacity: 1;
+  // }
 
   .active.carousel-item-left,
   .active.carousel-item-right {

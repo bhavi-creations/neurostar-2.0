@@ -17,7 +17,8 @@
      <link
          href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
          rel="stylesheet">
-
+     <!-- image slider -->
+     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
      <!-- Vendor CSS Files -->
 
      <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -84,7 +85,7 @@
                  <ul>
 
                      <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-                     <li><a class="nav-link scrollto" href="about.php">About Us</a></li>
+                     <li><a class="nav-link scrollto " href="about.php">About Us</a></li>
                      <li class="nav-item dropdown">
                          <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button"
                              data-bs-toggle="dropdown" aria-expanded="false">
@@ -179,9 +180,9 @@
      </marquee>
 
 
- 
 
-     <div class="bannerer">
+
+     <!-- <div class="bannerer">
          <div class="container-fluid">
              <div class="row">
                  <div class='csslider1 autoplay '>
@@ -194,14 +195,14 @@
                          <div style="width: 100%; visibility: hidden;">
                              <img src="http://cssslider.com/sliders/pen/images/buns.jpg" style="width: 100%;">
                          </div>
-                       
+
 
                          <li class='num0 img'>
                              <a href="#" target=""><img src='assets/img/festivel sliders/christmas.png' alt='Buns' /> </a>
                          </li>
-                         <!-- <li class='num0 img'>
+                         <li class='num0 img'>
                              <a href="#" target=""><img src='assets/img/sliders/1.png' alt='Buns' /> </a>
-                         </li> -->
+                         </li>
                          <li class='num1 img'>
                              <a href="#" target=""><img src='assets/img/sliders/2.png ' alt='Lemon pie' /> </a>
                          </li>
@@ -227,11 +228,54 @@
 
              </div>
          </div>
+     </div> -->
+
+
+     <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+         <div class="carousel-inner">
+             <!-- First Image Slide -->
+             <div class="carousel-item active">
+                 <a href="#" target=""><img src='assets/img/festivel sliders/c1.png' alt='Buns' class="img-fluid w-100
+        " />
+             </div>
+             <!-- Second Image Slide -->
+             <div class="carousel-item">
+                 <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
+             </div>
+             <!-- Third Image Slide -->
+             <div class="carousel-item">
+                 <a href="#" target=""><img src='assets/img/sliders/c3.png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
+             </div>
+             <div class="carousel-item">
+                 <a href="#" target=""><img src='assets/img/sliders/c4  .png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
+             </div>
+         </div>
+
+         <!-- Carousel Controls (Optional) -->
+         <button class="carousel-control-prev" type="button" data-bs-target="#customAutoSlider" data-bs-slide="prev">
+             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+             <span class="visually-hidden">Previous</span>
+         </button>
+         <button class="carousel-control-next" type="button" data-bs-target="#customAutoSlider" data-bs-slide="next">
+             <span class="carousel-control-next-icon" aria-hidden="true"></span>
+             <span class="visually-hidden">Next</span>
+         </button>
      </div>
 
+     <!-- Bootstrap 5.1 and dependencies (Popper.js and Bootstrap JS) -->
+     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js"></script>
 
-
-
+     <!-- Optional: Custom JavaScript to Initialize the Carousel -->
+     <script>
+         document.addEventListener('DOMContentLoaded', function() {
+             // Bootstrap carousel initialization for auto sliding
+             var carouselElement = document.getElementById('customAutoSlider');
+             var carousel = new bootstrap.Carousel(carouselElement, {
+                 interval: 3000 // Set interval to 3 seconds (3000 milliseconds)
+             });
+         });
+     </script>
 
 
 
@@ -1038,7 +1082,9 @@
                      padding: 20px;
                      border-radius: 10px;
                      text-align: center;
-                     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                     box-shadow: 4px 4px 8px 8px rgba(0, 0, 0, 0.1);
+
+
                  }
 
                  .testimonial-box p {
@@ -1065,7 +1111,7 @@
 
 
 
-             <div class="sec6">
+             <!-- <div class="sec6">
                  <div class="testmonial">
                      <div class="container">
                          <h2 class="docHead mb-5">Testimonials</h2>
@@ -1119,18 +1165,129 @@
 
                                      </div>
 
-                                     <!-- Pagination and Navigation Controls -->
+                                   
                                      <div class="swiper-pagination"></div>
-                                     <!-- <div class="swiper-button-next"></div>
-                                     <div class="swiper-button-prev"></div> -->
+                                 
                                  </div>
                              </div>
                          </div>
                      </div>
                  </div>
-             </div>
+             </div> -->
 
 
+
+             <section>
+                 <div class="container">
+                     <h2 class="docHead ">Testimonials</h2>
+                     <div class="custom-slide-container swiper">
+                         <div class="custom-slide-content   ">
+                             <div class="custom-card-wrapper swiper-wrapper py-5">
+
+                                 <div class="custom-card custom_card_bg_three swiper-slide">
+                                     <div class="swiper-slide">
+
+                                         <div class="testimonial-box ">
+                                             <p class="description">
+                                                 "The medical team here is highly professional and caring, making me
+                                                 feel comfortable and well-supported throughout my treatment. The
+                                                 quality of care exceeded my expectations."
+                                             </p>
+                                             <h3 class="title">-Lakshmi</h3>
+                                         </div>
+
+                                     </div>
+
+
+                                 </div>
+                                 <div class="custom-card custom_card_bg_three swiper-slide">
+                                     <div class="swiper-slide">
+                                         <div class="testimonial-box ">
+                                             <p class="description">
+                                                 "The team at Neurostar Hospital provided exceptional care with
+                                                 professionalism and empathy. My experience was seamless, and I highly
+                                                 recommend their services."
+                                             </p>
+
+                                             <h3 class="title">-Ramesh </h3>
+                                         </div>
+                                     </div>
+
+
+                                 </div>
+                                 <div class="custom-card custom_card_bg_three swiper-slide">
+                                     <div class="swiper-slide">
+                                         <div class="testimonial-box ">
+                                             <p class="description">
+                                                 "Neurostar Hospital provided top-notch care with a professional and
+                                                 caring team. I felt well looked after, and my experience was positive
+                                                 from start to finish."
+                                             </p>
+                                             <h3 class="title">-Bhoomika</h3>
+
+                                         </div>
+                                     </div>
+
+
+                                 </div>
+
+                                 <div class="swiper-slide">
+                                     <div class="testimonial-box ">
+                                         <p class="description">
+                                             "The care I received was exceptional, with a compassionate and skilled
+                                             team that made me feel at ease. I highly recommend their services for
+                                             anyone seeking quality treatment."
+                                         </p>
+                                         <h3 class="title">-Hema Latha</h3>
+                                     </div>
+                                 </div>
+
+                             </div>
+
+
+                         </div>
+                     </div>
+                 </div>
+
+                 </div>
+
+             </section>
+
+             <script>
+                 var swiper = new Swiper(".custom-slide-content", {
+                     slidesPerView: 3,
+                     spaceBetween: 25,
+                     loop: true,
+                     centerslide: 'true',
+                     fade: 'true',
+                     grabCursor: 'true',
+                     pagination: {
+                         el: ".custom-swiper-pagination",
+                         clickable: true,
+                         dynamicBullets: true,
+                     },
+                     autoplay: {
+                         delay: 3000,
+                         disableOnInteraction: false,
+                     },
+                     navigation: {
+                         nextEl: ".swiper-button-next.custom-swiper-navBtn",
+                         prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+                     },
+
+                     breakpoints: {
+                         0: {
+                             slidesPerView: 1,
+                         },
+                         520: {
+                             slidesPerView: 2,
+                         },
+                         950: {
+                             slidesPerView: 3,
+                         },
+                     },
+                 });
+             </script>
 
              <script>
                  var swiper = new Swiper(".mySwiper", {
