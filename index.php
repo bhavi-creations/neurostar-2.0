@@ -247,7 +247,7 @@
                  <a href="#" target=""><img src='assets/img/sliders/c3.png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
              </div>
              <div class="carousel-item">
-                 <a href="#" target=""><img src='assets/img/sliders/c4  .png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
+                 <a href="#" target=""><img src='assets/img/sliders/c4.png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
              </div>
          </div>
 
