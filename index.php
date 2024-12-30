@@ -235,7 +235,7 @@
          <div class="carousel-inner">
              <!-- First Image Slide -->
              <div class="carousel-item active">
-                 <a href="#" target=""><img src='assets/img/festivel sliders/c1.png' alt='Buns' class="img-fluid w-100
+                 <a href="#" target=""><img src='assets/img/festivel sliders/neurostar_newyear.png' alt='newyear' class="img-fluid w-100
         " />
              </div>
              <!-- Second Image Slide -->
