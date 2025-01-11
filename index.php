@@ -235,14 +235,13 @@
          <div class="carousel-inner">
              <!-- First Image Slide -->
              <div class="carousel-item active">
-                 <a href="#" target=""><img src='assets/img/festivel sliders/pongal.jpg' alt='newyear' class="img-fluid w-100
-        " />
+                 <a href="#" target=""><img src='assets/img/festivel sliders/pongal.jpg' alt='newyear' class="img-fluid w-100" />
              </div>
-             <!-- Second Image Slide -->
+              
              <div class="carousel-item ">
                  <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
              </div>
-             <!-- Third Image Slide -->
+           
              <div class="carousel-item">
                  <a href="#" target=""><img src='assets/img/sliders/c3.png ' alt='Lemon pie' class="img-fluid w-100" /> </a>
              </div>
@@ -380,8 +379,8 @@
                      <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                          <img src="assets/img/docotrs/sasthrulu.png" alt="" class="img-fluid">
                          <div class="doc_card_box_equp py-2 text-center">
-                             <p class="doc_name_card">DR.G.V.B.R. Sasthurlu</p>
-                             <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
+                         <p class="doc_name_card">Dr.G.V.N.B.R. Sasthrulu</p>
+                         <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
                              <p class="doc_card_small_text">Maxillofacial Surgeon & </p>
                              <p class="doc_card_small_text">Implanto logist</p>
                              <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
@@ -397,7 +396,7 @@
                      <div class="col-6 col-md-4  col-lg-3 col-xl-2">
                          <img src="assets/img/docotrs/ratnabushan.png" alt="" class="img-fluid">
                          <div class="doc_card_box_equp py-2 text-center">
-                             <p class="doc_name_card">DR. Ratna Bhushan </p>
+                             <p class="doc_name_card">Dr. Ratna Bhushan </p>
                              <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
                              <p class="doc_card_small_text">M.B.B.S., M.S., M.Ch., </p>
                              <p class="doc_card_small_text d-none d-md-block">(Plastic & Cosmetic Surgery)</p>
@@ -419,7 +418,7 @@
                      <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                          <img src="assets/img/docotrs/kirankumar.png" alt="" class="img-fluid">
                          <div class="doc_card_box_equp py-2 text-center">
-                             <p class="doc_name_card">DR. Kiran Kumar vale</p>
+                             <p class="doc_name_card">Dr. Kiran Kumar vale</p>
                              <p class="doc_card_small_text">M.B.B.S., M.S, General </p>
                              <p class="doc_card_small_text">Surgery PDCC in Surgical </p>
                              <p class="doc_card_small_text">Gastroenterology SVIMS </p>
