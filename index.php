@@ -234,12 +234,12 @@
      <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
          <div class="carousel-inner">
              <!-- First Image Slide -->
-             <!-- <div class="carousel-item ">
-                 <a href="#" target=""><img src='assets/img/festivel sliders/neurostar_newyear.png' alt='newyear' class="img-fluid w-100
-        " />
-             </div> -->
-             <!-- Second Image Slide -->
              <div class="carousel-item active">
+                 <a href="#" target=""><img src='assets/img/festivel sliders/pongal.jpg' alt='newyear' class="img-fluid w-100
+        " />
+             </div>
+             <!-- Second Image Slide -->
+             <div class="carousel-item ">
                  <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
              </div>
              <!-- Third Image Slide -->
