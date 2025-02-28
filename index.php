@@ -234,11 +234,11 @@
      <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
          <div class="carousel-inner">
              <!-- First Image Slide -->
-             <div class="carousel-item active ">
+             <!-- <div class="carousel-item  ">
                  <a href="#" target=""><img src='assets/img/festivel sliders/mahashivratri.jpeg' alt='newyear' class="img-fluid w-100" />
-             </div>
+             </div> -->
               
-             <div class="carousel-item ">
+             <div class="carousel-item active">
                  <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
              </div>
            
