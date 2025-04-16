@@ -70,7 +70,7 @@
  <body>
 
      <!-- ======= Header ======= -->
-     <?php include('./mini_header.php'); ?>
+     
 
      <header id="header1" class="main_images onlypad">
          <div class="container d-flex align-items-center">

@@ -7,7 +7,7 @@
         </div>
         <div class="sidebar-brand-text mx-3">Neurostar</div>
     </a>
- 
+
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
@@ -42,7 +42,20 @@
     </li>
 
 
-
+    <!-- Sliders Section -->
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseSlider" aria-expanded="true" aria-controls="collapseSlider">
+            <i class="fas fa-fw fa-images"></i>
+            <span>Sliders</span>
+        </a>
+        <div id="collapseSlider" class="collapse" aria-labelledby="headingSlider" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <h6 class="collapse-header">Manage Sliders</h6>
+                <a class="collapse-item" href="addSlider.php"> <i class="fas fa-plus-circle"></i> Add Slider</a>
+                <a class="collapse-item" href="allSliders.php"> <i class="fas fa-eye"></i> View Sliders</a>
+            </div>
+        </div>
+    </li>
 
     <!-- Divider -->
     <hr class="sidebar-divider d-none d-md-block">
