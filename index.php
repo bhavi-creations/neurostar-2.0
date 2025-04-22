@@ -352,20 +352,94 @@ while ($row = mysqli_fetch_assoc($result)) {
                     </div>
 
 
-
+                    
                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/laxmikiran.png" alt="" class="img-fluid">
+                        <img src="assets/img/docotrs/SHIVA.jpg" alt="" class="img-fluid">
                         <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. M. lakshmi Kiran</p>
-                            <p class="doc_card_small_text">MS, DGO (Gynecologist)</p>
-                            <p class="doc_card_small_text"> </p>
+                            <p class="doc_name_card">Dr. Siva Sai Kumar Malla </p>
+
+                            <p class="doc_card_small_text d-none d-md-block">MBBS (AMC Vizag), MS (Gen.  </p>
+                            <p class="doc_card_small_text  d-none d-md-block"> Surgery, LHMC New Delhi)  </p>
+
+                            <p class="doc_card_small_text  d-none d-md-block d-xl-none d-xxl-block">Consultant General, </p>
+                            <p class="doc_card_small_text  d-none d-md-block"> Minimally invasive</p>
+                            <p class="doc_card_small_text  d-none d-md-block d-xl-none d-xxl-block"> & Baraitric Surgeon</p>
+
+
+
+
+                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none">Consultant General, </p>
+                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none"> Minimally invasive</p>
+                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none">& Baraitric Surgeon</p>
+
+
+
+
+
+
+                            <p class="doc_card_small_text    d-md-none">MBBS (AMC Vizag)</p>
+                            <p class="doc_card_small_text    d-md-none">MS (Gen.  Surgery, </p>
+                            <p class="doc_card_small_text    d-md-none">LHMC New Delhi) </p>
+
+                            <p class="doc_card_small_text    d-md-none"> Consultant General,</p>
+                            <p class="doc_card_small_text    d-md-none"> Minimally invasive</p>
+                            <p class="doc_card_small_text    d-md-none"> & Baraitric Surgeon</p>
+                             
+
 
                             <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
                             <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">Normal delivery </p>
-                                <p class="doc_card_small_text">cesarean </p>
-                                <p class="doc_card_small_text">uterus tumor surgery </p>
-                                <p class="doc_card_small_text">ovary tumour surgery </p>
+                             
+                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                            </div>
+                        </div>
+                    </div>
+ 
+
+                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                        <img src="assets/img/docotrs/VIJAY.jpg" alt="" class="img-fluid">
+                        <div class="doc_card_box_equp py-2 text-center">
+                            <p class="doc_name_card">Dr.Vijay Babu </p>
+
+                            <p class="doc_card_small_text d-none d-md-block  d-xl-none d-xxl-block">MBBS, MD (General Medicine) </p>
+
+
+                            <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none">MBBS, MD (General </p>
+                            <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none"> Medicine) </p>
+
+                            <p class="doc_card_small_text  d-none d-md-block">Consultant  Physician </p>
+
+                            <p class="doc_card_small_text d-md-none">Consultant  </p>
+                            <p class="doc_card_small_text d-md-none"> Physician </p>
+
+
+                            <p class="doc_card_small_text"> Diabetologist</p>
+
+
+
+
+
+                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                            <div class="dropdown-content" style="display: none;">
+                                <p class="doc_card_small_text">TB </p>
+                                <p class="doc_card_small_text">Pulmonary embolism </p>
+                                <p class="doc_card_small_text">lungs fungal infection </p>
+                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                        <img src="assets/img/docotrs/SABHEERA.jpg" alt="" class="img-fluid">
+                        <div class="doc_card_box_equp py-2 text-center">
+                            <p class="doc_name_card">Dr. Sabbera</p>
+                            <p class="doc_card_small_text">MBBS, DGO, DNB.   </p>
+                            <p class="doc_card_small_text">Gold Medalist</p>
+
+                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
+                            <div class="dropdown-content" style="display: none;">
+                                 
+                                <p class="doc_card_small_text">Gynecologist </p>
 
                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                             </div>
@@ -480,38 +554,7 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 
 
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/harithasree.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Ch. Haritha Sree </p>
-
-                            <p class="doc_card_small_text d-none d-md-block  d-xl-none d-xxl-block">MBBS, MD (Pulmonary Medicine) </p>
-
-
-                            <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none">MBBS, MD (Pulmonary </p>
-                            <p class="doc_card_small_text   d-md-none  d-xl-block d-xxl-none"> Medicine) </p>
-
-                            <p class="doc_card_small_text  d-none d-md-block">Consultant & interventional </p>
-
-                            <p class="doc_card_small_text d-md-none">Consultant & </p>
-                            <p class="doc_card_small_text d-md-none"> interventional </p>
-
-
-                            <p class="doc_card_small_text"> Pulmonologist</p>
-
-
-
-
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">TB </p>
-                                <p class="doc_card_small_text">Pulmonary embolism </p>
-                                <p class="doc_card_small_text">lungs fungal infection </p>
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
+                    
 
                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/praveenrevu.png" alt="" class="img-fluid">
@@ -611,167 +654,9 @@ while ($row = mysqli_fetch_assoc($result)) {
 
 
 
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/harikarevu.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Harika Revu</p>
+                
+ 
 
-
-                            <p class="doc_card_small_text">MBBS (Gold Medalist), </p>
-                            <p class="doc_card_small_text">MS (General Surgery) </p>
-                            <p class="doc_card_small_text"> (AMC Vizag)</p>
-
-
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-
-
-                                <p class="doc_card_small_text">TB</p>
-                                <p class="doc_card_small_text"> Pulmonary embolism</p>
-                                <p class="doc_card_small_text">lungs fungal infection </p>
-
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/aravind.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Aravind </p>
-
-                            <p class="doc_card_small_text">MBBS, </p>
-                            <p class="doc_card_small_text">MD General Medicine</p>
-                            <p class="doc_card_small_text"> </p>
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">Chronic kidney disease </p>
-                                <p class="doc_card_small_text">hemodialysis </p>
-                                <p class="doc_card_small_text">kidney failure </p>
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/chandra.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Chandra Sekhar Reddy</p>
-
-
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">Ultra sound </p>
-                                <p class="doc_card_small_text">Color Dlopper </p>
-                                <p class="doc_card_small_text">C.T Guided Biopsy </p>
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/pavani.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Pavani </p>
-
-                            <p class="doc_card_small_text d-none d-md-block">B.D.S., “M.D.S., Pedodontist, </p>
-                            <p class="doc_card_small_text  d-none d-md-block">PGDCC (Facial Aesthetic) </p>
-                            <p class="doc_card_small_text  d-none d-md-block d-xl-none d-xxl-block">Masters in Permanent Makeup,</p>
-                            <p class="doc_card_small_text  d-none d-md-block"> FFA(Fellowship</p>
-                            <p class="doc_card_small_text  d-none d-md-block d-xl-none d-xxl-block"> in Facial Aesthetics) (IEB UK)</p>
-
-
-
-
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none">Masters in Permanent </p>
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none"> Makeup, in Facial</p>
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none"> Aesthetics) (IEB UK)</p>
-
-
-
-
-
-
-                            <p class="doc_card_small_text    d-md-none">B.D.S., “M.D.S.,</p>
-                            <p class="doc_card_small_text    d-md-none">Pedodontist, PGDCC </p>
-                            <p class="doc_card_small_text    d-md-none">(Facial Aesthetic)</p>
-                            <p class="doc_card_small_text    d-md-none"> Masters in Permanent</p>
-                            <p class="doc_card_small_text    d-md-none">Makeup, FFA</p>
-                            <p class="doc_card_small_text    d-md-none"> (Fellowship in Facial</p>
-                            <p class="doc_card_small_text    d-md-none">Aesthetics) (IEB UK)</p>
-
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">All type of </p>
-                                <p class="doc_card_small_text">pediatric problems </p>
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/navyajothula.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Navya Jyothula </p>
-
-                            <p class="doc_card_small_text">BDS, PGDCC, </p>
-                            <p class="doc_card_small_text"> Diploma in technology, </p>
-                            <p class="doc_card_small_text">Masters in permanent </p>
-                            <p class="doc_card_small_text">makeup FFA </p>
-
-                            <p class="doc_card_small_text d-none d-md-block d-xl-none d-xxl-block">(fellowship in facial cosmetology) </p>
-
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none">(fellowship in </p>
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none"> facial cosmetology) </p>
-
-
-
-                            <p class="doc_card_small_text   d-md-none">(fellowship in </p>
-                            <p class="doc_card_small_text   d-md-none"> facial cosmetology) </p>
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text">Spine surgery </p>
-                                <p class="doc_card_small_text">Endoscopic Spine Surgery </p>
-
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
-                        <img src="assets/img/docotrs/sontoshi.png" alt="" class="img-fluid">
-                        <div class="doc_card_box_equp py-2 text-center">
-                            <p class="doc_name_card">Dr. Santoshi </p>
-
-                            <p class="doc_card_small_text">MBBS, DGO Fellowship in </p>
-                            <p class="doc_card_small_text">Reproductive medicine</p>
-                            <p class="doc_card_small_text d-none d-md-block">fellowship in Minimal access </p>
-                            <p class="doc_card_small_text  d-none d-md-block d-xl-none d-xxl-block">surgery, Cosmetic Gynecologist </p>
-
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none">surgery, Cosmetic </p>
-                            <p class="doc_card_small_text  d-none   d-xl-block d-xxl-none"> Gynecologist </p>
-
-
-
-                            <p class="doc_card_small_text    d-md-none">fellowship in </p>
-                            <p class="doc_card_small_text    d-md-none"> Minimal access </p>
-                            <p class="doc_card_small_text    d-md-none">surgery, Cosmetic </p>
-                            <p class="doc_card_small_text   d-md-none"> Gynecologist </p>
-
-                            <p class="toggle-view view_bt_under_line" onclick="toggleDropdown(this)">View More</p>
-                            <div class="dropdown-content" style="display: none;">
-                                <p class="doc_card_small_text"> Kidney Stones</p>
-                                <p class="doc_card_small_text">Bladder Disorders </p>
-                                <p class="doc_card_small_text">Prostate Surgeries </p>
-                                <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
-                            </div>
-                        </div>
-                    </div>
 
 
 
