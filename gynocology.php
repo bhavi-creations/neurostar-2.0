@@ -1,11 +1,13 @@
 
 
-<?php include('./mini_header.php'); ?>
+
+
+    <?php include('./mini_header.php'); ?>
 
 
  
 
-<main id="main">
+    <main id="main">
 
 
 
@@ -14,16 +16,18 @@
                 <div class="row servSect">
                     <div class="col-md-7 dr_content_padding  order-1 order-md-1">
 
-                        <h2 class="dr_welcome_text1 mt-4 mb-4">General & Laproscopic Surgery
+                        <h2 class="dr_welcome_text1 mt-4 mb-4">Gynecology
+
                         </h2>
                         <p class="poetsen_font1">
-                            At NeuroStar Hospital, our General and Laparoscopic Surgery department is dedicated to providing high-quality surgical care with a focus on patient safety, precision, and faster recovery times. Our team of expert surgeons, well-trained in both traditional and minimally invasive techniques, is equipped to handle a wide variety of general surgical procedures. Laparoscopic surgery, also known as minimally invasive surgery, is one of our specialties, and it allows us to perform complex procedures with smaller incisions, leading to less post-operative pain, quicker recovery, and reduced scarring.
+                        At NeuroStar Multispeciality Hospital, our Department of Gynecology is dedicated to offering comprehensive, compassionate, and advanced healthcare services for women of all age groups. We understand that each woman’s health journey is unique, and our expert team of gynecologists provides personalized care for a wide spectrum of conditions. From routine gynecological check-ups to the management of complex reproductive health disorders, we ensure a patient-centric approach backed by modern technology and clinical expertise.
+                        We provide expert diagnosis and treatment for menstrual irregularities, hormonal imbalances, polycystic ovary syndrome (PCOS), uterine fibroids, endometriosis, and pelvic inflammatory disease. Our team is skilled in both medical and surgical management, including minimally invasive procedures such as laparoscopy and hysteroscopy, which ensure faster recovery and minimal discomfort. Preventive care is a core part of our services, with regular screenings for cervical cancer through Pap smears and HPV testing, along with breast examinations and counseling for overall women’s wellness.
 
 
 
                         </p>
                         <div class="showthisdiv " style="display:none ">
-                            <p class="poetsen_font1">We employ advanced laparoscopic techniques to treat conditions such as gallbladder disease, appendicitis, hernias, gastrointestinal issues, and more. With state-of-the-art technology, our surgeons can navigate the body with precision, offering patients an effective alternative to conventional open surgery. Our approach is always patient-centered, meaning we take the time to assess each individual's condition, explain treatment options, and create a tailored surgical plan that aligns with their needs and health goals.
+                            <p class="poetsen_font1">Our maternity care services cover the entire spectrum from pre-conception counseling to postnatal support. Expectant mothers receive attentive antenatal care, nutritional guidance, and routine scans to ensure the healthy development of the baby. Our dedicated obstetrics team is trained to handle both normal and high-risk pregnancies with utmost care. After childbirth, our postnatal support services help mothers recover physically and emotionally, while also guiding them in newborn care and breastfeeding.
 
                             </p>
                         </div>
@@ -38,7 +42,7 @@
                             <div class="swiper-wrapper">
 
                                 <div class="swiper-slide">
-                                    <img src="assets/img/serv/l-surgery.png" class="img-fluid custom-img-padding"
+                                    <img src="assets/img/serv/gynic.png" class="img-fluid custom-img-padding"
                                         alt="Dental Braces" loading="lazy">
                                 </div>
 
@@ -100,9 +104,8 @@
     </main>
 
 
+    <!-- ======= Footer ======= -->
 
-      <!-- ======= Footer ======= -->
+    <?php include('./footer.php'); ?>
 
-      <?php include('./footer.php'); ?>
-
-   
+    
