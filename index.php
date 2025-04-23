@@ -282,7 +282,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                    <!-- <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/kirankumar.png" alt="" class="img-fluid">
                         <div class="doc_card_box_equp py-2 text-center">
                             <p class="doc_name_card">Dr. Kiran Kumar vale</p>
@@ -304,7 +304,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/ramakrishna.png" alt="" class="img-fluid">
@@ -332,7 +332,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-4  col-lg-3 col-xl-2">
+                    <!-- <div class="col-6 col-md-4  col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/athilisuryakanth.png" alt="" class="img-fluid">
                         <div class="doc_card_box_equp py-2 text-center">
                             <p class="doc_name_card">Dr. Athili Surya Kanth </p>
@@ -349,7 +349,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
 
                     
@@ -465,7 +465,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-4 col-lg-3 col-xl-2">
+                    <!-- <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/katan.png" alt="" class="img-fluid">
                         <div class="doc_card_box_equp py-2 text-center">
                             <p class="doc_name_card">Dr. V. Katan </p>
@@ -485,7 +485,7 @@ while ($row = mysqli_fetch_assoc($result)) {
                                 <p class="toggle-view" onclick="toggleDropdown(this.parentElement.previousElementSibling)">View Less</p>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-6 col-md-4 col-lg-3 col-xl-2">
                         <img src="assets/img/docotrs/akhila.png" alt="" class="img-fluid">
