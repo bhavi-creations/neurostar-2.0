@@ -101,9 +101,9 @@ while ($row = mysqli_fetch_assoc($result)) {
     <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
             
-            <div class="carousel-item active ">
+            <!-- <div class="carousel-item active ">
                  <a href="#" target=""><img src='assets/img/festivel sliders/mother_day.jpg' alt='newyear' class="img-fluid w-100" />
-             </div>
+             </div> -->
 
             <div class="carousel-item   ">
                 <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
