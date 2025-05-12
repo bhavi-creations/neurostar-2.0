@@ -99,7 +99,7 @@ while ($row = mysqli_fetch_assoc($result)) {
     </div> -->
 
     <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
+        <div class="carousel-inner .">
             
             <!-- <div class="carousel-item active ">
                  <a href="#" target=""><img src='assets/img/festivel sliders/mother_day.jpg' alt='newyear' class="img-fluid w-100" />
