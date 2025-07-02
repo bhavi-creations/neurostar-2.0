@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /search
+Disallow: /?s=
+Allow: /wp-admin/admin-ajax.php
+Allow: /
+
+Sitemap: https://neurostarhospital.com/sitemap.xml

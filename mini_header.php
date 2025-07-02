@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -57,47 +50,113 @@
  
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
 
+
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Hospital",
+            "name": "Neuro Star Multispecialty Hospital",
+            "url": "https://neurostarhospital.com/",
+            "logo": "https://neurostarhospital.com/wp-content/uploads/2024/01/logo.png",
+            "image": "https://neurostarhospital.com/wp-content/uploads/2024/01/hospital-front.jpg",
+            "description": "Neuro Star Multispecialty Hospital in Kakinada offers expert care in neurology, cardiology, general medicine, orthopedics, and more with state-of-the-art facilities.",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "D. No: 2-12-4, Near Bhanugudi Junction, RTO Office Road",
+                "addressLocality": "Kakinada",
+                "addressRegion": "Andhra Pradesh",
+                "postalCode": "533003",
+                "addressCountry": "IN"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 16.9752,
+                "longitude": 82.2406108
+            },
+            "hasMap": "https://maps.google.com/?q=16.9752,82.2406108",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+91 9121476777",
+                "contactType": "Customer Service",
+                "areaServed": "IN",
+                "availableLanguage": ["English", "Telugu"]
+            },
+            "medicalSpecialty": [
+                "Neurology",
+                "Cardiology",
+                "Orthopedics",
+                "General Medicine",
+                "Critical Care",
+                "Radiology"
+            ],
+            "openingHours": [
+                "Monday-Saturday 09:00-21:00",
+                "Sunday 09:00-14:00"
+            ],
+            "sameAs": [
+                "https://www.facebook.com/NeuroStarHospital",
+                "https://www.instagram.com/NeuroStarHospital",
+                "https://g.co/kgs/hwdHR3v"
+            ]
+        }
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </head>
 
 <body>
-    
-
-
-<header id="top-header" class="top-header d-none d-lg-block hearedr_spacing">
-    <div class="container d-flex justify-content-between align-items-center">
-        <div class="contact-info">
-
-            <i class="fa-solid fa-phone"></i>
-            +919121476777
-
-
-            &nbsp;
-            |
-            &nbsp;
-            <i class="fa-solid fa-envelope"></i>
-            info@neurostarhospital.com
 
 
 
-        </div>
-        <div class="social-links">
-            <i class="fa-solid fa-clock"></i>
+    <header id="top-header" class="top-header d-none d-lg-block hearedr_spacing">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="contact-info">
 
-            24/7 MultiSpecialty Hospital
-            &nbsp;
-            <!-- |
+                <i class="fa-solid fa-phone"></i>
+                +919121476777
+
+
+                &nbsp;
+                |
+                &nbsp;
+                <i class="fa-solid fa-envelope"></i>
+                info@neurostarhospital.com
+
+
+
+            </div>
+            <div class="social-links">
+                <i class="fa-solid fa-clock"></i>
+
+                24/7 MultiSpecialty Hospital
+                &nbsp;
+                <!-- |
                  &nbsp;
 
                  <button>2nd opnion</button> -->
 
+            </div>
         </div>
-    </div>
-</header>
+    </header>
 
 
 
 
-<header id="header1" class="main_images onlypad">
+    <header id="header1" class="main_images onlypad">
         <div class="container d-flex align-items-center">
             <div class="logo-text-container d-flex align-items-center" style="z-index: 999;">
                 <a href="index.php">
