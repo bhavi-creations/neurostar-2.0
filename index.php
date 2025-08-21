@@ -100,16 +100,16 @@
  <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
      <div class="carousel-inner .">
 
-         <div class="carousel-item  active  ">
+         <!-- <div class="carousel-item    ">
              <a href="#" target=""><img src='assets/img/festivel sliders/neurostar_slider_independence.jpg' alt='newyear' class="img-fluid w-100" />
          </div>
 
 
          <div class="carousel-item   ">
              <a href="#" target=""><img src='assets/img/festivel sliders/sree_krishnna_janmashtami.jpg' alt='newyear' class="img-fluid w-100" />
-         </div>
+         </div> -->
 
-         <div class="carousel-item    ">
+         <div class="carousel-item  active  ">
              <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
          </div>
 
