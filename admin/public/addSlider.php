@@ -1,5 +1,3 @@
-
-
 <?php
 include '../../db.connection/db_connection.php';
 
@@ -11,33 +9,53 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if (!empty($_FILES["image"]["name"])) {
         $targetDir = __DIR__ . "/../uploads/sliders/"; // Correct absolute path
+
+        if (!is_dir($targetDir)) {
+            mkdir($targetDir, 0777, true); // ✅ Ensure folder exists
+        }
+
         $imageName = basename($_FILES["image"]["name"]);
         $targetFilePath = $targetDir . $imageName;
 
+        // ✅ Support almost all image types
+        $allowedTypes = [
+            'jpg',
+            'jpeg',
+            'png',
+            'gif',
+            'bmp',
+            'tiff',
+            'tif',
+            'ico',
+            'svg',
+            'webp',
+            'avif'
+        ];
+
         $imageFileType = strtolower(pathinfo($targetFilePath, PATHINFO_EXTENSION));
-        $allowedTypes = ['jpg', 'jpeg', 'png', 'gif'];
 
         if (in_array($imageFileType, $allowedTypes)) {
             if (move_uploaded_file($_FILES["image"]["tmp_name"], $targetFilePath)) {
                 // Save only the image name in DB
                 $query = "INSERT INTO slider (title, image) VALUES ('$title', '$imageName')";
                 if (mysqli_query($conn, $query)) {
-                    $message = "Slider added successfully.";
+                    $message = "✅ Slider added successfully.";
                     $title = ''; // Clear title after success
                 } else {
-                    $message = "Error inserting data: " . mysqli_error($conn);
+                    $message = "❌ Error inserting data: " . mysqli_error($conn);
                 }
             } else {
-                $message = "Sorry, there was an error uploading the file.";
+                $message = "❌ Sorry, there was an error uploading the file.";
             }
         } else {
-            $message = "Only JPG, JPEG, PNG & GIF files are allowed.";
+            $message = "❌ Only image files are allowed (JPG, PNG, GIF, BMP, TIFF, ICO, SVG, WebP, AVIF).";
         }
     } else {
-        $message = "Slider image cannot be empty.";
+        $message = "❌ Slider image cannot be empty.";
     }
 }
 ?>
+
 
 <!DOCTYPE html>
 <html lang="en">
