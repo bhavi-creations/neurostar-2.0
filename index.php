@@ -74,7 +74,7 @@
          </div>
      </div> -->
 
- <!-- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
+ <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
         <div class="carousel-indicators">
             <?php foreach ($sliderImages as $index => $slider): ?>
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="<?php echo $index; ?>" class="<?php echo ($index == 0) ? 'active' : ''; ?>" aria-current="true" aria-label="Slide <?php echo $index + 1; ?>"></button>
@@ -95,19 +95,19 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
         </button>
-    </div> -->
+    </div>
 
- <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
+ <!-- <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
      <div class="carousel-inner .">
 
-       <!--    <div class="carousel-item     ">
+          <div class="carousel-item     ">
              <a href="#" target=""><img src='assets/img/festivel sliders/neurostar_slider_vinayaka_chavithi.jpg' alt='newyear' class="img-fluid w-100" />
          </div>
 
 
         <div class="carousel-item   ">
              <a href="#" target=""><img src='assets/img/festivel sliders/sree_krishnna_janmashtami.jpg' alt='newyear' class="img-fluid w-100" />
-         </div> -->
+         </div>
 
          <div class="carousel-item  active  ">
              <a href="#" target=""><img src='assets/img/sliders/c2.png' alt='Buns' class="img-fluid w-100" />
@@ -130,7 +130,7 @@
          <span class="carousel-control-next-icon" aria-hidden="true"></span>
          <span class="visually-hidden">Next</span>
      </button>
- </div>
+ </div> -->
 
  <!-- Bootstrap 5.1 and dependencies (Popper.js and Bootstrap JS) -->
  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
