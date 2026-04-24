@@ -618,7 +618,7 @@
                     <img src="assets/img/docotrs/ratnabushan.png" alt="" class="img-fluid">
                     <div class="doc_card_box_equp py-2 text-center">
                         <p class="doc_name_card">Dr. Ratna Bhushan </p>
-                        <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
+                        <!-- <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p> -->
                         <p class="doc_card_small_text">M.B.B.S., M.S., M.Ch., </p>
                         <p class="doc_card_small_text d-none d-md-block">(Plastic & Cosmetic Surgery)</p>
                         <p class="doc_card_small_text d-md-none">(Plastic & </p>

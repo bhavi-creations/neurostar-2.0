@@ -74,28 +74,28 @@
          </div>
      </div> -->
 
- <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="3000">
-        <div class="carousel-indicators">
-            <?php foreach ($sliderImages as $index => $slider): ?>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="<?php echo $index; ?>" class="<?php echo ($index == 0) ? 'active' : ''; ?>" aria-current="true" aria-label="Slide <?php echo $index + 1; ?>"></button>
-            <?php endforeach; ?>
-        </div>
-        <div class="carousel-inner"> 
-            <?php foreach ($sliderImages as $index => $slider): ?>
-                <div class="carousel-item <?php echo ($index == 0) ? 'active' : ''; ?>">
-                    <img src="./admin/uploads/sliders/<?php echo htmlspecialchars($slider['image']); ?>" class="d-block w-100" alt="Slider Image">
-                </div>
-            <?php endforeach; ?>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-        </button>
-    </div>
+ <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+     <div class="carousel-indicators">
+         <?php foreach ($sliderImages as $index => $slider): ?>
+             <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="<?php echo $index; ?>" class="<?php echo ($index == 0) ? 'active' : ''; ?>" aria-current="true" aria-label="Slide <?php echo $index + 1; ?>"></button>
+         <?php endforeach; ?>
+     </div>
+     <div class="carousel-inner">
+         <?php foreach ($sliderImages as $index => $slider): ?>
+             <div class="carousel-item <?php echo ($index == 0) ? 'active' : ''; ?>">
+                 <img src="./admin/uploads/sliders/<?php echo htmlspecialchars($slider['image']); ?>" class="d-block w-100" alt="Slider Image">
+             </div>
+         <?php endforeach; ?>
+     </div>
+     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+         <span class="visually-hidden">Previous</span>
+     </button>
+     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+         <span class="carousel-control-next-icon" aria-hidden="true"></span>
+         <span class="visually-hidden">Next</span>
+     </button>
+ </div>
 
  <!-- <div id="customAutoSlider" class="carousel slide" data-bs-ride="carousel">
      <div class="carousel-inner .">
@@ -268,7 +268,7 @@
                      <img src="assets/img/docotrs/ratnabushan.png" alt="" class="img-fluid">
                      <div class="doc_card_box_equp py-2 text-center">
                          <p class="doc_name_card">Dr. Ratna Bhushan </p>
-                         <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p>
+                         <!-- <p class="doc_card_small_text">B.D.S, M.D.S. Oral &</p> -->
                          <p class="doc_card_small_text">M.B.B.S., M.S., M.Ch., </p>
                          <p class="doc_card_small_text d-none d-md-block">(Plastic & Cosmetic Surgery)</p>
                          <p class="doc_card_small_text d-md-none">(Plastic & </p>
@@ -862,6 +862,7 @@
                  border-radius: 10px;
                  text-align: center;
                  box-shadow: 4px 4px 8px 8px rgba(0, 0, 0, 0.1);
+                 height: 300px;
 
 
              }
@@ -968,11 +969,10 @@
 
                                      <div class="testimonial-box ">
                                          <p class="description">
-                                             "The medical team here is highly professional and caring, making me
-                                             feel comfortable and well-supported throughout my treatment. The
-                                             quality of care exceeded my expectations."
-                                         </p>
-                                         <h3 class="title">-Lakshmi</h3>
+                                             "Dr Ashok. Kumar is the best neurosurego in kakinada in my family only 3 patient s is coming to here, his interaction with patients is very good his simplicity kindness and treatment way is very good and tq so much for communicate with patients like a family member tq so much sir
+                                             " </p>
+                                         <h3 class="title">
+                                             Lavanya Katta</h3>
                                      </div>
 
                                  </div>
@@ -983,12 +983,10 @@
                                  <div class="swiper-slide">
                                      <div class="testimonial-box ">
                                          <p class="description">
-                                             "The team at Neurostar Hospital provided exceptional care with
-                                             professionalism and empathy. My experience was seamless, and I highly
-                                             recommend their services."
+                                             "We are very happy with the varicose veins surgery done by Dr. SVR Krishna Sir The procedure went smoothly, and the patient is doing well post-surgery. The doctors and staff were very supportive and professional throughout. Thank you for the excellent care."
                                          </p>
 
-                                         <h3 class="title">-Ramesh </h3>
+                                         <h3 class="title">Hanshu989 </h3>
                                      </div>
                                  </div>
 
@@ -998,11 +996,9 @@
                                  <div class="swiper-slide">
                                      <div class="testimonial-box ">
                                          <p class="description">
-                                             "Neurostar Hospital provided top-notch care with a professional and
-                                             caring team. I felt well looked after, and my experience was positive
-                                             from start to finish."
+                                             "Very much docters and staff full support, good service fully satisfied Dr M ashok kumar garu treatment excellent day by day patient condition was explained well. Thank you docters and management and staff"
                                          </p>
-                                         <h3 class="title">-Bhoomika</h3>
+                                         <h3 class="title">Gangadhar Gampala</h3>
 
                                      </div>
                                  </div>
@@ -1013,11 +1009,9 @@
                              <div class="swiper-slide">
                                  <div class="testimonial-box ">
                                      <p class="description">
-                                         "The care I received was exceptional, with a compassionate and skilled
-                                         team that made me feel at ease. I highly recommend their services for
-                                         anyone seeking quality treatment."
+                                         "Ma daddy ni varicose veins prblm tho neurostar lo join chesam treatment very good and management and docters are chala baga treatment chesaru and very affordable costs. Satisfied."
                                      </p>
-                                     <h3 class="title">-Hema Latha</h3>
+                                     <h3 class="title">shiva charanmg</h3>
                                  </div>
                              </div>
 
